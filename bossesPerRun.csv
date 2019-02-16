@@ -1,0 +1,1513 @@
+﻿PlayId;Floor;PathName;PathType;EncounterName;EncounterType;EventName;PlayerChoice;DamageTaken;TurnsTaken;CharacterChosen;VictoryTF
+002ebabf-c144-4ca1-90f9-6c516a3ecfdd;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;39;10;IRONCLAD;true
+002ebabf-c144-4ca1-90f9-6c516a3ecfdd;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;21;6;IRONCLAD;true
+007abd4e-7fab-4e7d-8f0b-a8821d2fce43;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;10;5;IRONCLAD;true
+002ebabf-c144-4ca1-90f9-6c516a3ecfdd;50;boss;BOSS;Time Eater;encounter;NULL;NULL;51;7;IRONCLAD;true
+002ebabf-c144-4ca1-90f9-6c516a3ecfdd;56;boss;BOSS;The Heart;encounter;NULL;NULL;136;7;IRONCLAD;true
+002ebabf-c144-4ca1-90f9-6c516a3ecfdd;33;boss;BOSS;Champ;encounter;NULL;NULL;29;7;IRONCLAD;true
+00b27055-7cdd-4f02-abbb-612ef829b132;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;12;7;DEFECT;false
+00b27055-7cdd-4f02-abbb-612ef829b132;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;35;6;DEFECT;false
+007abd4e-7fab-4e7d-8f0b-a8821d2fce43;50;boss;BOSS;Time Eater;encounter;NULL;NULL;0;8;IRONCLAD;true
+007abd4e-7fab-4e7d-8f0b-a8821d2fce43;56;boss;BOSS;The Heart;encounter;NULL;NULL;8;4;IRONCLAD;true
+00b27055-7cdd-4f02-abbb-612ef829b132;50;boss;BOSS;Awakened One;encounter;NULL;NULL;58;9;DEFECT;false
+01019497-7689-4c92-8dbf-5e9d6fb60fad;33;boss;BOSS;Collector;encounter;NULL;NULL;37;6;IRONCLAD;false
+007abd4e-7fab-4e7d-8f0b-a8821d2fce43;33;boss;BOSS;Collector;encounter;NULL;NULL;6;3;IRONCLAD;true
+01019497-7689-4c92-8dbf-5e9d6fb60fad;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;26;9;IRONCLAD;false
+007abd4e-7fab-4e7d-8f0b-a8821d2fce43;51;boss;BOSS;Awakened One;encounter;NULL;NULL;12;4;IRONCLAD;true
+00b27055-7cdd-4f02-abbb-612ef829b132;33;boss;BOSS;Champ;encounter;NULL;NULL;30;10;DEFECT;false
+016fe2d2-4723-4558-aa81-f4980a023067;50;boss;BOSS;Awakened One;encounter;NULL;NULL;21;11;THE_SILENT;true
+016fe2d2-4723-4558-aa81-f4980a023067;56;boss;BOSS;The Heart;encounter;NULL;NULL;26;7;THE_SILENT;true
+016fe2d2-4723-4558-aa81-f4980a023067;16;boss;BOSS;The Guardian;encounter;NULL;NULL;10;9;THE_SILENT;true
+016fe2d2-4723-4558-aa81-f4980a023067;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;17;5;THE_SILENT;true
+02aa76ac-6fcb-4472-ab06-69397d59b747;16;boss;BOSS;The Guardian;encounter;NULL;NULL;11;11;DEFECT;false
+0308e65c-56f1-4e84-9caf-40f859474a96;33;boss;BOSS;Champ;encounter;NULL;NULL;27;11;IRONCLAD;true
+0308e65c-56f1-4e84-9caf-40f859474a96;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;7;6;IRONCLAD;true
+0308e65c-56f1-4e84-9caf-40f859474a96;51;boss;BOSS;Time Eater;encounter;NULL;NULL;9;11;IRONCLAD;true
+0308e65c-56f1-4e84-9caf-40f859474a96;50;boss;BOSS;Awakened One;encounter;NULL;NULL;6;9;IRONCLAD;true
+04b96b01-f7ad-4ae7-a673-0ea36deea815;16;boss;BOSS;The Guardian;encounter;NULL;NULL;5;9;THE_SILENT;false
+05bc9135-577c-44ca-b70e-3d18bf35b765;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;17;7;DEFECT;false
+05e77ba4-e367-43bd-b88c-e6a36d7da04e;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;23;9;THE_SILENT;true
+067243b2-0580-4ee4-875f-63ffad9e40cf;33;boss;BOSS;Collector;encounter;NULL;NULL;43;11;THE_SILENT;true
+067243b2-0580-4ee4-875f-63ffad9e40cf;56;boss;BOSS;The Heart;encounter;NULL;NULL;37;16;THE_SILENT;true
+06d20305-64f7-4ba2-9f71-0da40db370f7;50;boss;BOSS;Donu and Deca;encounter;NULL;NULL;45;6;DEFECT;false
+05e77ba4-e367-43bd-b88c-e6a36d7da04e;50;boss;BOSS;Time Eater;encounter;NULL;NULL;0;13;THE_SILENT;true
+05e77ba4-e367-43bd-b88c-e6a36d7da04e;56;boss;BOSS;The Heart;encounter;NULL;NULL;23;13;THE_SILENT;true
+067243b2-0580-4ee4-875f-63ffad9e40cf;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;25;14;THE_SILENT;true
+05e77ba4-e367-43bd-b88c-e6a36d7da04e;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;2;9;THE_SILENT;true
+067243b2-0580-4ee4-875f-63ffad9e40cf;50;boss;BOSS;Awakened One;encounter;NULL;NULL;0;26;THE_SILENT;true
+06d20305-64f7-4ba2-9f71-0da40db370f7;33;boss;BOSS;Collector;encounter;NULL;NULL;29;7;DEFECT;false
+07bc39d1-1c0b-4b86-9915-abd23aa95e3d;33;boss;BOSS;Collector;encounter;NULL;NULL;37;6;IRONCLAD;false
+07bc39d1-1c0b-4b86-9915-abd23aa95e3d;50;boss;BOSS;Donu and Deca;encounter;NULL;NULL;82;11;IRONCLAD;false
+0869f7f5-aa91-4ced-88b5-c63f15e3844e;33;boss;BOSS;Collector;encounter;NULL;NULL;0;8;THE_SILENT;true
+0869f7f5-aa91-4ced-88b5-c63f15e3844e;56;boss;BOSS;The Heart;encounter;NULL;NULL;0;8;THE_SILENT;true
+0874f74e-f7aa-4e98-b53d-84fe5820d137;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;26;10;IRONCLAD;false
+09009911-ff3c-4068-93a6-b9c0464f18ac;33;boss;BOSS;Automaton;encounter;NULL;NULL;8;6;THE_SILENT;false
+090ea214-faa5-444d-b39f-bc083d9870bf;50;boss;BOSS;Donu and Deca;encounter;NULL;NULL;0;11;DEFECT;true
+090ea214-faa5-444d-b39f-bc083d9870bf;56;boss;BOSS;The Heart;encounter;NULL;NULL;2;12;DEFECT;true
+0869f7f5-aa91-4ced-88b5-c63f15e3844e;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;1;7;THE_SILENT;true
+0874f74e-f7aa-4e98-b53d-84fe5820d137;50;boss;BOSS;Time Eater;encounter;NULL;NULL;72;8;IRONCLAD;false
+09009911-ff3c-4068-93a6-b9c0464f18ac;51;boss;BOSS;Awakened One;encounter;NULL;NULL;69;15;THE_SILENT;false
+090ea214-faa5-444d-b39f-bc083d9870bf;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;4;9;DEFECT;true
+0869f7f5-aa91-4ced-88b5-c63f15e3844e;50;boss;BOSS;Time Eater;encounter;NULL;NULL;1;14;THE_SILENT;true
+09009911-ff3c-4068-93a6-b9c0464f18ac;50;boss;BOSS;Time Eater;encounter;NULL;NULL;0;4;THE_SILENT;false
+090ea214-faa5-444d-b39f-bc083d9870bf;51;boss;BOSS;Time Eater;encounter;NULL;NULL;0;11;DEFECT;true
+0943b170-760a-40ff-87ad-3e9a58f8c6fd;33;boss;BOSS;Collector;encounter;NULL;NULL;102;8;IRONCLAD;false
+0b49d262-2823-4f81-a81e-7e3bf4fe8acd;16;boss;BOSS;The Guardian;encounter;NULL;NULL;8;12;THE_SILENT;true
+0c0682d1-e4ad-4280-ac88-f183ef66cdb9;16;boss;BOSS;The Guardian;encounter;NULL;NULL;30;10;DEFECT;false
+0c0682d1-e4ad-4280-ac88-f183ef66cdb9;51;boss;BOSS;Awakened One;encounter;NULL;NULL;8;3;DEFECT;false
+0b49d262-2823-4f81-a81e-7e3bf4fe8acd;50;boss;BOSS;Awakened One;encounter;NULL;NULL;16;13;THE_SILENT;true
+0b49d262-2823-4f81-a81e-7e3bf4fe8acd;56;boss;BOSS;The Heart;encounter;NULL;NULL;7;4;THE_SILENT;true
+0b49d262-2823-4f81-a81e-7e3bf4fe8acd;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;0;11;THE_SILENT;true
+0c0682d1-e4ad-4280-ac88-f183ef66cdb9;33;boss;BOSS;Champ;encounter;NULL;NULL;8;15;DEFECT;false
+0c0682d1-e4ad-4280-ac88-f183ef66cdb9;50;boss;BOSS;Donu and Deca;encounter;NULL;NULL;21;12;DEFECT;false
+0cecbec2-a200-4b0f-999d-58a7ae9b56b1;50;boss;BOSS;Time Eater;encounter;NULL;NULL;55;9;THE_SILENT;false
+0d225781-3525-405a-9161-d8f97af45d00;33;boss;BOSS;Collector;encounter;NULL;NULL;87;9;IRONCLAD;false
+0d7584d6-1da3-498e-9775-3317c497b574;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;53;9;IRONCLAD;true
+0cecbec2-a200-4b0f-999d-58a7ae9b56b1;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;10;8;THE_SILENT;false
+0d1a4eaf-179a-4794-b594-e106d29aab60;16;boss;BOSS;The Guardian;encounter;NULL;NULL;21;13;IRONCLAD;false
+0d7584d6-1da3-498e-9775-3317c497b574;50;boss;BOSS;Donu and Deca;encounter;NULL;NULL;49;6;IRONCLAD;true
+0d7584d6-1da3-498e-9775-3317c497b574;33;boss;BOSS;Automaton;encounter;NULL;NULL;88;9;IRONCLAD;true
+0d7584d6-1da3-498e-9775-3317c497b574;56;boss;BOSS;The Heart;encounter;NULL;NULL;91;8;IRONCLAD;true
+0db77092-23e6-4dab-8706-1c10f88697b8;33;boss;BOSS;Champ;encounter;NULL;NULL;94;15;THE_SILENT;false
+0e0a5cc2-124c-42e1-afac-5aeef1615528;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;6;10;THE_SILENT;false
+0e7087c6-f7ef-4ec7-ad0c-5819a6385b08;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;41;9;DEFECT;false
+0fa709f9-ec0b-4fbd-8848-612407c2ea59;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;42;11;THE_SILENT;false
+0fe41590-6550-4402-8de5-a8c7daba2afd;50;boss;BOSS;Awakened One;encounter;NULL;NULL;27;15;THE_SILENT;true
+10b23920-61a9-4a95-a7c2-b157d6eb4ed4;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;14;8;DEFECT;false
+0fe41590-6550-4402-8de5-a8c7daba2afd;33;boss;BOSS;Automaton;encounter;NULL;NULL;15;9;THE_SILENT;true
+0fe41590-6550-4402-8de5-a8c7daba2afd;56;boss;BOSS;The Heart;encounter;NULL;NULL;58;8;THE_SILENT;true
+109a2fa9-b2b2-45df-9709-1982f5d442a7;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;47;8;THE_SILENT;false
+1135cec8-9120-46fb-83f8-c56ac91c1991;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;29;9;DEFECT;false
+127b041a-12bd-4033-aaf1-ad5dc7076e67;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;19;7;DEFECT;true
+127b041a-12bd-4033-aaf1-ad5dc7076e67;33;boss;BOSS;Collector;encounter;NULL;NULL;26;9;DEFECT;true
+127b041a-12bd-4033-aaf1-ad5dc7076e67;56;boss;BOSS;The Heart;encounter;NULL;NULL;51;9;DEFECT;true
+132a7fcc-3e40-4356-a71d-07be5f4bfa8b;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;32;10;THE_SILENT;false
+127b041a-12bd-4033-aaf1-ad5dc7076e67;50;boss;BOSS;Time Eater;encounter;NULL;NULL;24;14;DEFECT;true
+1373e0ae-5391-4200-839d-73d8633b2d1d;50;boss;BOSS;Donu and Deca;encounter;NULL;NULL;11;13;THE_SILENT;true
+13d7b27b-ce93-4806-ad7d-d4a1cbfaf031;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;20;8;DEFECT;false
+14b77026-2fa2-4b1b-8d9c-36fd4426eea7;16;boss;BOSS;The Guardian;encounter;NULL;NULL;21;12;DEFECT;false
+14e0d60f-75d2-4b41-b2bc-72298cd5ab26;16;boss;BOSS;The Guardian;encounter;NULL;NULL;11;18;THE_SILENT;true
+13d7b27b-ce93-4806-ad7d-d4a1cbfaf031;50;boss;BOSS;Donu and Deca;encounter;NULL;NULL;49;7;DEFECT;false
+132a7fcc-3e40-4356-a71d-07be5f4bfa8b;33;boss;BOSS;Automaton;encounter;NULL;NULL;3;8;THE_SILENT;false
+1373e0ae-5391-4200-839d-73d8633b2d1d;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;10;10;THE_SILENT;true
+14e0d60f-75d2-4b41-b2bc-72298cd5ab26;51;boss;BOSS;Awakened One;encounter;NULL;NULL;60;16;THE_SILENT;true
+14e0d60f-75d2-4b41-b2bc-72298cd5ab26;56;boss;BOSS;The Heart;encounter;NULL;NULL;72;10;THE_SILENT;true
+1373e0ae-5391-4200-839d-73d8633b2d1d;51;boss;BOSS;Time Eater;encounter;NULL;NULL;4;13;THE_SILENT;true
+1377a96b-36da-4af9-b2bc-b61a9ffba4c5;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;55;22;THE_SILENT;false
+13d7b27b-ce93-4806-ad7d-d4a1cbfaf031;51;boss;BOSS;Awakened One;encounter;NULL;NULL;30;18;DEFECT;false
+14b77026-2fa2-4b1b-8d9c-36fd4426eea7;50;boss;BOSS;Time Eater;encounter;NULL;NULL;69;11;DEFECT;false
+1669ba25-cf46-4f98-b5e5-63c1c417935e;33;boss;BOSS;Automaton;encounter;NULL;NULL;40;8;THE_SILENT;false
+16ab596c-070b-4419-b325-23c4aa856cdc;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;26;9;DEFECT;false
+1669ba25-cf46-4f98-b5e5-63c1c417935e;51;boss;BOSS;Awakened One;encounter;NULL;NULL;18;18;THE_SILENT;false
+14e0d60f-75d2-4b41-b2bc-72298cd5ab26;50;boss;BOSS;Donu and Deca;encounter;NULL;NULL;0;7;THE_SILENT;true
+17814037-77a0-4843-8767-4814701d2142;50;boss;BOSS;Donu and Deca;encounter;NULL;NULL;0;9;THE_SILENT;false
+17814037-77a0-4843-8767-4814701d2142;33;boss;BOSS;Collector;encounter;NULL;NULL;39;7;THE_SILENT;false
+1669ba25-cf46-4f98-b5e5-63c1c417935e;16;boss;BOSS;The Guardian;encounter;NULL;NULL;7;9;THE_SILENT;false
+1890469e-03a3-442d-b778-27bb02a48713;33;boss;BOSS;Automaton;encounter;NULL;NULL;19;10;THE_SILENT;true
+1890469e-03a3-442d-b778-27bb02a48713;50;boss;BOSS;Time Eater;encounter;NULL;NULL;0;7;THE_SILENT;true
+1890469e-03a3-442d-b778-27bb02a48713;56;boss;BOSS;The Heart;encounter;NULL;NULL;17;7;THE_SILENT;true
+19cd0daa-0828-4e77-8bca-4aa46e079a06;33;boss;BOSS;Automaton;encounter;NULL;NULL;8;9;THE_SILENT;false
+1ba767fe-b8ed-47a0-b050-cc86da2fbb23;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;15;7;DEFECT;false
+19cd0daa-0828-4e77-8bca-4aa46e079a06;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;56;10;THE_SILENT;false
+1ba767fe-b8ed-47a0-b050-cc86da2fbb23;51;boss;BOSS;Time Eater;encounter;NULL;NULL;37;7;DEFECT;false
+1ba767fe-b8ed-47a0-b050-cc86da2fbb23;33;boss;BOSS;Collector;encounter;NULL;NULL;11;5;DEFECT;false
+1ba767fe-b8ed-47a0-b050-cc86da2fbb23;50;boss;BOSS;Awakened One;encounter;NULL;NULL;18;9;DEFECT;false
+1ba767fe-b8ed-47a0-b050-cc86da2fbb23;56;boss;BOSS;The Heart;encounter;NULL;NULL;30;2;DEFECT;false
+1caa3726-ac4b-4c81-bf98-e99e104fb3a9;50;boss;BOSS;Awakened One;encounter;NULL;NULL;70;34;IRONCLAD;false
+1caa3726-ac4b-4c81-bf98-e99e104fb3a9;16;boss;BOSS;The Guardian;encounter;NULL;NULL;35;9;IRONCLAD;false
+1e28b5a9-f79d-41b6-be2e-1f9a8caedfd6;50;boss;BOSS;Donu and Deca;encounter;NULL;NULL;94;6;IRONCLAD;false
+1e7e198c-e2e9-4b87-9fd6-0cb82a0050cd;33;boss;BOSS;Collector;encounter;NULL;NULL;63;6;IRONCLAD;false
+1caa3726-ac4b-4c81-bf98-e99e104fb3a9;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;62;7;IRONCLAD;false
+1ee13e8e-9e6f-476d-b0e4-168ac31d1aa3;33;boss;BOSS;Collector;encounter;NULL;NULL;65;11;DEFECT;false
+1e28b5a9-f79d-41b6-be2e-1f9a8caedfd6;33;boss;BOSS;Collector;encounter;NULL;NULL;52;7;IRONCLAD;false
+1e28b5a9-f79d-41b6-be2e-1f9a8caedfd6;16;boss;BOSS;The Guardian;encounter;NULL;NULL;38;12;IRONCLAD;false
+1e7e198c-e2e9-4b87-9fd6-0cb82a0050cd;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;26;5;IRONCLAD;false
+1f88b8c3-46e7-49f6-b738-479d009b5a7f;50;boss;BOSS;Time Eater;encounter;NULL;NULL;48;15;THE_SILENT;true
+1fde5a61-b7f0-41fc-aa93-55fdcd48953b;50;boss;BOSS;Time Eater;encounter;NULL;NULL;9;15;DEFECT;true
+1fde5a61-b7f0-41fc-aa93-55fdcd48953b;56;boss;BOSS;The Heart;encounter;NULL;NULL;22;10;DEFECT;true
+1ee13e8e-9e6f-476d-b0e4-168ac31d1aa3;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;35;11;DEFECT;false
+1f88b8c3-46e7-49f6-b738-479d009b5a7f;33;boss;BOSS;Automaton;encounter;NULL;NULL;5;9;THE_SILENT;true
+1f88b8c3-46e7-49f6-b738-479d009b5a7f;56;boss;BOSS;The Heart;encounter;NULL;NULL;5;15;THE_SILENT;true
+1fde5a61-b7f0-41fc-aa93-55fdcd48953b;33;boss;BOSS;Automaton;encounter;NULL;NULL;0;12;DEFECT;true
+2134ae57-699d-4f63-b7ee-76c9e61308b4;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;34;12;THE_SILENT;false
+2166d6b2-540a-4503-84ba-7d17af44efad;33;boss;BOSS;Champ;encounter;NULL;NULL;71;13;THE_SILENT;false
+2166d6b2-540a-4503-84ba-7d17af44efad;56;boss;BOSS;The Heart;encounter;NULL;NULL;129;8;THE_SILENT;false
+1fde5a61-b7f0-41fc-aa93-55fdcd48953b;16;boss;BOSS;The Guardian;encounter;NULL;NULL;0;14;DEFECT;true
+220136f1-0530-4c97-96e0-80e282d7901a;50;boss;BOSS;Time Eater;encounter;NULL;NULL;51;11;IRONCLAD;true
+2134ae57-699d-4f63-b7ee-76c9e61308b4;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;0;13;THE_SILENT;false
+21ea148b-30a6-43d9-a791-757abacb1953;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;14;6;IRONCLAD;false
+2273a356-6804-44b0-b08e-49012e9ebc5c;33;boss;BOSS;Champ;encounter;NULL;NULL;4;17;THE_SILENT;false
+228312c6-afb3-457f-8310-c2796786bd96;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;41;11;DEFECT;false
+2134ae57-699d-4f63-b7ee-76c9e61308b4;50;boss;BOSS;Awakened One;encounter;NULL;NULL;15;14;THE_SILENT;false
+2166d6b2-540a-4503-84ba-7d17af44efad;16;boss;BOSS;The Guardian;encounter;NULL;NULL;20;14;THE_SILENT;false
+2166d6b2-540a-4503-84ba-7d17af44efad;51;boss;BOSS;Awakened One;encounter;NULL;NULL;26;17;THE_SILENT;false
+220136f1-0530-4c97-96e0-80e282d7901a;33;boss;BOSS;Automaton;encounter;NULL;NULL;79;12;IRONCLAD;true
+220136f1-0530-4c97-96e0-80e282d7901a;56;boss;BOSS;The Heart;encounter;NULL;NULL;72;8;IRONCLAD;true
+2273a356-6804-44b0-b08e-49012e9ebc5c;50;boss;BOSS;Time Eater;encounter;NULL;NULL;7;19;THE_SILENT;false
+2273a356-6804-44b0-b08e-49012e9ebc5c;56;boss;BOSS;The Heart;encounter;NULL;NULL;59;5;THE_SILENT;false
+23fe6ece-05cf-4d48-955f-3356fd25d4c8;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;10;9;THE_SILENT;true
+21ea148b-30a6-43d9-a791-757abacb1953;33;boss;BOSS;Champ;encounter;NULL;NULL;38;8;IRONCLAD;false
+23be576a-15e4-4f8a-b4b6-27742857fe5f;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;28;7;IRONCLAD;false
+258a7ba6-9b9d-4ff0-b289-9958cccc9ff6;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;1;3;IRONCLAD;false
+23fe6ece-05cf-4d48-955f-3356fd25d4c8;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;10;6;THE_SILENT;true
+246fcb9d-f533-425e-bd10-6eca02163b9e;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;26;4;IRONCLAD;false
+23fe6ece-05cf-4d48-955f-3356fd25d4c8;33;boss;BOSS;Champ;encounter;NULL;NULL;0;13;THE_SILENT;true
+23fe6ece-05cf-4d48-955f-3356fd25d4c8;56;boss;BOSS;The Heart;encounter;NULL;NULL;30;11;THE_SILENT;true
+28d46f31-dd2f-4ffb-b711-caea0cc6f632;33;boss;BOSS;Collector;encounter;NULL;NULL;32;10;DEFECT;true
+298c81b4-4750-4d1f-8505-b53da184efa5;33;boss;BOSS;Automaton;encounter;NULL;NULL;58;11;IRONCLAD;true
+28d46f31-dd2f-4ffb-b711-caea0cc6f632;50;boss;BOSS;Time Eater;encounter;NULL;NULL;44;6;DEFECT;true
+28d46f31-dd2f-4ffb-b711-caea0cc6f632;56;boss;BOSS;The Heart;encounter;NULL;NULL;52;10;DEFECT;true
+27ef0384-0f03-4e7d-b1bf-3ea7c3c75c63;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;2;7;IRONCLAD;false
+2898d803-636d-422b-a6b4-c20d86c4dfa5;16;boss;BOSS;The Guardian;encounter;NULL;NULL;20;10;DEFECT;false
+298c81b4-4750-4d1f-8505-b53da184efa5;50;boss;BOSS;Awakened One;encounter;NULL;NULL;13;13;IRONCLAD;true
+29cddd7e-1ca3-4215-a07a-d92c322afe15;33;boss;BOSS;Automaton;encounter;NULL;NULL;24;11;IRONCLAD;false
+2af54f4c-9f0f-4518-9b02-347da5927450;33;boss;BOSS;Champ;encounter;NULL;NULL;51;21;IRONCLAD;true
+2af54f4c-9f0f-4518-9b02-347da5927450;56;boss;BOSS;The Heart;encounter;NULL;NULL;71;8;IRONCLAD;true
+2941d268-da0c-49f8-a718-2e71f2b62b18;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;14;9;DEFECT;false
+298c81b4-4750-4d1f-8505-b53da184efa5;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;34;9;IRONCLAD;true
+2a06d16c-d5d1-4cb1-98c1-dfba29312e02;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;28;11;THE_SILENT;false
+2a398106-8660-4426-8227-cac3377fd7fc;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;20;9;THE_SILENT;false
+2a398106-8660-4426-8227-cac3377fd7fc;51;boss;BOSS;Time Eater;encounter;NULL;NULL;41;8;THE_SILENT;false
+2c6c9846-1f7e-4b25-a341-37dd351d7e00;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;37;15;DEFECT;true
+2caf7861-fd8a-4878-8e4d-99373d024cec;33;boss;BOSS;Champ;encounter;NULL;NULL;8;21;THE_SILENT;false
+29cddd7e-1ca3-4215-a07a-d92c322afe15;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;3;7;IRONCLAD;false
+29cddd7e-1ca3-4215-a07a-d92c322afe15;51;boss;BOSS;Time Eater;encounter;NULL;NULL;24;20;IRONCLAD;false
+2af54f4c-9f0f-4518-9b02-347da5927450;50;boss;BOSS;Time Eater;encounter;NULL;NULL;54;9;IRONCLAD;true
+2c6c9846-1f7e-4b25-a341-37dd351d7e00;33;boss;BOSS;Champ;encounter;NULL;NULL;0;13;DEFECT;true
+2c6c9846-1f7e-4b25-a341-37dd351d7e00;56;boss;BOSS;The Heart;encounter;NULL;NULL;39;11;DEFECT;true
+2cb100bf-eb4a-424b-b0d3-23c744629d4d;33;boss;BOSS;Automaton;encounter;NULL;NULL;10;10;THE_SILENT;false
+2a398106-8660-4426-8227-cac3377fd7fc;50;boss;BOSS;Awakened One;encounter;NULL;NULL;28;19;THE_SILENT;false
+2af54f4c-9f0f-4518-9b02-347da5927450;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;53;8;IRONCLAD;true
+2c76460f-81df-4dc8-b448-4e06bbbb6c2a;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;51;9;DEFECT;false
+2cb100bf-eb4a-424b-b0d3-23c744629d4d;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;15;10;THE_SILENT;false
+2cb100bf-eb4a-424b-b0d3-23c744629d4d;51;boss;BOSS;Time Eater;encounter;NULL;NULL;58;18;THE_SILENT;false
+2e6c3bd2-ebcd-4b05-9e7c-bc2184478683;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;15;7;DEFECT;false
+2c6c9846-1f7e-4b25-a341-37dd351d7e00;50;boss;BOSS;Awakened One;encounter;NULL;NULL;21;12;DEFECT;true
+2caf7861-fd8a-4878-8e4d-99373d024cec;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;0;9;THE_SILENT;false
+2caf7861-fd8a-4878-8e4d-99373d024cec;51;boss;BOSS;Time Eater;encounter;NULL;NULL;2;14;THE_SILENT;false
+2f8700fb-7671-4e68-b603-3662ff9defe3;16;boss;BOSS;The Guardian;encounter;NULL;NULL;32;11;DEFECT;false
+302f5136-958b-476e-bbca-dc9f961d4f04;16;boss;BOSS;The Guardian;encounter;NULL;NULL;15;16;IRONCLAD;true
+2cb100bf-eb4a-424b-b0d3-23c744629d4d;50;boss;BOSS;Donu and Deca;encounter;NULL;NULL;25;14;THE_SILENT;false
+302f5136-958b-476e-bbca-dc9f961d4f04;51;boss;BOSS;Awakened One;encounter;NULL;NULL;56;12;IRONCLAD;true
+31bd1e1c-a3e4-4bdd-8678-311c3a3c9565;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;7;12;THE_SILENT;false
+312a1880-d7f2-45eb-b78c-9804224e3bd5;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;40;9;IRONCLAD;false
+325820d6-8536-4aad-8bf1-104a88607b8d;16;boss;BOSS;The Guardian;encounter;NULL;NULL;21;12;DEFECT;false
+325eae9c-1995-4710-ab60-0c0cc40bbf72;50;boss;BOSS;Time Eater;encounter;NULL;NULL;40;15;THE_SILENT;false
+302f5136-958b-476e-bbca-dc9f961d4f04;50;boss;BOSS;Donu and Deca;encounter;NULL;NULL;20;17;IRONCLAD;true
+31bd1e1c-a3e4-4bdd-8678-311c3a3c9565;33;boss;BOSS;Champ;encounter;NULL;NULL;39;9;THE_SILENT;false
+33080cfb-9eb2-442b-98ba-acc3ec7b154f;16;boss;BOSS;The Guardian;encounter;NULL;NULL;35;10;IRONCLAD;false
+325820d6-8536-4aad-8bf1-104a88607b8d;51;boss;BOSS;Time Eater;encounter;NULL;NULL;1;19;DEFECT;false
+325eae9c-1995-4710-ab60-0c0cc40bbf72;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;16;7;THE_SILENT;false
+325eae9c-1995-4710-ab60-0c0cc40bbf72;51;boss;BOSS;Awakened One;encounter;NULL;NULL;3;19;THE_SILENT;false
+32f85a8a-b3ac-4e4d-a0c9-b204d313eba7;33;boss;BOSS;Collector;encounter;NULL;NULL;6;6;THE_SILENT;false
+325820d6-8536-4aad-8bf1-104a88607b8d;50;boss;BOSS;Awakened One;encounter;NULL;NULL;25;22;DEFECT;false
+325eae9c-1995-4710-ab60-0c0cc40bbf72;33;boss;BOSS;Automaton;encounter;NULL;NULL;21;11;THE_SILENT;false
+368ab1f9-c517-4794-9d20-780bf9d2edc6;50;boss;BOSS;Time Eater;encounter;NULL;NULL;0;3;THE_SILENT;true
+36a23815-a76e-4dea-922e-3c0afb99bef4;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;0;10;THE_SILENT;false
+37097f6d-25b5-4583-b08e-2fc227b92276;50;boss;BOSS;Donu and Deca;encounter;NULL;NULL;6;10;DEFECT;true
+3555b1cf-6baa-4480-85d3-ba6a5b4c5a8e;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;29;10;THE_SILENT;false
+358b57eb-58a3-4ed7-9551-45ad9baaf0bb;16;boss;BOSS;The Guardian;encounter;NULL;NULL;27;12;DEFECT;false
+358b57eb-58a3-4ed7-9551-45ad9baaf0bb;51;boss;BOSS;Awakened One;encounter;NULL;NULL;53;5;DEFECT;false
+372d98a9-52af-4ee2-8f18-88ecdcd34bb0;50;boss;BOSS;Time Eater;encounter;NULL;NULL;16;17;THE_SILENT;true
+372d98a9-52af-4ee2-8f18-88ecdcd34bb0;56;boss;BOSS;The Heart;encounter;NULL;NULL;32;12;THE_SILENT;true
+379f0f28-a164-410c-af3a-ac28d8d359d3;16;boss;BOSS;The Guardian;encounter;NULL;NULL;3;12;IRONCLAD;true
+368ab1f9-c517-4794-9d20-780bf9d2edc6;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;4;6;THE_SILENT;true
+368ab1f9-c517-4794-9d20-780bf9d2edc6;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;0;5;THE_SILENT;true
+37097f6d-25b5-4583-b08e-2fc227b92276;51;boss;BOSS;Awakened One;encounter;NULL;NULL;14;18;DEFECT;true
+379f0f28-a164-410c-af3a-ac28d8d359d3;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;12;5;IRONCLAD;true
+3811d6bf-1020-451d-a3dc-9ea47fd1d3e8;33;boss;BOSS;Champ;encounter;NULL;NULL;5;9;THE_SILENT;true
+3811d6bf-1020-451d-a3dc-9ea47fd1d3e8;50;boss;BOSS;Time Eater;encounter;NULL;NULL;15;10;THE_SILENT;true
+3811d6bf-1020-451d-a3dc-9ea47fd1d3e8;56;boss;BOSS;The Heart;encounter;NULL;NULL;6;7;THE_SILENT;true
+358b57eb-58a3-4ed7-9551-45ad9baaf0bb;50;boss;BOSS;Time Eater;encounter;NULL;NULL;63;9;DEFECT;false
+3a741ed3-00b2-40a3-bfcf-4f336ebfc180;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;8;10;THE_SILENT;false
+37097f6d-25b5-4583-b08e-2fc227b92276;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;21;11;DEFECT;true
+3a741ed3-00b2-40a3-bfcf-4f336ebfc180;33;boss;BOSS;Automaton;encounter;NULL;NULL;43;10;THE_SILENT;false
+3a7a2abe-64ca-47d3-9014-70360274210c;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;21;8;THE_SILENT;false
+3ad1f822-0b7c-492c-9f20-2643c70eb4d9;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;12;7;DEFECT;true
+3a7a2abe-64ca-47d3-9014-70360274210c;33;boss;BOSS;Collector;encounter;NULL;NULL;20;8;THE_SILENT;false
+372d98a9-52af-4ee2-8f18-88ecdcd34bb0;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;1;11;THE_SILENT;true
+372d98a9-52af-4ee2-8f18-88ecdcd34bb0;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;23;15;THE_SILENT;true
+3ad1f822-0b7c-492c-9f20-2643c70eb4d9;51;boss;BOSS;Awakened One;encounter;NULL;NULL;0;14;DEFECT;true
+3b0c59b5-ade3-47c9-8fd4-b6b6ddd92eeb;50;boss;BOSS;Donu and Deca;encounter;NULL;NULL;11;7;DEFECT;false
+3b0c59b5-ade3-47c9-8fd4-b6b6ddd92eeb;33;boss;BOSS;Automaton;encounter;NULL;NULL;8;8;DEFECT;false
+3b0c59b5-ade3-47c9-8fd4-b6b6ddd92eeb;56;boss;BOSS;The Heart;encounter;NULL;NULL;60;6;DEFECT;false
+379f0f28-a164-410c-af3a-ac28d8d359d3;50;boss;BOSS;Time Eater;encounter;NULL;NULL;10;6;IRONCLAD;true
+379f0f28-a164-410c-af3a-ac28d8d359d3;56;boss;BOSS;The Heart;encounter;NULL;NULL;150;10;IRONCLAD;true
+3811d6bf-1020-451d-a3dc-9ea47fd1d3e8;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;1;9;THE_SILENT;true
+3811d6bf-1020-451d-a3dc-9ea47fd1d3e8;51;boss;BOSS;Awakened One;encounter;NULL;NULL;23;15;THE_SILENT;true
+3c347e67-4b05-4377-af49-a39d049f0a8f;33;boss;BOSS;Automaton;encounter;NULL;NULL;54;8;IRONCLAD;true
+3c347e67-4b05-4377-af49-a39d049f0a8f;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;18;6;IRONCLAD;true
+3a7a2abe-64ca-47d3-9014-70360274210c;50;boss;BOSS;Awakened One;encounter;NULL;NULL;77;5;THE_SILENT;false
+3d42cc1d-0ec3-463e-98e1-a1d448867d7b;33;boss;BOSS;Automaton;encounter;NULL;NULL;32;5;IRONCLAD;true
+3d6a5e58-d67c-4347-989f-83905e3fec01;33;boss;BOSS;Automaton;encounter;NULL;NULL;128;12;IRONCLAD;false
+3d42cc1d-0ec3-463e-98e1-a1d448867d7b;50;boss;BOSS;Time Eater;encounter;NULL;NULL;16;3;IRONCLAD;true
+3d42cc1d-0ec3-463e-98e1-a1d448867d7b;56;boss;BOSS;The Heart;encounter;NULL;NULL;110;6;IRONCLAD;true
+3d6a5e58-d67c-4347-989f-83905e3fec01;16;boss;BOSS;The Guardian;encounter;NULL;NULL;48;18;IRONCLAD;false
+3ad1f822-0b7c-492c-9f20-2643c70eb4d9;33;boss;BOSS;Automaton;encounter;NULL;NULL;4;9;DEFECT;true
+3ad1f822-0b7c-492c-9f20-2643c70eb4d9;56;boss;BOSS;The Heart;encounter;NULL;NULL;8;11;DEFECT;true
+3bfb51a5-2095-4e64-90c4-83079d434a10;16;boss;BOSS;The Guardian;encounter;NULL;NULL;35;17;IRONCLAD;false
+3e905bdb-b6b7-4780-a3e3-183d39c616b7;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;24;5;IRONCLAD;false
+3c347e67-4b05-4377-af49-a39d049f0a8f;51;boss;BOSS;Time Eater;encounter;NULL;NULL;32;16;IRONCLAD;true
+3f978574-08a8-4c61-a1a0-5fc404d0337e;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;9;9;THE_SILENT;true
+3f978574-08a8-4c61-a1a0-5fc404d0337e;51;boss;BOSS;Time Eater;encounter;NULL;NULL;0;4;THE_SILENT;true
+3feeb043-ff9a-4044-9e42-c90f16beed8a;33;boss;BOSS;Champ;encounter;NULL;NULL;24;10;DEFECT;true
+3d42cc1d-0ec3-463e-98e1-a1d448867d7b;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;47;6;IRONCLAD;true
+408dd5ce-c75e-4373-a548-67f1f23edec4;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;8;8;DEFECT;false
+3feeb043-ff9a-4044-9e42-c90f16beed8a;50;boss;BOSS;Time Eater;encounter;NULL;NULL;9;13;DEFECT;true
+3feeb043-ff9a-4044-9e42-c90f16beed8a;56;boss;BOSS;The Heart;encounter;NULL;NULL;1;8;DEFECT;true
+4235f560-cc2d-493f-b3e1-79cd826db8eb;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;41;7;IRONCLAD;false
+429808f1-882b-43d3-b114-45840f33f324;33;boss;BOSS;Automaton;encounter;NULL;NULL;2;14;DEFECT;true
+408dd5ce-c75e-4373-a548-67f1f23edec4;33;boss;BOSS;Champ;encounter;NULL;NULL;63;12;DEFECT;false
+3ecdca62-8d99-4cc5-ae11-f69a194b7d29;16;boss;BOSS;The Guardian;encounter;NULL;NULL;12;15;DEFECT;false
+42a212fe-f345-4cfa-96d2-78770d1ba474;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;37;7;IRONCLAD;false
+42a5f5fc-ba7f-4d56-80f4-0a92eb4c0024;16;boss;BOSS;The Guardian;encounter;NULL;NULL;11;11;DEFECT;false
+429808f1-882b-43d3-b114-45840f33f324;16;boss;BOSS;The Guardian;encounter;NULL;NULL;15;8;DEFECT;true
+42a212fe-f345-4cfa-96d2-78770d1ba474;33;boss;BOSS;Automaton;encounter;NULL;NULL;46;6;IRONCLAD;false
+42a212fe-f345-4cfa-96d2-78770d1ba474;56;boss;BOSS;The Heart;encounter;NULL;NULL;56;6;IRONCLAD;false
+3f831501-b763-4afd-a35c-16858cfcdc37;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;47;9;IRONCLAD;false
+3f978574-08a8-4c61-a1a0-5fc404d0337e;33;boss;BOSS;Collector;encounter;NULL;NULL;35;7;THE_SILENT;true
+3f978574-08a8-4c61-a1a0-5fc404d0337e;56;boss;BOSS;The Heart;encounter;NULL;NULL;0;7;THE_SILENT;true
+430009bd-3eb4-4dcb-92e8-05889ad8e23b;33;boss;BOSS;Automaton;encounter;NULL;NULL;31;12;DEFECT;false
+4344a3a7-0058-4138-91f1-18e7496bcca0;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;43;7;IRONCLAD;false
+43c436a3-4846-41bf-808d-d05b8eb1b4f5;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;27;12;DEFECT;false
+43d2194a-b633-4b54-ac53-9892f950c66c;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;14;10;IRONCLAD;true
+44e09265-9e44-440c-bca7-3a811638326e;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;11;11;THE_SILENT;true
+44e09265-9e44-440c-bca7-3a811638326e;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;26;8;THE_SILENT;true
+43d2194a-b633-4b54-ac53-9892f950c66c;33;boss;BOSS;Collector;encounter;NULL;NULL;20;3;IRONCLAD;true
+43d2194a-b633-4b54-ac53-9892f950c66c;56;boss;BOSS;The Heart;encounter;NULL;NULL;64;6;IRONCLAD;true
+44e09265-9e44-440c-bca7-3a811638326e;33;boss;BOSS;Collector;encounter;NULL;NULL;0;8;THE_SILENT;true
+4657c1d2-8ee5-485f-962a-4dab6a6948f9;16;boss;BOSS;The Guardian;encounter;NULL;NULL;31;12;IRONCLAD;true
+429808f1-882b-43d3-b114-45840f33f324;51;boss;BOSS;Awakened One;encounter;NULL;NULL;0;19;DEFECT;true
+42a212fe-f345-4cfa-96d2-78770d1ba474;50;boss;BOSS;Donu and Deca;encounter;NULL;NULL;49;6;IRONCLAD;false
+4306a1dd-48cd-42ec-800f-0e6961f2c1f3;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;40;9;DEFECT;false
+4657c1d2-8ee5-485f-962a-4dab6a6948f9;50;boss;BOSS;Awakened One;encounter;NULL;NULL;49;11;IRONCLAD;true
+4657c1d2-8ee5-485f-962a-4dab6a6948f9;51;boss;BOSS;Time Eater;encounter;NULL;NULL;65;13;IRONCLAD;true
+468b0c77-2ad4-420e-b0d5-6a2720899ebf;16;boss;BOSS;The Guardian;encounter;NULL;NULL;2;9;DEFECT;true
+468b0c77-2ad4-420e-b0d5-6a2720899ebf;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;0;6;DEFECT;true
+468b0c77-2ad4-420e-b0d5-6a2720899ebf;33;boss;BOSS;Champ;encounter;NULL;NULL;1;20;DEFECT;true
+46fd67a9-8d48-4fdf-8cae-98ea57ce61d6;33;boss;BOSS;Collector;encounter;NULL;NULL;107;9;IRONCLAD;false
+4717ecbf-c853-4964-997b-4bc491e9240f;50;boss;BOSS;Time Eater;encounter;NULL;NULL;30;30;DEFECT;false
+43d2194a-b633-4b54-ac53-9892f950c66c;51;boss;BOSS;Time Eater;encounter;NULL;NULL;45;4;IRONCLAD;true
+46fd67a9-8d48-4fdf-8cae-98ea57ce61d6;16;boss;BOSS;The Guardian;encounter;NULL;NULL;30;15;IRONCLAD;false
+4717ecbf-c853-4964-997b-4bc491e9240f;33;boss;BOSS;Automaton;encounter;NULL;NULL;34;9;DEFECT;false
+4717ecbf-c853-4964-997b-4bc491e9240f;56;boss;BOSS;The Heart;encounter;NULL;NULL;16;3;DEFECT;false
+477497ea-d538-4220-a59d-b25820fe7b56;16;boss;BOSS;The Guardian;encounter;NULL;NULL;13;10;IRONCLAD;true
+4657c1d2-8ee5-485f-962a-4dab6a6948f9;33;boss;BOSS;Collector;encounter;NULL;NULL;8;11;IRONCLAD;true
+4657c1d2-8ee5-485f-962a-4dab6a6948f9;56;boss;BOSS;The Heart;encounter;NULL;NULL;55;8;IRONCLAD;true
+477497ea-d538-4220-a59d-b25820fe7b56;33;boss;BOSS;Collector;encounter;NULL;NULL;67;10;IRONCLAD;true
+485eea08-08c7-4a1b-9d7f-ef1c8eb62738;50;boss;BOSS;Donu and Deca;encounter;NULL;NULL;5;12;THE_SILENT;true
+485eea08-08c7-4a1b-9d7f-ef1c8eb62738;56;boss;BOSS;The Heart;encounter;NULL;NULL;46;11;THE_SILENT;true
+48bbf003-f6fe-4f83-a599-62464babc068;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;25;8;IRONCLAD;true
+468b0c77-2ad4-420e-b0d5-6a2720899ebf;56;boss;BOSS;The Heart;encounter;NULL;NULL;25;8;DEFECT;true
+485eea08-08c7-4a1b-9d7f-ef1c8eb62738;33;boss;BOSS;Automaton;encounter;NULL;NULL;28;12;THE_SILENT;true
+48bbf003-f6fe-4f83-a599-62464babc068;51;boss;BOSS;Awakened One;encounter;NULL;NULL;0;2;IRONCLAD;true
+48bedba4-ba5f-4bcb-be50-d15e1beb286a;33;boss;BOSS;Champ;encounter;NULL;NULL;91;12;THE_SILENT;false
+48d4c42d-30a9-4376-a814-6fa30bad082f;50;boss;BOSS;Time Eater;encounter;NULL;NULL;34;7;IRONCLAD;false
+48bedba4-ba5f-4bcb-be50-d15e1beb286a;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;16;8;THE_SILENT;false
+48d4c42d-30a9-4376-a814-6fa30bad082f;33;boss;BOSS;Automaton;encounter;NULL;NULL;31;5;IRONCLAD;false
+46cf6e02-47e9-4f9b-910d-b1acc3b5534e;33;boss;BOSS;Collector;encounter;NULL;NULL;48;8;DEFECT;false
+4717ecbf-c853-4964-997b-4bc491e9240f;16;boss;BOSS;The Guardian;encounter;NULL;NULL;7;9;DEFECT;false
+49600a59-2791-4b21-b3cb-746ba9b3a0a9;16;boss;BOSS;The Guardian;encounter;NULL;NULL;27;11;IRONCLAD;false
+499bee35-d990-48a2-b666-20232d89e353;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;26;7;DEFECT;false
+49600a59-2791-4b21-b3cb-746ba9b3a0a9;33;boss;BOSS;Champ;encounter;NULL;NULL;18;5;IRONCLAD;false
+477497ea-d538-4220-a59d-b25820fe7b56;50;boss;BOSS;Awakened One;encounter;NULL;NULL;39;6;IRONCLAD;true
+485eea08-08c7-4a1b-9d7f-ef1c8eb62738;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;10;10;THE_SILENT;true
+485eea08-08c7-4a1b-9d7f-ef1c8eb62738;51;boss;BOSS;Awakened One;encounter;NULL;NULL;22;24;THE_SILENT;true
+48bbf003-f6fe-4f83-a599-62464babc068;50;boss;BOSS;Time Eater;encounter;NULL;NULL;41;5;IRONCLAD;true
+4c61aff4-c4c7-4e66-8a00-38a14e07b862;33;boss;BOSS;Automaton;encounter;NULL;NULL;30;9;DEFECT;false
+4c61aff4-c4c7-4e66-8a00-38a14e07b862;50;boss;BOSS;Donu and Deca;encounter;NULL;NULL;25;11;DEFECT;false
+4c61aff4-c4c7-4e66-8a00-38a14e07b862;56;boss;BOSS;The Heart;encounter;NULL;NULL;52;9;DEFECT;false
+48d4c42d-30a9-4376-a814-6fa30bad082f;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;30;3;IRONCLAD;false
+4db425e2-e412-42cd-a635-b6094307b8cb;16;boss;BOSS;The Guardian;encounter;NULL;NULL;11;12;DEFECT;false
+4e2c302a-b55f-4d99-bc94-a5a4b6a521fd;33;boss;BOSS;Collector;encounter;NULL;NULL;58;7;THE_SILENT;false
+4ea830ad-0119-413e-871b-5d63ddaec760;50;boss;BOSS;Awakened One;encounter;NULL;NULL;70;5;IRONCLAD;false
+4f3fe7c8-6c39-4abc-aec3-b73e69ce4492;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;18;11;IRONCLAD;true
+4ea830ad-0119-413e-871b-5d63ddaec760;56;boss;BOSS;The Heart;encounter;NULL;NULL;92;3;IRONCLAD;false
+4b8f2890-fa1a-4a59-bea4-560342c733dc;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;41;8;THE_SILENT;false
+4c61aff4-c4c7-4e66-8a00-38a14e07b862;16;boss;BOSS;The Guardian;encounter;NULL;NULL;11;11;DEFECT;false
+4ca72c14-8deb-411a-926d-59ffaa290e28;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;22;9;THE_SILENT;false
+4fe5bdf1-ecbe-469c-a749-9b28bc5ebb11;50;boss;BOSS;Time Eater;encounter;NULL;NULL;7;10;IRONCLAD;true
+4fe5bdf1-ecbe-469c-a749-9b28bc5ebb11;56;boss;BOSS;The Heart;encounter;NULL;NULL;8;9;IRONCLAD;true
+5104b7e5-9621-4feb-8c21-4badf68b4c15;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;40;7;IRONCLAD;false
+514c8840-e0b2-44bf-b6ec-6f455bbc1e4f;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;0;6;THE_SILENT;false
+4f3fe7c8-6c39-4abc-aec3-b73e69ce4492;51;boss;BOSS;Time Eater;encounter;NULL;NULL;11;4;IRONCLAD;true
+4fe5bdf1-ecbe-469c-a749-9b28bc5ebb11;33;boss;BOSS;Champ;encounter;NULL;NULL;12;9;IRONCLAD;true
+52032aaa-ab1e-41b4-9e3f-882670eb470f;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;15;7;DEFECT;false
+53fddd01-70f0-4bd2-9d6e-565cd9c874ed;33;boss;BOSS;Automaton;encounter;NULL;NULL;59;6;IRONCLAD;false
+542e5d54-bff1-43ab-8be2-4fb32c331602;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;20;9;THE_SILENT;false
+542e5d54-bff1-43ab-8be2-4fb32c331602;51;boss;BOSS;Time Eater;encounter;NULL;NULL;25;16;THE_SILENT;false
+54df422f-e784-45b6-b7d5-fde1e89dbd8a;50;boss;BOSS;Awakened One;encounter;NULL;NULL;0;10;DEFECT;true
+54df422f-e784-45b6-b7d5-fde1e89dbd8a;56;boss;BOSS;The Heart;encounter;NULL;NULL;26;9;DEFECT;true
+52b65521-df5b-4f86-b628-b466e7ae5b59;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;4;8;IRONCLAD;false
+542e5d54-bff1-43ab-8be2-4fb32c331602;50;boss;BOSS;Donu and Deca;encounter;NULL;NULL;1;10;THE_SILENT;false
+544550bf-f0e0-43a5-807d-f798b21753fd;16;boss;BOSS;The Guardian;encounter;NULL;NULL;38;11;IRONCLAD;false
+4ea830ad-0119-413e-871b-5d63ddaec760;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;31;6;IRONCLAD;false
+4ea830ad-0119-413e-871b-5d63ddaec760;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;27;2;IRONCLAD;false
+4f3fe7c8-6c39-4abc-aec3-b73e69ce4492;33;boss;BOSS;Collector;encounter;NULL;NULL;28;9;IRONCLAD;true
+4f3fe7c8-6c39-4abc-aec3-b73e69ce4492;56;boss;BOSS;The Heart;encounter;NULL;NULL;71;7;IRONCLAD;true
+4f7ece0f-ede5-45de-a6bb-315a2ad5d963;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;26;7;IRONCLAD;false
+4fe5bdf1-ecbe-469c-a749-9b28bc5ebb11;51;boss;BOSS;Awakened One;encounter;NULL;NULL;19;13;IRONCLAD;true
+568dd869-3c66-4ade-8368-dd3dbbaa5534;33;boss;BOSS;Collector;encounter;NULL;NULL;12;7;THE_SILENT;true
+568dd869-3c66-4ade-8368-dd3dbbaa5534;56;boss;BOSS;The Heart;encounter;NULL;NULL;38;13;THE_SILENT;true
+5790a7ab-9698-4ab7-a078-cab22fe504ef;16;boss;BOSS;The Guardian;encounter;NULL;NULL;25;5;IRONCLAD;false
+568dd869-3c66-4ade-8368-dd3dbbaa5534;50;boss;BOSS;Awakened One;encounter;NULL;NULL;0;15;THE_SILENT;true
+52b44405-5710-45e1-8e77-6b2558fa7898;16;boss;BOSS;The Guardian;encounter;NULL;NULL;16;12;DEFECT;false
+587f5c9f-5fab-480d-81fc-a001fe79fd66;33;boss;BOSS;Collector;encounter;NULL;NULL;82;13;THE_SILENT;false
+53fddd01-70f0-4bd2-9d6e-565cd9c874ed;16;boss;BOSS;The Guardian;encounter;NULL;NULL;6;12;IRONCLAD;false
+54df422f-e784-45b6-b7d5-fde1e89dbd8a;33;boss;BOSS;Champ;encounter;NULL;NULL;8;10;DEFECT;true
+584f5129-8fd6-487a-b978-4fbb2128c6ae;16;boss;BOSS;The Guardian;encounter;NULL;NULL;17;11;IRONCLAD;true
+584f5129-8fd6-487a-b978-4fbb2128c6ae;51;boss;BOSS;Time Eater;encounter;NULL;NULL;26;5;IRONCLAD;true
+54ffbfa6-0206-4e8a-858b-792bc1d1c97d;16;boss;BOSS;The Guardian;encounter;NULL;NULL;30;10;IRONCLAD;false
+58ede871-dd5c-4b40-933b-dadbe390b5be;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;3;11;THE_SILENT;true
+594925c4-a1f6-4a4a-8c4b-236642be157f;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;30;6;THE_SILENT;false
+58ede871-dd5c-4b40-933b-dadbe390b5be;16;boss;BOSS;The Guardian;encounter;NULL;NULL;0;15;THE_SILENT;true
+594925c4-a1f6-4a4a-8c4b-236642be157f;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;37;10;THE_SILENT;false
+568dd869-3c66-4ade-8368-dd3dbbaa5534;16;boss;BOSS;The Guardian;encounter;NULL;NULL;36;11;THE_SILENT;true
+5a0c1cdf-a6a2-4031-baa3-3a24a811ed24;50;boss;BOSS;Awakened One;encounter;NULL;NULL;24;9;DEFECT;true
+5a0c1cdf-a6a2-4031-baa3-3a24a811ed24;56;boss;BOSS;The Heart;encounter;NULL;NULL;53;11;DEFECT;true
+5b27d78c-2303-4888-a756-b6003b1630fb;50;boss;BOSS;Awakened One;encounter;NULL;NULL;0;18;DEFECT;false
+596a3687-72dc-45fe-9d1b-54d6a610e784;33;boss;BOSS;Collector;encounter;NULL;NULL;29;13;THE_SILENT;false
+59abaec4-fed3-40b1-b343-f0ae7b3bb764;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;33;7;THE_SILENT;false
+5a0c1cdf-a6a2-4031-baa3-3a24a811ed24;33;boss;BOSS;Champ;encounter;NULL;NULL;18;16;DEFECT;true
+584f5129-8fd6-487a-b978-4fbb2128c6ae;50;boss;BOSS;Awakened One;encounter;NULL;NULL;55;7;IRONCLAD;true
+584f5129-8fd6-487a-b978-4fbb2128c6ae;56;boss;BOSS;The Heart;encounter;NULL;NULL;110;6;IRONCLAD;true
+587f5c9f-5fab-480d-81fc-a001fe79fd66;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;22;11;THE_SILENT;false
+5c840a10-27e1-4e86-9f9e-8d82302935d1;33;boss;BOSS;Collector;encounter;NULL;NULL;86;11;IRONCLAD;true
+5ca32e98-c419-440c-87e5-ac2b5bbfa06e;16;boss;BOSS;The Guardian;encounter;NULL;NULL;0;12;DEFECT;false
+5c840a10-27e1-4e86-9f9e-8d82302935d1;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;24;7;IRONCLAD;true
+58ede871-dd5c-4b40-933b-dadbe390b5be;50;boss;BOSS;Awakened One;encounter;NULL;NULL;0;15;THE_SILENT;true
+5c840a10-27e1-4e86-9f9e-8d82302935d1;51;boss;BOSS;Awakened One;encounter;NULL;NULL;54;13;IRONCLAD;true
+5cec8c16-29ea-4e08-8c59-5a748fe1f14c;50;boss;BOSS;Time Eater;encounter;NULL;NULL;0;9;THE_SILENT;true
+5cec8c16-29ea-4e08-8c59-5a748fe1f14c;56;boss;BOSS;The Heart;encounter;NULL;NULL;45;8;THE_SILENT;true
+5d7dd985-28d1-4643-9709-b80aa8f3d6e3;33;boss;BOSS;Champ;encounter;NULL;NULL;43;8;IRONCLAD;false
+5d7dd985-28d1-4643-9709-b80aa8f3d6e3;50;boss;BOSS;Time Eater;encounter;NULL;NULL;66;7;IRONCLAD;false
+594925c4-a1f6-4a4a-8c4b-236642be157f;50;boss;BOSS;Time Eater;encounter;NULL;NULL;14;8;THE_SILENT;false
+5dfa26c5-b240-41d2-933c-35d1ab52581b;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;11;9;THE_SILENT;false
+5e2ac71b-6006-4d1a-ab66-6c7abe731378;33;boss;BOSS;Automaton;encounter;NULL;NULL;101;10;IRONCLAD;true
+5e42bc21-0a19-4d09-93d2-0bbf8415ba8b;33;boss;BOSS;Automaton;encounter;NULL;NULL;18;11;DEFECT;true
+5dfa26c5-b240-41d2-933c-35d1ab52581b;33;boss;BOSS;Automaton;encounter;NULL;NULL;32;6;THE_SILENT;false
+5e2ac71b-6006-4d1a-ab66-6c7abe731378;50;boss;BOSS;Donu and Deca;encounter;NULL;NULL;174;9;IRONCLAD;true
+5e2ac71b-6006-4d1a-ab66-6c7abe731378;56;boss;BOSS;The Heart;encounter;NULL;NULL;246;9;IRONCLAD;true
+5e42bc21-0a19-4d09-93d2-0bbf8415ba8b;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;11;8;DEFECT;true
+5e42bc21-0a19-4d09-93d2-0bbf8415ba8b;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;8;15;DEFECT;true
+5a0c1cdf-a6a2-4031-baa3-3a24a811ed24;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;23;7;DEFECT;true
+5b27d78c-2303-4888-a756-b6003b1630fb;33;boss;BOSS;Collector;encounter;NULL;NULL;17;12;DEFECT;false
+5ef54415-6657-4f83-b2bd-f853d3b60800;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;0;4;IRONCLAD;true
+5ef54415-6657-4f83-b2bd-f853d3b60800;51;boss;BOSS;Awakened One;encounter;NULL;NULL;0;7;IRONCLAD;true
+5f037027-ebbd-4d3b-b577-ab7f68e9f848;16;boss;BOSS;The Guardian;encounter;NULL;NULL;19;11;THE_SILENT;true
+5f037027-ebbd-4d3b-b577-ab7f68e9f848;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;24;12;THE_SILENT;true
+5ef54415-6657-4f83-b2bd-f853d3b60800;33;boss;BOSS;Collector;encounter;NULL;NULL;34;9;IRONCLAD;true
+5f037027-ebbd-4d3b-b577-ab7f68e9f848;50;boss;BOSS;Awakened One;encounter;NULL;NULL;10;17;THE_SILENT;true
+5c6148d9-8100-416a-b928-cb21bfc93c54;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;17;10;THE_SILENT;false
+5c840a10-27e1-4e86-9f9e-8d82302935d1;56;boss;BOSS;The Heart;encounter;NULL;NULL;90;9;IRONCLAD;true
+5cec8c16-29ea-4e08-8c59-5a748fe1f14c;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;5;7;THE_SILENT;true
+5cec8c16-29ea-4e08-8c59-5a748fe1f14c;51;boss;BOSS;Awakened One;encounter;NULL;NULL;23;16;THE_SILENT;true
+60a16857-1a52-46d5-b85b-cdda842f7d2b;50;boss;BOSS;Time Eater;encounter;NULL;NULL;39;9;IRONCLAD;true
+60a16857-1a52-46d5-b85b-cdda842f7d2b;56;boss;BOSS;The Heart;encounter;NULL;NULL;40;8;IRONCLAD;true
+60a16857-1a52-46d5-b85b-cdda842f7d2b;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;36;9;IRONCLAD;true
+6163c46b-cdce-4934-a838-fa4b7adbb6e6;16;boss;BOSS;The Guardian;encounter;NULL;NULL;0;14;DEFECT;false
+6163c46b-cdce-4934-a838-fa4b7adbb6e6;51;boss;BOSS;Time Eater;encounter;NULL;NULL;14;2;DEFECT;false
+5d7dd985-28d1-4643-9709-b80aa8f3d6e3;51;boss;BOSS;Awakened One;encounter;NULL;NULL;90;6;IRONCLAD;false
+6163c46b-cdce-4934-a838-fa4b7adbb6e6;33;boss;BOSS;Collector;encounter;NULL;NULL;0;7;DEFECT;false
+61980f59-fc04-45c9-95a5-ab4fde384e44;33;boss;BOSS;Collector;encounter;NULL;NULL;50;6;IRONCLAD;false
+61980f59-fc04-45c9-95a5-ab4fde384e44;50;boss;BOSS;Time Eater;encounter;NULL;NULL;22;11;IRONCLAD;false
+61980f59-fc04-45c9-95a5-ab4fde384e44;56;boss;BOSS;The Heart;encounter;NULL;NULL;146;9;IRONCLAD;false
+6271b4be-012b-4bff-ad33-937f781cf7a2;33;boss;BOSS;Collector;encounter;NULL;NULL;80;8;DEFECT;false
+5e2ac71b-6006-4d1a-ab66-6c7abe731378;51;boss;BOSS;Awakened One;encounter;NULL;NULL;162;14;IRONCLAD;true
+5ef54415-6657-4f83-b2bd-f853d3b60800;56;boss;BOSS;The Heart;encounter;NULL;NULL;18;1;IRONCLAD;true
+5f037027-ebbd-4d3b-b577-ab7f68e9f848;56;boss;BOSS;The Heart;encounter;NULL;NULL;53;10;THE_SILENT;true
+5f2b4d1e-9ee9-4e34-89df-4b449ca31672;16;boss;BOSS;The Guardian;encounter;NULL;NULL;37;9;IRONCLAD;false
+64544c7b-9624-4d69-a116-8091abb26645;33;boss;BOSS;Collector;encounter;NULL;NULL;46;10;DEFECT;false
+645a5310-5ab3-4f29-b854-cb29ab55a388;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;33;8;IRONCLAD;false
+60a16857-1a52-46d5-b85b-cdda842f7d2b;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;25;6;IRONCLAD;true
+61980f59-fc04-45c9-95a5-ab4fde384e44;51;boss;BOSS;Awakened One;encounter;NULL;NULL;56;12;IRONCLAD;false
+66915639-31a3-4ebe-9cc7-7441c8c77c82;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;30;9;IRONCLAD;true
+66915639-31a3-4ebe-9cc7-7441c8c77c82;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;51;10;IRONCLAD;true
+67356e5b-be2f-4a82-a083-094f053a0de5;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;15;7;IRONCLAD;true
+6271b4be-012b-4bff-ad33-937f781cf7a2;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;10;9;DEFECT;false
+67356e5b-be2f-4a82-a083-094f053a0de5;50;boss;BOSS;Awakened One;encounter;NULL;NULL;6;7;IRONCLAD;true
+6810d81b-a14c-455b-87d6-73d0e375a091;16;boss;BOSS;The Guardian;encounter;NULL;NULL;13;15;THE_SILENT;true
+6810d81b-a14c-455b-87d6-73d0e375a091;50;boss;BOSS;Awakened One;encounter;NULL;NULL;33;26;THE_SILENT;true
+681cceab-f6ea-4e0f-a58e-20b20886363f;16;boss;BOSS;The Guardian;encounter;NULL;NULL;15;10;THE_SILENT;true
+683fcf03-22ed-421c-99b9-e293e56a4cff;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;14;6;DEFECT;false
+6810d81b-a14c-455b-87d6-73d0e375a091;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;31;17;THE_SILENT;true
+681cceab-f6ea-4e0f-a58e-20b20886363f;33;boss;BOSS;Champ;encounter;NULL;NULL;0;20;THE_SILENT;true
+683fcf03-22ed-421c-99b9-e293e56a4cff;50;boss;BOSS;Time Eater;encounter;NULL;NULL;6;6;DEFECT;false
+64987ca9-ccaa-4c2b-80c4-ac327210156f;33;boss;BOSS;Automaton;encounter;NULL;NULL;41;8;IRONCLAD;false
+683fcf03-22ed-421c-99b9-e293e56a4cff;51;boss;BOSS;Awakened One;encounter;NULL;NULL;9;2;DEFECT;false
+6a5232c2-8a04-4aac-ac34-2fb4967cd496;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;53;10;THE_SILENT;false
+6a5232c2-8a04-4aac-ac34-2fb4967cd496;33;boss;BOSS;Champ;encounter;NULL;NULL;16;11;THE_SILENT;false
+66103a54-8e82-42f6-a0be-da752b319181;16;boss;BOSS;The Guardian;encounter;NULL;NULL;0;11;THE_SILENT;false
+66915639-31a3-4ebe-9cc7-7441c8c77c82;50;boss;BOSS;Time Eater;encounter;NULL;NULL;13;11;IRONCLAD;true
+6ac535f0-98f1-4466-9c5d-83dd1baa5c2a;33;boss;BOSS;Automaton;encounter;NULL;NULL;8;7;IRONCLAD;true
+6ac535f0-98f1-4466-9c5d-83dd1baa5c2a;50;boss;BOSS;Time Eater;encounter;NULL;NULL;83;12;IRONCLAD;true
+6ac535f0-98f1-4466-9c5d-83dd1baa5c2a;56;boss;BOSS;The Heart;encounter;NULL;NULL;43;8;IRONCLAD;true
+67356e5b-be2f-4a82-a083-094f053a0de5;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;20;6;IRONCLAD;true
+6c214b74-c18c-4278-86d6-f2b91d5e4544;50;boss;BOSS;Time Eater;encounter;NULL;NULL;16;7;THE_SILENT;true
+6c214b74-c18c-4278-86d6-f2b91d5e4544;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;7;10;THE_SILENT;true
+6c214b74-c18c-4278-86d6-f2b91d5e4544;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;5;6;THE_SILENT;true
+6cf68c95-fbc3-4c6f-93b8-24b7f5413bb4;50;boss;BOSS;Time Eater;encounter;NULL;NULL;2;10;DEFECT;true
+6cf68c95-fbc3-4c6f-93b8-24b7f5413bb4;56;boss;BOSS;The Heart;encounter;NULL;NULL;4;8;DEFECT;true
+6cf68c95-fbc3-4c6f-93b8-24b7f5413bb4;33;boss;BOSS;Champ;encounter;NULL;NULL;2;8;DEFECT;true
+6d23e3ce-a35a-4d98-9a83-6d403f64defd;33;boss;BOSS;Champ;encounter;NULL;NULL;0;10;DEFECT;true
+6810d81b-a14c-455b-87d6-73d0e375a091;33;boss;BOSS;Collector;encounter;NULL;NULL;47;13;THE_SILENT;true
+681cceab-f6ea-4e0f-a58e-20b20886363f;50;boss;BOSS;Awakened One;encounter;NULL;NULL;9;33;THE_SILENT;true
+681cceab-f6ea-4e0f-a58e-20b20886363f;56;boss;BOSS;The Heart;encounter;NULL;NULL;0;14;THE_SILENT;true
+683fcf03-22ed-421c-99b9-e293e56a4cff;33;boss;BOSS;Champ;encounter;NULL;NULL;3;14;DEFECT;false
+6d23e3ce-a35a-4d98-9a83-6d403f64defd;50;boss;BOSS;Awakened One;encounter;NULL;NULL;11;15;DEFECT;true
+6d23e3ce-a35a-4d98-9a83-6d403f64defd;56;boss;BOSS;The Heart;encounter;NULL;NULL;67;7;DEFECT;true
+6fc361ba-ff20-453c-82d8-5b341340ed39;50;boss;BOSS;Awakened One;encounter;NULL;NULL;13;10;IRONCLAD;false
+6fc361ba-ff20-453c-82d8-5b341340ed39;56;boss;BOSS;The Heart;encounter;NULL;NULL;93;6;IRONCLAD;false
+6c84a449-e140-4393-b9ae-1adad18a9612;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;39;6;THE_SILENT;false
+6cf68c95-fbc3-4c6f-93b8-24b7f5413bb4;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;24;7;DEFECT;true
+714db194-8a64-438d-b4a4-3a8d76e75886;56;boss;BOSS;The Heart;encounter;NULL;NULL;33;8;DEFECT;true
+714db194-8a64-438d-b4a4-3a8d76e75886;33;boss;BOSS;Automaton;encounter;NULL;NULL;25;11;DEFECT;true
+6cf68c95-fbc3-4c6f-93b8-24b7f5413bb4;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;0;9;DEFECT;true
+6d23e3ce-a35a-4d98-9a83-6d403f64defd;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;0;11;DEFECT;true
+6f0ec1e8-b9c5-408b-9894-fb5343f7ebb8;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;29;8;DEFECT;false
+7240307b-658b-4751-8d4f-4208f3e34a68;33;boss;BOSS;Collector;encounter;NULL;NULL;48;7;IRONCLAD;false
+72560a9a-ec5f-4a69-8dc6-aa535439e950;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;18;9;THE_SILENT;false
+7240307b-658b-4751-8d4f-4208f3e34a68;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;19;9;IRONCLAD;false
+72560a9a-ec5f-4a69-8dc6-aa535439e950;33;boss;BOSS;Collector;encounter;NULL;NULL;46;9;THE_SILENT;false
+73a0a815-e9f4-4ae3-9abb-9c9d1c791c06;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;12;8;THE_SILENT;false
+73a0a815-e9f4-4ae3-9abb-9c9d1c791c06;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;18;11;THE_SILENT;false
+6fc361ba-ff20-453c-82d8-5b341340ed39;33;boss;BOSS;Collector;encounter;NULL;NULL;6;4;IRONCLAD;false
+75347ba6-9072-47c4-a09a-80ecdce68c85;33;boss;BOSS;Automaton;encounter;NULL;NULL;3;13;THE_SILENT;false
+74aa2f47-9899-44ce-8151-11dbcb7a4687;33;boss;BOSS;Collector;encounter;NULL;NULL;51;5;THE_SILENT;false
+75347ba6-9072-47c4-a09a-80ecdce68c85;16;boss;BOSS;The Guardian;encounter;NULL;NULL;0;11;THE_SILENT;false
+7043f31b-bd45-4d01-acfe-6b93a8771ec7;16;boss;BOSS;The Guardian;encounter;NULL;NULL;5;11;IRONCLAD;false
+714db194-8a64-438d-b4a4-3a8d76e75886;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;5;8;DEFECT;true
+714db194-8a64-438d-b4a4-3a8d76e75886;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;16;8;DEFECT;true
+75347ba6-9072-47c4-a09a-80ecdce68c85;56;boss;BOSS;The Heart;encounter;NULL;NULL;65;2;THE_SILENT;false
+76b3afaf-77ff-4c48-a983-bce6aa872417;56;boss;BOSS;The Heart;encounter;NULL;NULL;17;14;DEFECT;true
+76b3afaf-77ff-4c48-a983-bce6aa872417;33;boss;BOSS;Automaton;encounter;NULL;NULL;3;10;DEFECT;true
+76bfba2d-f2f3-49fd-add2-29a9e92c6031;50;boss;BOSS;Awakened One;encounter;NULL;NULL;20;14;DEFECT;false
+76bfba2d-f2f3-49fd-add2-29a9e92c6031;33;boss;BOSS;Champ;encounter;NULL;NULL;5;20;DEFECT;false
+76bfba2d-f2f3-49fd-add2-29a9e92c6031;56;boss;BOSS;The Heart;encounter;NULL;NULL;60;8;DEFECT;false
+78297388-a879-4ff4-be3b-f81501bf4d1e;16;boss;BOSS;The Guardian;encounter;NULL;NULL;34;12;IRONCLAD;false
+77f59f89-6ed1-4bb3-a4bc-45d23df4a571;33;boss;BOSS;Collector;encounter;NULL;NULL;81;12;THE_SILENT;false
+78297388-a879-4ff4-be3b-f81501bf4d1e;33;boss;BOSS;Automaton;encounter;NULL;NULL;71;8;IRONCLAD;false
+784bd461-8bc9-4fad-a715-a743d089fa77;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;38;7;DEFECT;false
+73a0a815-e9f4-4ae3-9abb-9c9d1c791c06;33;boss;BOSS;Champ;encounter;NULL;NULL;14;14;THE_SILENT;false
+74aa2f47-9899-44ce-8151-11dbcb7a4687;16;boss;BOSS;The Guardian;encounter;NULL;NULL;0;11;THE_SILENT;false
+7a05fa78-a00a-4e6b-8431-6b904167c24b;51;boss;BOSS;Awakened One;encounter;NULL;NULL;10;31;THE_SILENT;true
+7aceba7b-6504-4e8a-97a9-f7d6b4a277a8;16;boss;BOSS;The Guardian;encounter;NULL;NULL;8;10;IRONCLAD;false
+7a05fa78-a00a-4e6b-8431-6b904167c24b;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;1;7;THE_SILENT;true
+75347ba6-9072-47c4-a09a-80ecdce68c85;51;boss;BOSS;Time Eater;encounter;NULL;NULL;0;15;THE_SILENT;false
+76b3afaf-77ff-4c48-a983-bce6aa872417;16;boss;BOSS;The Guardian;encounter;NULL;NULL;2;12;DEFECT;true
+7bc8dc2e-7415-460e-a216-8465fabb86fd;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;8;13;THE_SILENT;false
+7bcf3adc-5635-449a-8392-ba30791721e5;33;boss;BOSS;Collector;encounter;NULL;NULL;78;9;IRONCLAD;false
+7bcf3adc-5635-449a-8392-ba30791721e5;56;boss;BOSS;The Heart;encounter;NULL;NULL;57;6;IRONCLAD;false
+7aceba7b-6504-4e8a-97a9-f7d6b4a277a8;33;boss;BOSS;Automaton;encounter;NULL;NULL;50;10;IRONCLAD;false
+76b3afaf-77ff-4c48-a983-bce6aa872417;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;13;11;DEFECT;true
+76bfba2d-f2f3-49fd-add2-29a9e92c6031;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;22;12;DEFECT;false
+77f59f89-6ed1-4bb3-a4bc-45d23df4a571;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;20;7;THE_SILENT;false
+7ca19cde-f267-4325-87db-a929f2899a59;16;boss;BOSS;The Guardian;encounter;NULL;NULL;0;14;THE_SILENT;true
+7ca19cde-f267-4325-87db-a929f2899a59;51;boss;BOSS;Awakened One;encounter;NULL;NULL;17;24;THE_SILENT;true
+7c7ec65e-6576-47ba-b5db-ca683b154b67;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;18;7;THE_SILENT;false
+78382741-e112-4016-a36b-0dc251acabee;33;boss;BOSS;Automaton;encounter;NULL;NULL;79;8;IRONCLAD;false
+7ceda8db-610c-4961-9818-82f2da55c39e;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;12;9;DEFECT;false
+7ca19cde-f267-4325-87db-a929f2899a59;33;boss;BOSS;Automaton;encounter;NULL;NULL;1;11;THE_SILENT;true
+7ceda8db-610c-4961-9818-82f2da55c39e;33;boss;BOSS;Automaton;encounter;NULL;NULL;1;10;DEFECT;false
+79bf1075-ed55-4426-8578-cf8b3e19021d;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;22;7;DEFECT;false
+7a05fa78-a00a-4e6b-8431-6b904167c24b;33;boss;BOSS;Champ;encounter;NULL;NULL;0;9;THE_SILENT;true
+7d990bb4-daf5-46c9-8651-4628c8219123;16;boss;BOSS;The Guardian;encounter;NULL;NULL;0;11;THE_SILENT;true
+7d990bb4-daf5-46c9-8651-4628c8219123;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;16;7;THE_SILENT;true
+7d603dbc-daf7-440a-b2ca-9e89e1413ec2;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;3;10;THE_SILENT;false
+7d990bb4-daf5-46c9-8651-4628c8219123;33;boss;BOSS;Champ;encounter;NULL;NULL;0;6;THE_SILENT;true
+7a05fa78-a00a-4e6b-8431-6b904167c24b;56;boss;BOSS;The Heart;encounter;NULL;NULL;46;9;THE_SILENT;true
+7aceba7b-6504-4e8a-97a9-f7d6b4a277a8;50;boss;BOSS;Time Eater;encounter;NULL;NULL;61;19;IRONCLAD;false
+7aceba7b-6504-4e8a-97a9-f7d6b4a277a8;56;boss;BOSS;The Heart;encounter;NULL;NULL;76;5;IRONCLAD;false
+7e3ab96e-a0b9-4fe5-b4fe-fb8700a9ba14;50;boss;BOSS;Awakened One;encounter;NULL;NULL;23;2;DEFECT;false
+7f63de53-1757-4f84-b846-06ee2e4b373f;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;0;5;THE_SILENT;true
+7fc08aa9-9873-4d60-ae94-dd214b4fa5ca;50;boss;BOSS;Time Eater;encounter;NULL;NULL;27;8;IRONCLAD;false
+7ae6a49e-08be-4ad6-852e-5c7a64c50dbb;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;16;9;IRONCLAD;false
+7f63de53-1757-4f84-b846-06ee2e4b373f;51;boss;BOSS;Time Eater;encounter;NULL;NULL;9;8;THE_SILENT;true
+802e4c74-1658-4368-af6d-27680e65e3e7;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;21;9;DEFECT;false
+7bcf3adc-5635-449a-8392-ba30791721e5;16;boss;BOSS;The Guardian;encounter;NULL;NULL;4;8;IRONCLAD;false
+7bcf3adc-5635-449a-8392-ba30791721e5;51;boss;BOSS;Time Eater;encounter;NULL;NULL;6;11;IRONCLAD;false
+7c7ec65e-6576-47ba-b5db-ca683b154b67;33;boss;BOSS;Automaton;encounter;NULL;NULL;74;12;THE_SILENT;false
+7fc08aa9-9873-4d60-ae94-dd214b4fa5ca;51;boss;BOSS;Awakened One;encounter;NULL;NULL;7;6;IRONCLAD;false
+80fe4e05-44a1-4a8b-9507-70f485ca5f65;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;15;6;THE_SILENT;false
+80fe4e05-44a1-4a8b-9507-70f485ca5f65;51;boss;BOSS;Time Eater;encounter;NULL;NULL;9;7;THE_SILENT;false
+81262888-0d67-44fd-9348-3bdfed306340;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;35;9;IRONCLAD;false
+7ca19cde-f267-4325-87db-a929f2899a59;50;boss;BOSS;Time Eater;encounter;NULL;NULL;10;16;THE_SILENT;true
+7ca19cde-f267-4325-87db-a929f2899a59;56;boss;BOSS;The Heart;encounter;NULL;NULL;15;12;THE_SILENT;true
+804c9d93-87d3-4c2d-887f-c21926ed1f87;16;boss;BOSS;The Guardian;encounter;NULL;NULL;3;9;THE_SILENT;false
+80bd992a-e93f-49a1-9ba9-e72ed70e3e8a;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;0;4;DEFECT;false
+80bd992a-e93f-49a1-9ba9-e72ed70e3e8a;51;boss;BOSS;Time Eater;encounter;NULL;NULL;22;21;DEFECT;false
+7d603dbc-daf7-440a-b2ca-9e89e1413ec2;33;boss;BOSS;Collector;encounter;NULL;NULL;48;7;THE_SILENT;false
+7d990bb4-daf5-46c9-8651-4628c8219123;50;boss;BOSS;Awakened One;encounter;NULL;NULL;7;16;THE_SILENT;true
+7d990bb4-daf5-46c9-8651-4628c8219123;56;boss;BOSS;The Heart;encounter;NULL;NULL;0;6;THE_SILENT;true
+80fe4e05-44a1-4a8b-9507-70f485ca5f65;50;boss;BOSS;Awakened One;encounter;NULL;NULL;39;24;THE_SILENT;false
+81262888-0d67-44fd-9348-3bdfed306340;50;boss;BOSS;Awakened One;encounter;NULL;NULL;69;8;IRONCLAD;false
+7e3ab96e-a0b9-4fe5-b4fe-fb8700a9ba14;16;boss;BOSS;The Guardian;encounter;NULL;NULL;8;15;DEFECT;false
+81f7a6ea-6675-456c-ac92-202b49cbac10;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;30;7;IRONCLAD;false
+82c7dafa-81e9-4b9d-a2cd-addf1963c227;33;boss;BOSS;Collector;encounter;NULL;NULL;40;9;DEFECT;false
+7f63de53-1757-4f84-b846-06ee2e4b373f;50;boss;BOSS;Donu and Deca;encounter;NULL;NULL;39;8;THE_SILENT;true
+7fc08aa9-9873-4d60-ae94-dd214b4fa5ca;16;boss;BOSS;The Guardian;encounter;NULL;NULL;15;11;IRONCLAD;false
+84045b3a-728d-4334-aced-bb47b1bec79e;50;boss;BOSS;Time Eater;encounter;NULL;NULL;33;9;IRONCLAD;false
+82c7dafa-81e9-4b9d-a2cd-addf1963c227;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;23;14;DEFECT;false
+8391b341-2ecd-444e-aca5-b49b56cb65bb;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;29;9;IRONCLAD;false
+8579fc14-5757-4621-8b1a-5e32677267da;33;boss;BOSS;Champ;encounter;NULL;NULL;2;12;DEFECT;false
+80bd992a-e93f-49a1-9ba9-e72ed70e3e8a;33;boss;BOSS;Collector;encounter;NULL;NULL;18;9;DEFECT;false
+80fe4e05-44a1-4a8b-9507-70f485ca5f65;33;boss;BOSS;Automaton;encounter;NULL;NULL;23;10;THE_SILENT;false
+80fe4e05-44a1-4a8b-9507-70f485ca5f65;56;boss;BOSS;The Heart;encounter;NULL;NULL;51;3;THE_SILENT;false
+84045b3a-728d-4334-aced-bb47b1bec79e;56;boss;BOSS;The Heart;encounter;NULL;NULL;56;2;IRONCLAD;false
+8472a0bc-f0b5-4b18-9685-2c0cd997a397;33;boss;BOSS;Automaton;encounter;NULL;NULL;93;9;IRONCLAD;false
+8579fc14-5757-4621-8b1a-5e32677267da;50;boss;BOSS;Time Eater;encounter;NULL;NULL;10;9;DEFECT;false
+85e3fdb4-c262-4e8e-a463-77697d438fd9;33;boss;BOSS;Collector;encounter;NULL;NULL;61;6;IRONCLAD;false
+891b4d2a-a08a-41aa-b321-b26d8fda2387;50;boss;BOSS;Time Eater;encounter;NULL;NULL;0;25;DEFECT;false
+89566558-1019-40a7-85eb-7267f0bf9bb7;33;boss;BOSS;Champ;encounter;NULL;NULL;45;13;THE_SILENT;true
+89566558-1019-40a7-85eb-7267f0bf9bb7;56;boss;BOSS;The Heart;encounter;NULL;NULL;44;8;THE_SILENT;true
+82f16c42-e36f-4b84-8a1f-c83d2c21bf8e;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;23;10;DEFECT;false
+84045b3a-728d-4334-aced-bb47b1bec79e;33;boss;BOSS;Champ;encounter;NULL;NULL;55;8;IRONCLAD;false
+89566558-1019-40a7-85eb-7267f0bf9bb7;50;boss;BOSS;Time Eater;encounter;NULL;NULL;10;12;THE_SILENT;true
+8ac70fce-9b3c-4fe7-ae89-3f6d014da992;33;boss;BOSS;Collector;encounter;NULL;NULL;46;9;DEFECT;false
+8472a0bc-f0b5-4b18-9685-2c0cd997a397;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;40;10;IRONCLAD;false
+8a2c448f-f445-444d-bc85-a4f6d9c3c5b7;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;20;8;IRONCLAD;false
+8c3996ff-cfd2-47b2-862c-2948783545f5;33;boss;BOSS;Automaton;encounter;NULL;NULL;0;11;THE_SILENT;true
+8579fc14-5757-4621-8b1a-5e32677267da;51;boss;BOSS;Awakened One;encounter;NULL;NULL;42;6;DEFECT;false
+85e3fdb4-c262-4e8e-a463-77697d438fd9;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;22;9;IRONCLAD;false
+8ac70fce-9b3c-4fe7-ae89-3f6d014da992;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;2;8;DEFECT;false
+8e7549b4-b663-4267-934e-b2e5cdb0f48d;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;13;8;THE_SILENT;false
+8c3996ff-cfd2-47b2-862c-2948783545f5;50;boss;BOSS;Donu and Deca;encounter;NULL;NULL;0;11;THE_SILENT;true
+8c3996ff-cfd2-47b2-862c-2948783545f5;56;boss;BOSS;The Heart;encounter;NULL;NULL;0;10;THE_SILENT;true
+8e7549b4-b663-4267-934e-b2e5cdb0f48d;51;boss;BOSS;Time Eater;encounter;NULL;NULL;10;16;THE_SILENT;false
+8e894b30-cec4-4251-806e-b141fa3f785e;33;boss;BOSS;Automaton;encounter;NULL;NULL;2;10;THE_SILENT;true
+88685f18-dfe4-484e-b2ec-0b5881d0a46e;16;boss;BOSS;The Guardian;encounter;NULL;NULL;12;13;DEFECT;false
+8e29236f-5268-4066-bdc9-ac79d511ac57;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;28;7;DEFECT;false
+8e6c0a34-e81d-423b-b649-a73b2802ff84;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;14;9;IRONCLAD;false
+8e7549b4-b663-4267-934e-b2e5cdb0f48d;33;boss;BOSS;Champ;encounter;NULL;NULL;31;11;THE_SILENT;false
+8f0529ae-042f-4384-8325-a79ff92d8955;51;boss;BOSS;Time Eater;encounter;NULL;NULL;62;8;IRONCLAD;false
+8f4a2714-31f3-4724-bc49-9b1996299b97;51;boss;BOSS;Awakened One;encounter;NULL;NULL;37;4;IRONCLAD;false
+8f553ad4-34c8-429e-a069-fe70a9199c07;50;boss;BOSS;Awakened One;encounter;NULL;NULL;0;7;THE_SILENT;true
+891b4d2a-a08a-41aa-b321-b26d8fda2387;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;43;12;DEFECT;false
+891b4d2a-a08a-41aa-b321-b26d8fda2387;51;boss;BOSS;Awakened One;encounter;NULL;NULL;97;3;DEFECT;false
+89566558-1019-40a7-85eb-7267f0bf9bb7;51;boss;BOSS;Awakened One;encounter;NULL;NULL;8;13;THE_SILENT;true
+895da18a-fadb-4710-806c-550acd861cae;16;boss;BOSS;The Guardian;encounter;NULL;NULL;27;13;IRONCLAD;false
+8e894b30-cec4-4251-806e-b141fa3f785e;50;boss;BOSS;Awakened One;encounter;NULL;NULL;0;15;THE_SILENT;true
+8e894b30-cec4-4251-806e-b141fa3f785e;56;boss;BOSS;The Heart;encounter;NULL;NULL;2;12;THE_SILENT;true
+8ea8656e-c16f-4500-b6d2-6d97c8c14917;33;boss;BOSS;Collector;encounter;NULL;NULL;19;12;DEFECT;false
+8f0529ae-042f-4384-8325-a79ff92d8955;50;boss;BOSS;Donu and Deca;encounter;NULL;NULL;14;5;IRONCLAD;false
+8f845f7f-5765-4dee-a503-6b1863f9f6b1;33;boss;BOSS;Champ;encounter;NULL;NULL;18;9;THE_SILENT;true
+8f8b70b9-bbc3-4333-b48a-fcc1be2d9529;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;8;8;DEFECT;true
+8f8b70b9-bbc3-4333-b48a-fcc1be2d9529;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;0;12;DEFECT;true
+8a2c448f-f445-444d-bc85-a4f6d9c3c5b7;33;boss;BOSS;Automaton;encounter;NULL;NULL;29;14;IRONCLAD;false
+8f486d84-7604-41dd-9fbb-82d10dd221da;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;46;9;DEFECT;false
+8f4a2714-31f3-4724-bc49-9b1996299b97;50;boss;BOSS;Time Eater;encounter;NULL;NULL;33;7;IRONCLAD;false
+8f553ad4-34c8-429e-a069-fe70a9199c07;33;boss;BOSS;Collector;encounter;NULL;NULL;2;6;THE_SILENT;true
+8f553ad4-34c8-429e-a069-fe70a9199c07;56;boss;BOSS;The Heart;encounter;NULL;NULL;0;8;THE_SILENT;true
+8fe5a0dc-6590-4d5b-9cec-bdee2b8a7f2a;16;boss;BOSS;The Guardian;encounter;NULL;NULL;24;9;DEFECT;false
+90aa0f80-bb22-4a00-bc2d-9be1154c9c22;16;boss;BOSS;The Guardian;encounter;NULL;NULL;22;7;DEFECT;true
+8f845f7f-5765-4dee-a503-6b1863f9f6b1;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;19;8;THE_SILENT;true
+91efde29-317f-4633-9fd8-a5abe6744a5b;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;0;10;THE_SILENT;false
+91efde29-317f-4633-9fd8-a5abe6744a5b;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;26;20;THE_SILENT;false
+8d46ea56-a87d-4fc2-9ab6-7327b3c731b5;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;10;8;DEFECT;false
+8e29236f-5268-4066-bdc9-ac79d511ac57;33;boss;BOSS;Automaton;encounter;NULL;NULL;44;8;DEFECT;false
+90aa0f80-bb22-4a00-bc2d-9be1154c9c22;33;boss;BOSS;Collector;encounter;NULL;NULL;59;13;DEFECT;true
+8e69ff8c-f006-49c7-b204-ed75d124ac86;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;4;7;DEFECT;false
+8e7549b4-b663-4267-934e-b2e5cdb0f48d;50;boss;BOSS;Awakened One;encounter;NULL;NULL;13;21;THE_SILENT;false
+8e894b30-cec4-4251-806e-b141fa3f785e;51;boss;BOSS;Time Eater;encounter;NULL;NULL;3;16;THE_SILENT;true
+90aa0f80-bb22-4a00-bc2d-9be1154c9c22;56;boss;BOSS;The Heart;encounter;NULL;NULL;43;7;DEFECT;true
+91ccc698-4537-4901-b3e2-7c685c896895;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;5;10;DEFECT;false
+91efde29-317f-4633-9fd8-a5abe6744a5b;33;boss;BOSS;Champ;encounter;NULL;NULL;39;14;THE_SILENT;false
+93c51ef7-4507-432a-bb89-a59239584e0c;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;0;5;DEFECT;true
+94b5526f-70c8-4f04-b290-f7bb961daaa9;16;boss;BOSS;The Guardian;encounter;NULL;NULL;29;12;IRONCLAD;false
+94b5526f-70c8-4f04-b290-f7bb961daaa9;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;20;7;IRONCLAD;false
+94e1b560-d16f-4182-96a7-687dec2f5396;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;11;9;DEFECT;false
+8ea8656e-c16f-4500-b6d2-6d97c8c14917;16;boss;BOSS;The Guardian;encounter;NULL;NULL;20;10;DEFECT;false
+8f0529ae-042f-4384-8325-a79ff92d8955;33;boss;BOSS;Champ;encounter;NULL;NULL;25;11;IRONCLAD;false
+8f0529ae-042f-4384-8325-a79ff92d8955;56;boss;BOSS;The Heart;encounter;NULL;NULL;80;3;IRONCLAD;false
+8f4a2714-31f3-4724-bc49-9b1996299b97;33;boss;BOSS;Collector;encounter;NULL;NULL;48;8;IRONCLAD;false
+8f553ad4-34c8-429e-a069-fe70a9199c07;16;boss;BOSS;The Guardian;encounter;NULL;NULL;0;8;THE_SILENT;true
+94f5e08f-655e-46de-aaab-8f4249e6c4a2;50;boss;BOSS;Awakened One;encounter;NULL;NULL;57;19;THE_SILENT;false
+94f5e08f-655e-46de-aaab-8f4249e6c4a2;56;boss;BOSS;The Heart;encounter;NULL;NULL;71;13;THE_SILENT;false
+9528f091-243f-4584-8e20-a7632c1bf6a6;16;boss;BOSS;The Guardian;encounter;NULL;NULL;19;6;IRONCLAD;true
+95ae601c-4856-4dcd-ae70-0c9372d7be64;33;boss;BOSS;Collector;encounter;NULL;NULL;27;7;IRONCLAD;false
+8f845f7f-5765-4dee-a503-6b1863f9f6b1;51;boss;BOSS;Time Eater;encounter;NULL;NULL;0;10;THE_SILENT;true
+8f8b70b9-bbc3-4333-b48a-fcc1be2d9529;33;boss;BOSS;Collector;encounter;NULL;NULL;0;11;DEFECT;true
+8f8b70b9-bbc3-4333-b48a-fcc1be2d9529;56;boss;BOSS;The Heart;encounter;NULL;NULL;22;13;DEFECT;true
+93c51ef7-4507-432a-bb89-a59239584e0c;33;boss;BOSS;Automaton;encounter;NULL;NULL;26;8;DEFECT;true
+94b5526f-70c8-4f04-b290-f7bb961daaa9;33;boss;BOSS;Champ;encounter;NULL;NULL;21;11;IRONCLAD;false
+9658a039-5b7d-4084-bb7b-c7d1561bdcbb;50;boss;BOSS;Time Eater;encounter;NULL;NULL;24;7;IRONCLAD;true
+9658a039-5b7d-4084-bb7b-c7d1561bdcbb;56;boss;BOSS;The Heart;encounter;NULL;NULL;45;7;IRONCLAD;true
+8fe5a0dc-6590-4d5b-9cec-bdee2b8a7f2a;33;boss;BOSS;Collector;encounter;NULL;NULL;36;8;DEFECT;false
+94f5e08f-655e-46de-aaab-8f4249e6c4a2;33;boss;BOSS;Automaton;encounter;NULL;NULL;16;12;THE_SILENT;false
+9528f091-243f-4584-8e20-a7632c1bf6a6;51;boss;BOSS;Awakened One;encounter;NULL;NULL;17;4;IRONCLAD;true
+9590a920-3627-446e-adf3-054105902103;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;23;8;IRONCLAD;false
+95ae601c-4856-4dcd-ae70-0c9372d7be64;16;boss;BOSS;The Guardian;encounter;NULL;NULL;15;14;IRONCLAD;false
+95ae601c-4856-4dcd-ae70-0c9372d7be64;51;boss;BOSS;Time Eater;encounter;NULL;NULL;32;2;IRONCLAD;false
+9658a039-5b7d-4084-bb7b-c7d1561bdcbb;51;boss;BOSS;Awakened One;encounter;NULL;NULL;33;9;IRONCLAD;true
+9761ea39-84b6-49fa-b031-88e1d1f76f6d;33;boss;BOSS;Collector;encounter;NULL;NULL;5;12;THE_SILENT;false
+96c14387-70f4-427d-bd0d-f480c62b3c7c;33;boss;BOSS;Automaton;encounter;NULL;NULL;50;8;IRONCLAD;false
+991db227-834d-4509-af3c-aec384e35f09;56;boss;BOSS;The Heart;encounter;NULL;NULL;98;5;DEFECT;false
+9761ea39-84b6-49fa-b031-88e1d1f76f6d;50;boss;BOSS;Awakened One;encounter;NULL;NULL;55;12;THE_SILENT;false
+99d1265b-e11a-4240-b4c6-034189caec9b;50;boss;BOSS;Time Eater;encounter;NULL;NULL;38;5;IRONCLAD;true
+99d1265b-e11a-4240-b4c6-034189caec9b;56;boss;BOSS;The Heart;encounter;NULL;NULL;63;9;IRONCLAD;true
+9a70a0f8-1962-4fa0-8c9f-9b7012d3f89c;33;boss;BOSS;Champ;encounter;NULL;NULL;37;12;DEFECT;true
+9b65b5c9-e4ab-4496-8af3-704e1bb2f729;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;26;10;THE_SILENT;false
+991db227-834d-4509-af3c-aec384e35f09;33;boss;BOSS;Automaton;encounter;NULL;NULL;0;8;DEFECT;false
+9d876897-bb96-4cd6-8db4-e35609ef896e;33;boss;BOSS;Collector;encounter;NULL;NULL;0;4;IRONCLAD;true
+99d1265b-e11a-4240-b4c6-034189caec9b;51;boss;BOSS;Awakened One;encounter;NULL;NULL;28;5;IRONCLAD;true
+9a70a0f8-1962-4fa0-8c9f-9b7012d3f89c;50;boss;BOSS;Donu and Deca;encounter;NULL;NULL;18;7;DEFECT;true
+9a70a0f8-1962-4fa0-8c9f-9b7012d3f89c;56;boss;BOSS;The Heart;encounter;NULL;NULL;26;6;DEFECT;true
+90aa0f80-bb22-4a00-bc2d-9be1154c9c22;50;boss;BOSS;Donu and Deca;encounter;NULL;NULL;0;10;DEFECT;true
+90c70315-15dd-41c8-98a2-091f2854c376;16;boss;BOSS;The Guardian;encounter;NULL;NULL;1;13;THE_SILENT;false
+9d876897-bb96-4cd6-8db4-e35609ef896e;56;boss;BOSS;The Heart;encounter;NULL;NULL;6;5;IRONCLAD;true
+9b62ef47-9c64-480a-a2c2-e472976a9653;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;28;9;IRONCLAD;false
+9b65b5c9-e4ab-4496-8af3-704e1bb2f729;33;boss;BOSS;Collector;encounter;NULL;NULL;27;7;THE_SILENT;false
+93c51ef7-4507-432a-bb89-a59239584e0c;50;boss;BOSS;Time Eater;encounter;NULL;NULL;0;8;DEFECT;true
+93c51ef7-4507-432a-bb89-a59239584e0c;56;boss;BOSS;The Heart;encounter;NULL;NULL;14;9;DEFECT;true
+9ecac71e-facb-469c-952e-e1978d9a6425;33;boss;BOSS;Collector;encounter;NULL;NULL;2;5;IRONCLAD;false
+94b5526f-70c8-4f04-b290-f7bb961daaa9;50;boss;BOSS;Time Eater;encounter;NULL;NULL;8;6;IRONCLAD;false
+94f5e08f-655e-46de-aaab-8f4249e6c4a2;16;boss;BOSS;The Guardian;encounter;NULL;NULL;16;10;THE_SILENT;false
+9d876897-bb96-4cd6-8db4-e35609ef896e;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;24;8;IRONCLAD;true
+9ff456ba-ce70-4df9-a1db-e6efd3360225;16;boss;BOSS;The Guardian;encounter;NULL;NULL;21;12;THE_SILENT;false
+94f5e08f-655e-46de-aaab-8f4249e6c4a2;51;boss;BOSS;Time Eater;encounter;NULL;NULL;32;19;THE_SILENT;false
+9528f091-243f-4584-8e20-a7632c1bf6a6;50;boss;BOSS;Time Eater;encounter;NULL;NULL;2;8;IRONCLAD;true
+9528f091-243f-4584-8e20-a7632c1bf6a6;56;boss;BOSS;The Heart;encounter;NULL;NULL;72;6;IRONCLAD;true
+95ae601c-4856-4dcd-ae70-0c9372d7be64;50;boss;BOSS;Awakened One;encounter;NULL;NULL;38;15;IRONCLAD;false
+9df8b6ac-44a7-4e4a-8e7a-29746c572637;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;40;9;THE_SILENT;false
+a03ef8dd-0b8b-40f6-bdba-d8e6e0e7c0cd;56;boss;BOSS;The Heart;encounter;NULL;NULL;87;5;IRONCLAD;false
+a097e9c8-6025-47a2-be16-365b14cbd4ce;16;boss;BOSS;The Guardian;encounter;NULL;NULL;34;10;DEFECT;false
+9658a039-5b7d-4084-bb7b-c7d1561bdcbb;16;boss;BOSS;The Guardian;encounter;NULL;NULL;49;15;IRONCLAD;true
+96c14387-70f4-427d-bd0d-f480c62b3c7c;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;8;5;IRONCLAD;false
+9e8acb1c-1d62-4a0b-88d8-77588b36b2bd;33;boss;BOSS;Automaton;encounter;NULL;NULL;63;7;IRONCLAD;false
+9ecac71e-facb-469c-952e-e1978d9a6425;50;boss;BOSS;Awakened One;encounter;NULL;NULL;39;10;IRONCLAD;false
+9ecac71e-facb-469c-952e-e1978d9a6425;56;boss;BOSS;The Heart;encounter;NULL;NULL;77;9;IRONCLAD;false
+a283700d-38e5-49eb-ae11-d8ccfa0c5853;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;51;8;DEFECT;false
+96dd3fc6-9ec3-4484-b479-0297be22e852;33;boss;BOSS;Champ;encounter;NULL;NULL;0;14;DEFECT;false
+a03ef8dd-0b8b-40f6-bdba-d8e6e0e7c0cd;33;boss;BOSS;Collector;encounter;NULL;NULL;104;10;IRONCLAD;false
+a106509b-6c39-4d98-99fc-bfe4f03b6193;50;boss;BOSS;Donu and Deca;encounter;NULL;NULL;51;6;THE_SILENT;false
+a385751b-1e85-466d-aea6-46adf759459f;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;10;10;THE_SILENT;true
+a385751b-1e85-466d-aea6-46adf759459f;51;boss;BOSS;Awakened One;encounter;NULL;NULL;11;15;THE_SILENT;true
+a3966a96-70ce-4bce-a4ec-f1e88cc4e48b;33;boss;BOSS;Collector;encounter;NULL;NULL;10;10;DEFECT;false
+991db227-834d-4509-af3c-aec384e35f09;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;26;9;DEFECT;false
+991db227-834d-4509-af3c-aec384e35f09;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;38;6;DEFECT;false
+a1c19822-fc96-424a-81d9-6ab3123b5b54;50;boss;BOSS;Time Eater;encounter;NULL;NULL;23;16;DEFECT;false
+a49b0e6e-4054-4865-9e27-78c4603417e8;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;0;4;DEFECT;false
+99d1265b-e11a-4240-b4c6-034189caec9b;16;boss;BOSS;The Guardian;encounter;NULL;NULL;7;10;IRONCLAD;true
+a51a4268-de17-48bf-88a3-34951905f2f4;56;boss;BOSS;The Heart;encounter;NULL;NULL;79;9;THE_SILENT;false
+a55ec7a7-a930-4ada-b727-668f3f30e9fe;16;boss;BOSS;The Guardian;encounter;NULL;NULL;8;8;DEFECT;false
+a59538bc-acfc-48ed-93e2-9cccc5ef2897;33;boss;BOSS;Automaton;encounter;NULL;NULL;19;9;THE_SILENT;true
+a59538bc-acfc-48ed-93e2-9cccc5ef2897;56;boss;BOSS;The Heart;encounter;NULL;NULL;42;9;THE_SILENT;true
+9a70a0f8-1962-4fa0-8c9f-9b7012d3f89c;51;boss;BOSS;Time Eater;encounter;NULL;NULL;28;13;DEFECT;true
+9b65b5c9-e4ab-4496-8af3-704e1bb2f729;50;boss;BOSS;Awakened One;encounter;NULL;NULL;22;18;THE_SILENT;false
+a385751b-1e85-466d-aea6-46adf759459f;33;boss;BOSS;Collector;encounter;NULL;NULL;23;7;THE_SILENT;true
+a3966a96-70ce-4bce-a4ec-f1e88cc4e48b;16;boss;BOSS;The Guardian;encounter;NULL;NULL;0;8;DEFECT;false
+a6db7b30-daa3-4e5c-bb2d-9fac3cf74c73;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;59;11;IRONCLAD;true
+9d876897-bb96-4cd6-8db4-e35609ef896e;51;boss;BOSS;Awakened One;encounter;NULL;NULL;12;6;IRONCLAD;true
+a51a4268-de17-48bf-88a3-34951905f2f4;50;boss;BOSS;Awakened One;encounter;NULL;NULL;43;23;THE_SILENT;false
+a55ec7a7-a930-4ada-b727-668f3f30e9fe;33;boss;BOSS;Automaton;encounter;NULL;NULL;53;8;DEFECT;false
+a59538bc-acfc-48ed-93e2-9cccc5ef2897;50;boss;BOSS;Donu and Deca;encounter;NULL;NULL;25;14;THE_SILENT;true
+a793fc2e-1deb-4015-bd3d-6333071fac72;33;boss;BOSS;Champ;encounter;NULL;NULL;0;7;DEFECT;true
+9e24af94-5402-42a0-93e6-c3f665cebfab;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;0;5;DEFECT;false
+9e8acb1c-1d62-4a0b-88d8-77588b36b2bd;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;12;7;IRONCLAD;false
+a6db7b30-daa3-4e5c-bb2d-9fac3cf74c73;33;boss;BOSS;Automaton;encounter;NULL;NULL;8;5;IRONCLAD;true
+a6db7b30-daa3-4e5c-bb2d-9fac3cf74c73;56;boss;BOSS;The Heart;encounter;NULL;NULL;51;6;IRONCLAD;true
+a8c33478-22b1-44bf-9787-9d966523f4ae;33;boss;BOSS;Collector;encounter;NULL;NULL;0;8;DEFECT;true
+a6dd1c93-428e-4a1b-b4c6-ea6e8836645c;16;boss;BOSS;The Guardian;encounter;NULL;NULL;14;12;IRONCLAD;false
+a6dd1c93-428e-4a1b-b4c6-ea6e8836645c;51;boss;BOSS;Time Eater;encounter;NULL;NULL;93;8;IRONCLAD;false
+a71e32e3-096c-480d-8a4c-379f1b268940;33;boss;BOSS;Collector;encounter;NULL;NULL;35;7;IRONCLAD;false
+a9380632-cb16-4e1e-8772-d7ccd6a1ae22;50;boss;BOSS;Donu and Deca;encounter;NULL;NULL;38;8;THE_SILENT;false
+a793fc2e-1deb-4015-bd3d-6333071fac72;50;boss;BOSS;Donu and Deca;encounter;NULL;NULL;53;7;DEFECT;true
+a793fc2e-1deb-4015-bd3d-6333071fac72;56;boss;BOSS;The Heart;encounter;NULL;NULL;66;7;DEFECT;true
+a94df0fd-ea0e-4565-a486-e7ac0201a174;50;boss;BOSS;Time Eater;encounter;NULL;NULL;35;7;THE_SILENT;true
+a94df0fd-ea0e-4565-a486-e7ac0201a174;56;boss;BOSS;The Heart;encounter;NULL;NULL;49;10;THE_SILENT;true
+a978b576-bb83-4912-8fe5-13a0d32452dd;33;boss;BOSS;Automaton;encounter;NULL;NULL;16;14;THE_SILENT;false
+a03ef8dd-0b8b-40f6-bdba-d8e6e0e7c0cd;16;boss;BOSS;The Guardian;encounter;NULL;NULL;41;15;IRONCLAD;false
+a03ef8dd-0b8b-40f6-bdba-d8e6e0e7c0cd;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;48;4;IRONCLAD;false
+a106509b-6c39-4d98-99fc-bfe4f03b6193;33;boss;BOSS;Champ;encounter;NULL;NULL;19;40;THE_SILENT;false
+a8c33478-22b1-44bf-9787-9d966523f4ae;56;boss;BOSS;The Heart;encounter;NULL;NULL;22;9;DEFECT;true
+a9380632-cb16-4e1e-8772-d7ccd6a1ae22;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;37;10;THE_SILENT;false
+a1c19822-fc96-424a-81d9-6ab3123b5b54;33;boss;BOSS;Automaton;encounter;NULL;NULL;23;17;DEFECT;false
+a9380632-cb16-4e1e-8772-d7ccd6a1ae22;51;boss;BOSS;Time Eater;encounter;NULL;NULL;9;22;THE_SILENT;false
+a94df0fd-ea0e-4565-a486-e7ac0201a174;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;9;8;THE_SILENT;true
+a978b576-bb83-4912-8fe5-13a0d32452dd;16;boss;BOSS;The Guardian;encounter;NULL;NULL;14;10;THE_SILENT;false
+a9caa674-c984-4e9d-9902-abc41a04ed21;33;boss;BOSS;Collector;encounter;NULL;NULL;53;6;IRONCLAD;false
+ab48b87e-a91c-428f-bdee-b3b1ca7cb7ba;33;boss;BOSS;Collector;encounter;NULL;NULL;34;6;IRONCLAD;true
+ab48b87e-a91c-428f-bdee-b3b1ca7cb7ba;56;boss;BOSS;The Heart;encounter;NULL;NULL;85;9;IRONCLAD;true
+aa0cde55-32c0-481c-85ec-f4f8c318fa51;16;boss;BOSS;The Guardian;encounter;NULL;NULL;4;16;THE_SILENT;false
+a385751b-1e85-466d-aea6-46adf759459f;56;boss;BOSS;The Heart;encounter;NULL;NULL;6;8;THE_SILENT;true
+aaaeb94c-34b2-4838-b1e4-cf4830602f52;50;boss;BOSS;Donu and Deca;encounter;NULL;NULL;6;11;DEFECT;false
+acfc6ff9-6274-4315-b741-c041dda977ff;16;boss;BOSS;The Guardian;encounter;NULL;NULL;21;14;IRONCLAD;true
+acfc6ff9-6274-4315-b741-c041dda977ff;51;boss;BOSS;Awakened One;encounter;NULL;NULL;8;21;IRONCLAD;true
+ad0f9297-d19e-4272-9bf9-c0e224365ff6;33;boss;BOSS;Champ;encounter;NULL;NULL;5;16;IRONCLAD;true
+a3966a96-70ce-4bce-a4ec-f1e88cc4e48b;51;boss;BOSS;Awakened One;encounter;NULL;NULL;42;8;DEFECT;false
+ad7d8cbe-7fdc-4a7c-9db3-b5fb1009be71;33;boss;BOSS;Champ;encounter;NULL;NULL;0;11;DEFECT;false
+ae758272-9a60-4745-90c7-d61d595a17ce;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;17;5;DEFECT;true
+ae758272-9a60-4745-90c7-d61d595a17ce;51;boss;BOSS;Time Eater;encounter;NULL;NULL;9;12;DEFECT;true
+ab48b87e-a91c-428f-bdee-b3b1ca7cb7ba;50;boss;BOSS;Awakened One;encounter;NULL;NULL;15;7;IRONCLAD;true
+a51a4268-de17-48bf-88a3-34951905f2f4;16;boss;BOSS;The Guardian;encounter;NULL;NULL;0;8;THE_SILENT;false
+a51a4268-de17-48bf-88a3-34951905f2f4;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;24;11;THE_SILENT;false
+a59538bc-acfc-48ed-93e2-9cccc5ef2897;51;boss;BOSS;Time Eater;encounter;NULL;NULL;0;7;THE_SILENT;true
+af7dd72e-6e3c-4a53-b98f-097d6f227801;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;7;7;DEFECT;true
+af7dd72e-6e3c-4a53-b98f-097d6f227801;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;13;9;DEFECT;true
+b06ea6d0-cb2e-41c4-abf4-3807b8c112e1;51;boss;BOSS;Awakened One;encounter;NULL;NULL;34;14;THE_SILENT;true
+acfc6ff9-6274-4315-b741-c041dda977ff;33;boss;BOSS;Automaton;encounter;NULL;NULL;46;10;IRONCLAD;true
+ad0a14b9-431b-45fc-a122-9320dbc98c7d;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;0;5;DEFECT;false
+ad0f9297-d19e-4272-9bf9-c0e224365ff6;56;boss;BOSS;The Heart;encounter;NULL;NULL;88;10;IRONCLAD;true
+a6db7b30-daa3-4e5c-bb2d-9fac3cf74c73;50;boss;BOSS;Time Eater;encounter;NULL;NULL;0;13;IRONCLAD;true
+a6dd1c93-428e-4a1b-b4c6-ea6e8836645c;33;boss;BOSS;Champ;encounter;NULL;NULL;24;10;IRONCLAD;false
+a71e32e3-096c-480d-8a4c-379f1b268940;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;12;11;IRONCLAD;false
+ad7d8cbe-7fdc-4a7c-9db3-b5fb1009be71;50;boss;BOSS;Awakened One;encounter;NULL;NULL;13;34;DEFECT;false
+ae758272-9a60-4745-90c7-d61d595a17ce;50;boss;BOSS;Awakened One;encounter;NULL;NULL;9;28;DEFECT;true
+b2386bc6-f5a8-49bb-907a-73c1d6c39436;50;boss;BOSS;Awakened One;encounter;NULL;NULL;58;14;IRONCLAD;true
+b2386bc6-f5a8-49bb-907a-73c1d6c39436;56;boss;BOSS;The Heart;encounter;NULL;NULL;83;7;IRONCLAD;true
+af7dd72e-6e3c-4a53-b98f-097d6f227801;33;boss;BOSS;Champ;encounter;NULL;NULL;0;15;DEFECT;true
+b2abe0da-3aeb-482a-bf07-61fbfc23e324;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;18;12;THE_SILENT;true
+b2abe0da-3aeb-482a-bf07-61fbfc23e324;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;17;9;THE_SILENT;true
+a793fc2e-1deb-4015-bd3d-6333071fac72;51;boss;BOSS;Awakened One;encounter;NULL;NULL;34;10;DEFECT;true
+b06ea6d0-cb2e-41c4-abf4-3807b8c112e1;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;27;8;THE_SILENT;true
+b3606d37-1d01-4aec-a9e3-f8ad253098ad;50;boss;BOSS;Time Eater;encounter;NULL;NULL;0;7;DEFECT;true
+a8c33478-22b1-44bf-9787-9d966523f4ae;50;boss;BOSS;Donu and Deca;encounter;NULL;NULL;0;8;DEFECT;true
+b47c2ffb-8f7b-4c5c-bd5e-3167dadf1a02;50;boss;BOSS;Awakened One;encounter;NULL;NULL;50;24;THE_SILENT;false
+b4820a15-4a78-4335-bd6a-56373e21066f;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;33;10;IRONCLAD;true
+b4820a15-4a78-4335-bd6a-56373e21066f;51;boss;BOSS;Time Eater;encounter;NULL;NULL;42;6;IRONCLAD;true
+b4d95a54-db42-45c8-906b-a3bdec6c6d28;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;5;12;THE_SILENT;true
+a9380632-cb16-4e1e-8772-d7ccd6a1ae22;33;boss;BOSS;Collector;encounter;NULL;NULL;29;9;THE_SILENT;false
+a94df0fd-ea0e-4565-a486-e7ac0201a174;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;29;11;THE_SILENT;true
+a978b576-bb83-4912-8fe5-13a0d32452dd;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;22;13;THE_SILENT;false
+b4d95a54-db42-45c8-906b-a3bdec6c6d28;51;boss;BOSS;Time Eater;encounter;NULL;NULL;9;15;THE_SILENT;true
+a9caa674-c984-4e9d-9902-abc41a04ed21;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;2;6;IRONCLAD;false
+a9caa674-c984-4e9d-9902-abc41a04ed21;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;37;2;IRONCLAD;false
+aa0cde55-32c0-481c-85ec-f4f8c318fa51;33;boss;BOSS;Automaton;encounter;NULL;NULL;4;20;THE_SILENT;false
+b3606d37-1d01-4aec-a9e3-f8ad253098ad;56;boss;BOSS;The Heart;encounter;NULL;NULL;3;7;DEFECT;true
+b66243f9-1332-46a1-8918-72192afa3af4;33;boss;BOSS;Champ;encounter;NULL;NULL;21;14;THE_SILENT;false
+aaaeb94c-34b2-4838-b1e4-cf4830602f52;33;boss;BOSS;Automaton;encounter;NULL;NULL;17;8;DEFECT;false
+b47c2ffb-8f7b-4c5c-bd5e-3167dadf1a02;33;boss;BOSS;Collector;encounter;NULL;NULL;31;11;THE_SILENT;false
+b6d25362-47bc-4ecb-a310-d327c92bea51;50;boss;BOSS;Awakened One;encounter;NULL;NULL;5;23;DEFECT;false
+b7196689-0bc4-45d9-8c57-e41ef51ba989;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;16;8;THE_SILENT;false
+b7196689-0bc4-45d9-8c57-e41ef51ba989;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;41;10;THE_SILENT;false
+ab48b87e-a91c-428f-bdee-b3b1ca7cb7ba;16;boss;BOSS;The Guardian;encounter;NULL;NULL;19;11;IRONCLAD;true
+ab48b87e-a91c-428f-bdee-b3b1ca7cb7ba;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;15;6;IRONCLAD;true
+b4820a15-4a78-4335-bd6a-56373e21066f;33;boss;BOSS;Automaton;encounter;NULL;NULL;42;5;IRONCLAD;true
+b4d95a54-db42-45c8-906b-a3bdec6c6d28;33;boss;BOSS;Champ;encounter;NULL;NULL;32;14;THE_SILENT;true
+b78b6438-6e77-4bce-9f3c-f5a03fd20671;33;boss;BOSS;Collector;encounter;NULL;NULL;0;5;DEFECT;true
+b7f52679-cbf0-42f5-8421-8923d7031b9e;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;0;8;DEFECT;false
+b7f90fc4-a0b9-4fb4-939a-fb8a39533280;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;24;9;THE_SILENT;false
+b7f90fc4-a0b9-4fb4-939a-fb8a39533280;51;boss;BOSS;Awakened One;encounter;NULL;NULL;0;15;THE_SILENT;false
+b8dd207c-7215-4c5e-9fd8-c4e17fe47b83;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;21;13;THE_SILENT;true
+b8dd207c-7215-4c5e-9fd8-c4e17fe47b83;51;boss;BOSS;Time Eater;encounter;NULL;NULL;6;17;THE_SILENT;true
+b91e3af3-7fc6-488e-a01f-8fc2752c61e4;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;32;10;THE_SILENT;false
+ac83f6a8-4550-4077-b57d-afd4b84be586;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;52;8;IRONCLAD;false
+ac883748-0038-4101-85bf-4b11de625770;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;30;6;THE_SILENT;false
+acfc6ff9-6274-4315-b741-c041dda977ff;50;boss;BOSS;Donu and Deca;encounter;NULL;NULL;6;15;IRONCLAD;true
+acfc6ff9-6274-4315-b741-c041dda977ff;56;boss;BOSS;The Heart;encounter;NULL;NULL;44;11;IRONCLAD;true
+ad0f9297-d19e-4272-9bf9-c0e224365ff6;50;boss;BOSS;Donu and Deca;encounter;NULL;NULL;62;7;IRONCLAD;true
+b66243f9-1332-46a1-8918-72192afa3af4;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;22;14;THE_SILENT;false
+ad7d8cbe-7fdc-4a7c-9db3-b5fb1009be71;51;boss;BOSS;Time Eater;encounter;NULL;NULL;11;11;DEFECT;false
+adb3f7ee-74e8-4831-9b25-60fe5c44deae;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;28;13;DEFECT;false
+ae758272-9a60-4745-90c7-d61d595a17ce;33;boss;BOSS;Champ;encounter;NULL;NULL;12;15;DEFECT;true
+ae758272-9a60-4745-90c7-d61d595a17ce;56;boss;BOSS;The Heart;encounter;NULL;NULL;4;7;DEFECT;true
+b6d25362-47bc-4ecb-a310-d327c92bea51;51;boss;BOSS;Time Eater;encounter;NULL;NULL;40;14;DEFECT;false
+b7196689-0bc4-45d9-8c57-e41ef51ba989;33;boss;BOSS;Champ;encounter;NULL;NULL;31;20;THE_SILENT;false
+b78b6438-6e77-4bce-9f3c-f5a03fd20671;50;boss;BOSS;Time Eater;encounter;NULL;NULL;15;6;DEFECT;true
+baba129c-fc30-4347-b32f-273954c1f394;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;23;6;DEFECT;false
+af7dd72e-6e3c-4a53-b98f-097d6f227801;50;boss;BOSS;Awakened One;encounter;NULL;NULL;4;19;DEFECT;true
+b78b6438-6e77-4bce-9f3c-f5a03fd20671;56;boss;BOSS;The Heart;encounter;NULL;NULL;45;11;DEFECT;true
+b7f90fc4-a0b9-4fb4-939a-fb8a39533280;33;boss;BOSS;Collector;encounter;NULL;NULL;5;5;THE_SILENT;false
+bbccde02-bdfb-4335-a0db-1289b3a2a1f8;50;boss;BOSS;Donu and Deca;encounter;NULL;NULL;23;6;IRONCLAD;true
+bc4e9b69-b306-4e67-9020-0e9a58d33240;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;6;10;DEFECT;true
+bc4e9b69-b306-4e67-9020-0e9a58d33240;51;boss;BOSS;Time Eater;encounter;NULL;NULL;0;17;DEFECT;true
+b06ea6d0-cb2e-41c4-abf4-3807b8c112e1;33;boss;BOSS;Champ;encounter;NULL;NULL;41;14;THE_SILENT;true
+bfce894d-8bd7-4199-9fed-19175b17c927;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;2;9;THE_SILENT;false
+bfce894d-8bd7-4199-9fed-19175b17c927;51;boss;BOSS;Awakened One;encounter;NULL;NULL;33;17;THE_SILENT;false
+bfdd3861-88d3-4342-8cc4-8d48e57ccbd2;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;32;9;DEFECT;false
+b2386bc6-f5a8-49bb-907a-73c1d6c39436;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;4;5;IRONCLAD;true
+b2386bc6-f5a8-49bb-907a-73c1d6c39436;51;boss;BOSS;Time Eater;encounter;NULL;NULL;60;15;IRONCLAD;true
+baba129c-fc30-4347-b32f-273954c1f394;33;boss;BOSS;Champ;encounter;NULL;NULL;1;9;DEFECT;false
+c0f59c0b-c1cc-4ba9-afde-2b6095de0c29;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;19;8;IRONCLAD;false
+b2abe0da-3aeb-482a-bf07-61fbfc23e324;50;boss;BOSS;Time Eater;encounter;NULL;NULL;21;11;THE_SILENT;true
+b2abe0da-3aeb-482a-bf07-61fbfc23e324;56;boss;BOSS;The Heart;encounter;NULL;NULL;11;12;THE_SILENT;true
+bbccde02-bdfb-4335-a0db-1289b3a2a1f8;56;boss;BOSS;The Heart;encounter;NULL;NULL;19;8;IRONCLAD;true
+bc4e9b69-b306-4e67-9020-0e9a58d33240;50;boss;BOSS;Awakened One;encounter;NULL;NULL;8;15;DEFECT;true
+c38d8f5d-9093-40fa-a22b-2763628af8eb;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;24;5;DEFECT;false
+c38d8f5d-9093-40fa-a22b-2763628af8eb;51;boss;BOSS;Awakened One;encounter;NULL;NULL;50;15;DEFECT;false
+b3606d37-1d01-4aec-a9e3-f8ad253098ad;33;boss;BOSS;Automaton;encounter;NULL;NULL;0;5;DEFECT;true
+bcf06c9d-f608-4c4c-88b0-ef720742ccdb;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;39;11;DEFECT;false
+becd061d-cea6-4e96-ab8c-51c1e930c891;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;32;9;THE_SILENT;false
+c3ba17d0-28a9-4c9d-894f-422f20fccd69;33;boss;BOSS;Champ;encounter;NULL;NULL;0;19;DEFECT;false
+c48aa38f-eac6-4c41-a5b3-1495f776ac7f;50;boss;BOSS;Awakened One;encounter;NULL;NULL;0;18;THE_SILENT;true
+b47c2ffb-8f7b-4c5c-bd5e-3167dadf1a02;16;boss;BOSS;The Guardian;encounter;NULL;NULL;0;13;THE_SILENT;false
+b47c2ffb-8f7b-4c5c-bd5e-3167dadf1a02;51;boss;BOSS;Time Eater;encounter;NULL;NULL;15;3;THE_SILENT;false
+b4820a15-4a78-4335-bd6a-56373e21066f;50;boss;BOSS;Donu and Deca;encounter;NULL;NULL;39;6;IRONCLAD;true
+b4820a15-4a78-4335-bd6a-56373e21066f;56;boss;BOSS;The Heart;encounter;NULL;NULL;148;9;IRONCLAD;true
+bf70a370-d91f-45b6-bd20-c158b34bfaf4;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;38;8;IRONCLAD;false
+c48aa38f-eac6-4c41-a5b3-1495f776ac7f;56;boss;BOSS;The Heart;encounter;NULL;NULL;0;11;THE_SILENT;true
+c551074f-611d-4434-b54f-7a7d81f57493;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;6;10;THE_SILENT;false
+c5594f15-a932-480b-a00f-a33f1467fef8;51;boss;BOSS;Time Eater;encounter;NULL;NULL;0;9;THE_SILENT;true
+b4ec66f5-c01c-4154-b243-b511d16dfbdc;16;boss;BOSS;The Guardian;encounter;NULL;NULL;16;10;IRONCLAD;false
+c0b8d284-2eca-4da4-92d2-0346c509aada;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;19;10;DEFECT;false
+c0f59c0b-c1cc-4ba9-afde-2b6095de0c29;50;boss;BOSS;Time Eater;encounter;NULL;NULL;14;12;IRONCLAD;false
+c5b16402-35d9-43d4-bc89-6cf4f63d7fc7;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;6;10;DEFECT;false
+c6a817b2-f311-4417-a1ef-1bb838fa8515;16;boss;BOSS;The Guardian;encounter;NULL;NULL;4;15;THE_SILENT;false
+c38d8f5d-9093-40fa-a22b-2763628af8eb;33;boss;BOSS;Automaton;encounter;NULL;NULL;23;9;DEFECT;false
+c70e75e3-a6de-430e-8e37-6a774ae2a749;16;boss;BOSS;The Guardian;encounter;NULL;NULL;10;10;DEFECT;false
+c72cf2ca-b993-4c9e-82c2-1f11eba66a41;16;boss;BOSS;The Guardian;encounter;NULL;NULL;11;13;IRONCLAD;false
+b6d25362-47bc-4ecb-a310-d327c92bea51;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;7;6;DEFECT;false
+b7196689-0bc4-45d9-8c57-e41ef51ba989;50;boss;BOSS;Awakened One;encounter;NULL;NULL;33;18;THE_SILENT;false
+c48aa38f-eac6-4c41-a5b3-1495f776ac7f;33;boss;BOSS;Automaton;encounter;NULL;NULL;0;10;THE_SILENT;true
+c83c94c7-a074-4447-8406-9d2687a8ce25;16;boss;BOSS;The Guardian;encounter;NULL;NULL;18;12;IRONCLAD;false
+b7f90fc4-a0b9-4fb4-939a-fb8a39533280;50;boss;BOSS;Donu and Deca;encounter;NULL;NULL;11;12;THE_SILENT;false
+b7f90fc4-a0b9-4fb4-939a-fb8a39533280;56;boss;BOSS;The Heart;encounter;NULL;NULL;21;11;THE_SILENT;false
+c551074f-611d-4434-b54f-7a7d81f57493;50;boss;BOSS;Time Eater;encounter;NULL;NULL;5;13;THE_SILENT;false
+c551074f-611d-4434-b54f-7a7d81f57493;56;boss;BOSS;The Heart;encounter;NULL;NULL;56;6;THE_SILENT;false
+c5594f15-a932-480b-a00f-a33f1467fef8;16;boss;BOSS;The Guardian;encounter;NULL;NULL;7;10;THE_SILENT;true
+b8dd207c-7215-4c5e-9fd8-c4e17fe47b83;33;boss;BOSS;Automaton;encounter;NULL;NULL;27;9;THE_SILENT;true
+b8dd207c-7215-4c5e-9fd8-c4e17fe47b83;56;boss;BOSS;The Heart;encounter;NULL;NULL;42;12;THE_SILENT;true
+c6a817b2-f311-4417-a1ef-1bb838fa8515;33;boss;BOSS;Automaton;encounter;NULL;NULL;7;11;THE_SILENT;false
+c97c9040-dad4-4319-a462-a4833d2fddd7;51;boss;BOSS;Time Eater;encounter;NULL;NULL;41;9;DEFECT;false
+c70e75e3-a6de-430e-8e37-6a774ae2a749;33;boss;BOSS;Automaton;encounter;NULL;NULL;77;14;DEFECT;false
+c72cf2ca-b993-4c9e-82c2-1f11eba66a41;50;boss;BOSS;Donu and Deca;encounter;NULL;NULL;65;9;IRONCLAD;false
+ca6bbba8-66ad-4fbc-92ac-d18d6ca365b0;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;31;8;THE_SILENT;false
+ca6bbba8-66ad-4fbc-92ac-d18d6ca365b0;51;boss;BOSS;Time Eater;encounter;NULL;NULL;21;9;THE_SILENT;false
+c793a969-04ce-4530-b21b-cdeb0608bda9;33;boss;BOSS;Champ;encounter;NULL;NULL;15;16;DEFECT;false
+c83c94c7-a074-4447-8406-9d2687a8ce25;50;boss;BOSS;Donu and Deca;encounter;NULL;NULL;110;9;IRONCLAD;false
+bbccde02-bdfb-4335-a0db-1289b3a2a1f8;33;boss;BOSS;Collector;encounter;NULL;NULL;35;14;IRONCLAD;true
+bc4e9b69-b306-4e67-9020-0e9a58d33240;33;boss;BOSS;Automaton;encounter;NULL;NULL;0;10;DEFECT;true
+bc4e9b69-b306-4e67-9020-0e9a58d33240;56;boss;BOSS;The Heart;encounter;NULL;NULL;27;12;DEFECT;true
+c85c0c25-a5d2-45cf-ba59-2d02e19abbdb;33;boss;BOSS;Champ;encounter;NULL;NULL;24;14;IRONCLAD;false
+cbc7515e-bdca-4bad-a4fa-f4773b2bab70;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;44;11;THE_SILENT;false
+cd306525-ed0c-4c1a-80ee-4210a3fdf2ba;33;boss;BOSS;Collector;encounter;NULL;NULL;55;10;IRONCLAD;false
+c93a6d4c-1c50-4cac-a387-c3d8e3f20fd5;33;boss;BOSS;Collector;encounter;NULL;NULL;77;8;DEFECT;false
+c97c9040-dad4-4319-a462-a4833d2fddd7;50;boss;BOSS;Awakened One;encounter;NULL;NULL;32;23;DEFECT;false
+c97c9040-dad4-4319-a462-a4833d2fddd7;56;boss;BOSS;The Heart;encounter;NULL;NULL;30;6;DEFECT;false
+cdfbc5f0-93cc-4a9e-90ae-c5aa0ef6e3e6;33;boss;BOSS;Champ;encounter;NULL;NULL;53;8;IRONCLAD;true
+cdfbc5f0-93cc-4a9e-90ae-c5aa0ef6e3e6;56;boss;BOSS;The Heart;encounter;NULL;NULL;37;7;IRONCLAD;true
+bf5218c6-21a3-49fa-b81b-40f0d25147b9;33;boss;BOSS;Collector;encounter;NULL;NULL;59;6;IRONCLAD;false
+bfce894d-8bd7-4199-9fed-19175b17c927;50;boss;BOSS;Time Eater;encounter;NULL;NULL;0;6;THE_SILENT;false
+bfce894d-8bd7-4199-9fed-19175b17c927;56;boss;BOSS;The Heart;encounter;NULL;NULL;31;3;THE_SILENT;false
+caade5fb-8f14-42e0-bb65-7ddeb4466629;33;boss;BOSS;Champ;encounter;NULL;NULL;0;23;DEFECT;false
+cba9636e-15a0-4363-bf52-d3750dc9353a;33;boss;BOSS;Champ;encounter;NULL;NULL;52;19;IRONCLAD;false
+cf39969d-8b2c-4450-a02f-8e25888959d6;50;boss;BOSS;Time Eater;encounter;NULL;NULL;71;11;IRONCLAD;true
+cf39969d-8b2c-4450-a02f-8e25888959d6;56;boss;BOSS;The Heart;encounter;NULL;NULL;3;7;IRONCLAD;true
+c0f59c0b-c1cc-4ba9-afde-2b6095de0c29;33;boss;BOSS;Champ;encounter;NULL;NULL;59;12;IRONCLAD;false
+cd306525-ed0c-4c1a-80ee-4210a3fdf2ba;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;16;12;IRONCLAD;false
+d0d02184-f10a-45ad-95f8-46d30f6a21ec;16;boss;BOSS;The Guardian;encounter;NULL;NULL;29;14;THE_SILENT;true
+d0d02184-f10a-45ad-95f8-46d30f6a21ec;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;15;8;THE_SILENT;true
+d2300357-80e6-408e-8b9e-37b6fe7b2fee;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;5;8;IRONCLAD;true
+d2300357-80e6-408e-8b9e-37b6fe7b2fee;51;boss;BOSS;Time Eater;encounter;NULL;NULL;24;10;IRONCLAD;true
+c38d8f5d-9093-40fa-a22b-2763628af8eb;50;boss;BOSS;Donu and Deca;encounter;NULL;NULL;0;9;DEFECT;false
+c38d8f5d-9093-40fa-a22b-2763628af8eb;56;boss;BOSS;The Heart;encounter;NULL;NULL;88;8;DEFECT;false
+c3ba17d0-28a9-4c9d-894f-422f20fccd69;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;23;8;DEFECT;false
+c3ba17d0-28a9-4c9d-894f-422f20fccd69;51;boss;BOSS;Awakened One;encounter;NULL;NULL;27;37;DEFECT;false
+c48aa38f-eac6-4c41-a5b3-1495f776ac7f;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;16;13;THE_SILENT;true
+d2c25796-9fa1-43b3-bfe9-840cb21099e2;33;boss;BOSS;Automaton;encounter;NULL;NULL;44;8;DEFECT;false
+c551074f-611d-4434-b54f-7a7d81f57493;33;boss;BOSS;Champ;encounter;NULL;NULL;16;11;THE_SILENT;false
+c5594f15-a932-480b-a00f-a33f1467fef8;33;boss;BOSS;Champ;encounter;NULL;NULL;6;16;THE_SILENT;true
+c5594f15-a932-480b-a00f-a33f1467fef8;56;boss;BOSS;The Heart;encounter;NULL;NULL;18;8;THE_SILENT;true
+c5b16402-35d9-43d4-bc89-6cf4f63d7fc7;33;boss;BOSS;Collector;encounter;NULL;NULL;0;9;DEFECT;false
+c72cf2ca-b993-4c9e-82c2-1f11eba66a41;33;boss;BOSS;Automaton;encounter;NULL;NULL;63;8;IRONCLAD;false
+c793a969-04ce-4530-b21b-cdeb0608bda9;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;28;11;DEFECT;false
+c83c94c7-a074-4447-8406-9d2687a8ce25;33;boss;BOSS;Collector;encounter;NULL;NULL;49;11;IRONCLAD;false
+cdfbc5f0-93cc-4a9e-90ae-c5aa0ef6e3e6;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;13;8;IRONCLAD;true
+cec1ffa4-303b-4227-8260-54e292431578;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;46;7;DEFECT;false
+c85c0c25-a5d2-45cf-ba59-2d02e19abbdb;16;boss;BOSS;The Guardian;encounter;NULL;NULL;24;12;IRONCLAD;false
+d61e063a-d971-447a-b216-d99f48b6d546;51;boss;BOSS;Time Eater;encounter;NULL;NULL;15;8;IRONCLAD;true
+d63c1384-8738-4210-b14f-2735008fc1c5;16;boss;BOSS;The Guardian;encounter;NULL;NULL;19;13;THE_SILENT;true
+d63c1384-8738-4210-b14f-2735008fc1c5;51;boss;BOSS;Awakened One;encounter;NULL;NULL;21;26;THE_SILENT;true
+cf39969d-8b2c-4450-a02f-8e25888959d6;33;boss;BOSS;Champ;encounter;NULL;NULL;4;8;IRONCLAD;true
+c93a6d4c-1c50-4cac-a387-c3d8e3f20fd5;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;0;7;DEFECT;false
+c97c9040-dad4-4319-a462-a4833d2fddd7;33;boss;BOSS;Automaton;encounter;NULL;NULL;0;9;DEFECT;false
+d0d02184-f10a-45ad-95f8-46d30f6a21ec;50;boss;BOSS;Awakened One;encounter;NULL;NULL;21;19;THE_SILENT;true
+d7e691d0-a65d-4518-99b5-65350f637dba;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;28;8;DEFECT;false
+d7f40a7b-04ff-4613-8da1-ed430478b946;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;28;9;THE_SILENT;false
+d836a5d2-59c0-4af6-b616-6cfa3725dba4;33;boss;BOSS;Collector;encounter;NULL;NULL;49;6;IRONCLAD;true
+d836a5d2-59c0-4af6-b616-6cfa3725dba4;56;boss;BOSS;The Heart;encounter;NULL;NULL;23;6;IRONCLAD;true
+ca6bbba8-66ad-4fbc-92ac-d18d6ca365b0;33;boss;BOSS;Collector;encounter;NULL;NULL;24;9;THE_SILENT;false
+d2300357-80e6-408e-8b9e-37b6fe7b2fee;50;boss;BOSS;Donu and Deca;encounter;NULL;NULL;6;6;IRONCLAD;true
+d8a52eda-a622-4418-997b-1a09aa21b217;16;boss;BOSS;The Guardian;encounter;NULL;NULL;47;9;IRONCLAD;false
+caade5fb-8f14-42e0-bb65-7ddeb4466629;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;2;8;DEFECT;false
+d92a287e-1290-4902-ba28-f7e9cd91c665;16;boss;BOSS;The Guardian;encounter;NULL;NULL;13;15;DEFECT;false
+d9585307-f034-4985-aacd-01ad6774ab2d;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;48;12;THE_SILENT;false
+cba9636e-15a0-4363-bf52-d3750dc9353a;50;boss;BOSS;Time Eater;encounter;NULL;NULL;58;14;IRONCLAD;false
+d3bf48ec-e061-415d-b1dc-604af5686ad4;16;boss;BOSS;The Guardian;encounter;NULL;NULL;29;12;IRONCLAD;false
+d9a7a844-fc86-42d9-82dc-07dfb55dd244;33;boss;BOSS;Automaton;encounter;NULL;NULL;4;13;THE_SILENT;true
+cd306525-ed0c-4c1a-80ee-4210a3fdf2ba;51;boss;BOSS;Time Eater;encounter;NULL;NULL;58;12;IRONCLAD;false
+daea0399-48d2-4b61-9fc9-5a6cf57bdc9a;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;38;9;IRONCLAD;true
+daea0399-48d2-4b61-9fc9-5a6cf57bdc9a;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;3;7;IRONCLAD;true
+cdfbc5f0-93cc-4a9e-90ae-c5aa0ef6e3e6;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;35;5;IRONCLAD;true
+d5d64bf0-e618-4766-bd35-6c2a71dabaec;50;boss;BOSS;Awakened One;encounter;NULL;NULL;2;18;THE_SILENT;false
+d5d64bf0-e618-4766-bd35-6c2a71dabaec;56;boss;BOSS;The Heart;encounter;NULL;NULL;30;2;THE_SILENT;false
+d61e063a-d971-447a-b216-d99f48b6d546;50;boss;BOSS;Donu and Deca;encounter;NULL;NULL;11;10;IRONCLAD;true
+d61e063a-d971-447a-b216-d99f48b6d546;56;boss;BOSS;The Heart;encounter;NULL;NULL;53;10;IRONCLAD;true
+db0d094d-f0e3-4bc5-9a8b-882520983436;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;31;10;IRONCLAD;false
+db2c8b57-53b9-482b-99d1-30c048a5b8b8;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;20;8;DEFECT;false
+db3ce7b2-f658-48f5-9a5f-dc985613d95d;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;18;10;IRONCLAD;true
+db3ce7b2-f658-48f5-9a5f-dc985613d95d;51;boss;BOSS;Time Eater;encounter;NULL;NULL;26;7;IRONCLAD;true
+cec1ffa4-303b-4227-8260-54e292431578;33;boss;BOSS;Champ;encounter;NULL;NULL;21;19;DEFECT;false
+cf39969d-8b2c-4450-a02f-8e25888959d6;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;33;8;IRONCLAD;true
+cf39969d-8b2c-4450-a02f-8e25888959d6;51;boss;BOSS;Awakened One;encounter;NULL;NULL;11;14;IRONCLAD;true
+d71ec6a3-b0c2-402c-ad89-23a1a69e9545;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;43;13;IRONCLAD;false
+dc2dbaf7-732c-4a9f-aab2-0003841f34a2;33;boss;BOSS;Collector;encounter;NULL;NULL;25;4;DEFECT;false
+dc3b7e4a-47fa-4fbe-b8f9-07058835ac9f;56;boss;BOSS;The Heart;encounter;NULL;NULL;5;6;IRONCLAD;true
+d0d02184-f10a-45ad-95f8-46d30f6a21ec;33;boss;BOSS;Collector;encounter;NULL;NULL;20;7;THE_SILENT;true
+d0d02184-f10a-45ad-95f8-46d30f6a21ec;56;boss;BOSS;The Heart;encounter;NULL;NULL;15;9;THE_SILENT;true
+d1398790-5996-4880-bd5b-8865e04b81ff;16;boss;BOSS;The Guardian;encounter;NULL;NULL;27;2;IRONCLAD;false
+d836a5d2-59c0-4af6-b616-6cfa3725dba4;50;boss;BOSS;Time Eater;encounter;NULL;NULL;10;7;IRONCLAD;true
+d2300357-80e6-408e-8b9e-37b6fe7b2fee;56;boss;BOSS;The Heart;encounter;NULL;NULL;42;10;IRONCLAD;true
+dce1d9c1-c4d5-4581-933c-c381eb7b17fe;50;boss;BOSS;Awakened One;encounter;NULL;NULL;47;23;DEFECT;false
+dd0e7967-d412-477f-8e1b-120f4a874aac;50;boss;BOSS;Awakened One;encounter;NULL;NULL;0;21;THE_SILENT;true
+d9a7a844-fc86-42d9-82dc-07dfb55dd244;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;2;8;THE_SILENT;true
+de2ed4db-cbc4-489e-a320-5aa7facc2528;33;boss;BOSS;Automaton;encounter;NULL;NULL;6;10;THE_SILENT;true
+de5aea63-69c0-491b-8cec-8424e28019b0;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;63;11;THE_SILENT;false
+d9a7a844-fc86-42d9-82dc-07dfb55dd244;51;boss;BOSS;Awakened One;encounter;NULL;NULL;56;29;THE_SILENT;true
+de6edc33-4135-48f3-b5c8-e7a34d1b5bf4;33;boss;BOSS;Champ;encounter;NULL;NULL;0;9;THE_SILENT;true
+df43214b-29fa-414b-bfe6-91de2946fbbb;33;boss;BOSS;Collector;encounter;NULL;NULL;87;8;IRONCLAD;false
+dfc89f75-a06d-4266-bfd9-570a99118b35;33;boss;BOSS;Champ;encounter;NULL;NULL;82;15;DEFECT;false
+dff61c55-66cf-4f5e-86ef-626a43806af4;16;boss;BOSS;The Guardian;encounter;NULL;NULL;14;11;THE_SILENT;false
+dff61c55-66cf-4f5e-86ef-626a43806af4;51;boss;BOSS;Time Eater;encounter;NULL;NULL;38;16;THE_SILENT;false
+e04a939e-10a3-43cf-af94-8e80747adca4;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;36;7;IRONCLAD;false
+d5d64bf0-e618-4766-bd35-6c2a71dabaec;33;boss;BOSS;Collector;encounter;NULL;NULL;0;11;THE_SILENT;false
+d61e063a-d971-447a-b216-d99f48b6d546;33;boss;BOSS;Automaton;encounter;NULL;NULL;38;8;IRONCLAD;true
+db3ce7b2-f658-48f5-9a5f-dc985613d95d;50;boss;BOSS;Donu and Deca;encounter;NULL;NULL;59;10;IRONCLAD;true
+e0ac5839-a8a4-4eb1-b630-012d607bda48;33;boss;BOSS;Champ;encounter;NULL;NULL;3;8;THE_SILENT;true
+d63c1384-8738-4210-b14f-2735008fc1c5;50;boss;BOSS;Donu and Deca;encounter;NULL;NULL;46;16;THE_SILENT;true
+d63c1384-8738-4210-b14f-2735008fc1c5;56;boss;BOSS;The Heart;encounter;NULL;NULL;33;13;THE_SILENT;true
+dc2dbaf7-732c-4a9f-aab2-0003841f34a2;50;boss;BOSS;Time Eater;encounter;NULL;NULL;15;26;DEFECT;false
+dc2dbaf7-732c-4a9f-aab2-0003841f34a2;56;boss;BOSS;The Heart;encounter;NULL;NULL;56;3;DEFECT;false
+dc3b7e4a-47fa-4fbe-b8f9-07058835ac9f;50;boss;BOSS;Donu and Deca;encounter;NULL;NULL;20;6;IRONCLAD;true
+e2530450-2d5b-4133-9fea-99657121a587;50;boss;BOSS;Awakened One;encounter;NULL;NULL;10;13;THE_SILENT;true
+e2530450-2d5b-4133-9fea-99657121a587;56;boss;BOSS;The Heart;encounter;NULL;NULL;16;5;THE_SILENT;true
+dce1d9c1-c4d5-4581-933c-c381eb7b17fe;33;boss;BOSS;Champ;encounter;NULL;NULL;34;20;DEFECT;false
+dce1d9c1-c4d5-4581-933c-c381eb7b17fe;56;boss;BOSS;The Heart;encounter;NULL;NULL;61;5;DEFECT;false
+dd0e7967-d412-477f-8e1b-120f4a874aac;16;boss;BOSS;The Guardian;encounter;NULL;NULL;26;11;THE_SILENT;true
+dd0e7967-d412-477f-8e1b-120f4a874aac;51;boss;BOSS;Time Eater;encounter;NULL;NULL;0;16;THE_SILENT;true
+dd660489-9009-43f9-be2a-a4d71fa2ceba;33;boss;BOSS;Champ;encounter;NULL;NULL;25;9;IRONCLAD;false
+d836a5d2-59c0-4af6-b616-6cfa3725dba4;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;5;4;IRONCLAD;true
+de2ed4db-cbc4-489e-a320-5aa7facc2528;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;28;9;THE_SILENT;true
+de6edc33-4135-48f3-b5c8-e7a34d1b5bf4;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;36;10;THE_SILENT;true
+e3aea5fb-983e-4f12-bd81-72daae7e9669;50;boss;BOSS;Time Eater;encounter;NULL;NULL;14;11;IRONCLAD;true
+e3aea5fb-983e-4f12-bd81-72daae7e9669;56;boss;BOSS;The Heart;encounter;NULL;NULL;87;7;IRONCLAD;true
+e3f66ee8-5cf9-4848-8dd6-d1ec21b367ad;33;boss;BOSS;Collector;encounter;NULL;NULL;79;8;IRONCLAD;false
+e48f8de9-af8a-4a75-ac54-4dc13a06a3e1;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;10;6;THE_SILENT;false
+df43214b-29fa-414b-bfe6-91de2946fbbb;16;boss;BOSS;The Guardian;encounter;NULL;NULL;8;11;IRONCLAD;false
+df83dcca-b29f-48d4-bfdd-9e4b7da2509e;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;38;3;THE_SILENT;false
+dfc89f75-a06d-4266-bfd9-570a99118b35;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;17;8;DEFECT;false
+dff61c55-66cf-4f5e-86ef-626a43806af4;50;boss;BOSS;Donu and Deca;encounter;NULL;NULL;12;9;THE_SILENT;false
+e537401f-2968-48ee-8a14-0f68cb2b69e7;50;boss;BOSS;Time Eater;encounter;NULL;NULL;19;9;IRONCLAD;true
+e537401f-2968-48ee-8a14-0f68cb2b69e7;56;boss;BOSS;The Heart;encounter;NULL;NULL;106;9;IRONCLAD;true
+e57d856d-7179-456c-ab83-614cbf3b85b3;33;boss;BOSS;Champ;encounter;NULL;NULL;13;5;DEFECT;true
+d98030f7-ed54-41e1-b311-57294e57b900;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;42;11;IRONCLAD;false
+d9a7a844-fc86-42d9-82dc-07dfb55dd244;50;boss;BOSS;Time Eater;encounter;NULL;NULL;50;14;THE_SILENT;true
+e04a939e-10a3-43cf-af94-8e80747adca4;50;boss;BOSS;Time Eater;encounter;NULL;NULL;14;9;IRONCLAD;false
+e04a939e-10a3-43cf-af94-8e80747adca4;56;boss;BOSS;The Heart;encounter;NULL;NULL;80;3;IRONCLAD;false
+e0ac5839-a8a4-4eb1-b630-012d607bda48;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;9;7;THE_SILENT;true
+e5a6aef3-0892-40c3-a2d5-9a76291eb590;51;boss;BOSS;Time Eater;encounter;NULL;NULL;33;12;IRONCLAD;true
+e0ac5839-a8a4-4eb1-b630-012d607bda48;51;boss;BOSS;Awakened One;encounter;NULL;NULL;21;15;THE_SILENT;true
+daea0399-48d2-4b61-9fc9-5a6cf57bdc9a;33;boss;BOSS;Champ;encounter;NULL;NULL;16;10;IRONCLAD;true
+daea0399-48d2-4b61-9fc9-5a6cf57bdc9a;56;boss;BOSS;The Heart;encounter;NULL;NULL;44;8;IRONCLAD;true
+db2c8b57-53b9-482b-99d1-30c048a5b8b8;33;boss;BOSS;Automaton;encounter;NULL;NULL;76;6;DEFECT;false
+db3ce7b2-f658-48f5-9a5f-dc985613d95d;56;boss;BOSS;The Heart;encounter;NULL;NULL;69;11;IRONCLAD;true
+e703ee29-66c3-4d3e-aadf-293b2b98ba23;51;boss;BOSS;Awakened One;encounter;NULL;NULL;15;10;DEFECT;false
+e7908fbd-762e-4b8c-9b98-b52ef56444cc;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;21;5;DEFECT;false
+e3aea5fb-983e-4f12-bd81-72daae7e9669;33;boss;BOSS;Champ;encounter;NULL;NULL;7;8;IRONCLAD;true
+dc2dbaf7-732c-4a9f-aab2-0003841f34a2;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;8;12;DEFECT;false
+dc3b7e4a-47fa-4fbe-b8f9-07058835ac9f;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;43;8;IRONCLAD;true
+dc3b7e4a-47fa-4fbe-b8f9-07058835ac9f;51;boss;BOSS;Time Eater;encounter;NULL;NULL;0;7;IRONCLAD;true
+e7ab3f2b-f760-4da6-9bd9-8c29a0f4706b;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;20;7;DEFECT;false
+e3f66ee8-5cf9-4848-8dd6-d1ec21b367ad;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;23;8;IRONCLAD;false
+e463f901-6b32-4cf3-ac7f-62d7472aaf1f;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;5;9;THE_SILENT;false
+e463f901-6b32-4cf3-ac7f-62d7472aaf1f;51;boss;BOSS;Time Eater;encounter;NULL;NULL;0;10;THE_SILENT;false
+e48f8de9-af8a-4a75-ac54-4dc13a06a3e1;51;boss;BOSS;Awakened One;encounter;NULL;NULL;33;5;THE_SILENT;false
+dce1d9c1-c4d5-4581-933c-c381eb7b17fe;16;boss;BOSS;The Guardian;encounter;NULL;NULL;19;11;DEFECT;false
+e7fd7b5b-6ca8-480e-9ff7-f3de61ba6138;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;41;9;THE_SILENT;false
+e57d856d-7179-456c-ab83-614cbf3b85b3;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;56;11;DEFECT;true
+e57d856d-7179-456c-ab83-614cbf3b85b3;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;0;4;DEFECT;true
+e97fc9af-bd35-47be-8efa-4c9d9057095b;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;15;9;THE_SILENT;false
+e5a6aef3-0892-40c3-a2d5-9a76291eb590;50;boss;BOSS;Awakened One;encounter;NULL;NULL;73;11;IRONCLAD;true
+e5c2939b-173a-4c1d-b1ad-d06c725ba330;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;22;10;THE_SILENT;false
+de2ed4db-cbc4-489e-a320-5aa7facc2528;51;boss;BOSS;Awakened One;encounter;NULL;NULL;30;18;THE_SILENT;true
+e9bbbc82-6699-43c6-9c47-6aaa6ab27ed1;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;10;11;DEFECT;false
+ea13d8c6-2610-4216-9012-0b1e4d958bc9;16;boss;BOSS;The Guardian;encounter;NULL;NULL;45;8;IRONCLAD;true
+e703ee29-66c3-4d3e-aadf-293b2b98ba23;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;20;8;DEFECT;false
+de6edc33-4135-48f3-b5c8-e7a34d1b5bf4;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;27;10;THE_SILENT;true
+dfa5653b-29d3-49a0-b434-ba7421eacb1c;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;27;9;IRONCLAD;false
+ea901029-e208-49fd-b21a-9a67e4026c18;33;boss;BOSS;Champ;encounter;NULL;NULL;7;11;DEFECT;false
+ea901029-e208-49fd-b21a-9a67e4026c18;56;boss;BOSS;The Heart;encounter;NULL;NULL;55;2;DEFECT;false
+eac2aed9-3397-414b-8c42-e32af99d477f;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;28;9;THE_SILENT;true
+eac2aed9-3397-414b-8c42-e32af99d477f;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;41;7;THE_SILENT;true
+eb7f6e88-8f10-4df8-a89d-0e40fb31d5c5;33;boss;BOSS;Automaton;encounter;NULL;NULL;9;12;THE_SILENT;false
+dff61c55-66cf-4f5e-86ef-626a43806af4;56;boss;BOSS;The Heart;encounter;NULL;NULL;80;11;THE_SILENT;false
+e04a939e-10a3-43cf-af94-8e80747adca4;33;boss;BOSS;Automaton;encounter;NULL;NULL;9;7;IRONCLAD;false
+ec276160-c1ea-4db5-8ccb-c72acdae49e1;33;boss;BOSS;Champ;encounter;NULL;NULL;8;14;DEFECT;true
+e7cd21d2-2cda-4a51-85da-1d6ef5f6d225;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;47;14;THE_SILENT;false
+ecc73feb-e0cd-43fb-b1e9-6a495dd9e190;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;25;10;IRONCLAD;false
+e0ac5839-a8a4-4eb1-b630-012d607bda48;50;boss;BOSS;Donu and Deca;encounter;NULL;NULL;0;9;THE_SILENT;true
+e2530450-2d5b-4133-9fea-99657121a587;16;boss;BOSS;The Guardian;encounter;NULL;NULL;2;10;THE_SILENT;true
+e2530450-2d5b-4133-9fea-99657121a587;51;boss;BOSS;Time Eater;encounter;NULL;NULL;4;3;THE_SILENT;true
+e9a84f58-8bd3-46bf-8bae-9bbfa30d67e5;33;boss;BOSS;Collector;encounter;NULL;NULL;6;3;THE_SILENT;false
+e9bbbc82-6699-43c6-9c47-6aaa6ab27ed1;50;boss;BOSS;Time Eater;encounter;NULL;NULL;0;23;DEFECT;false
+ea13d8c6-2610-4216-9012-0b1e4d958bc9;33;boss;BOSS;Champ;encounter;NULL;NULL;35;6;IRONCLAD;true
+ea13d8c6-2610-4216-9012-0b1e4d958bc9;56;boss;BOSS;The Heart;encounter;NULL;NULL;133;8;IRONCLAD;true
+ee7c2c90-5572-480b-b802-e1511f977816;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;53;12;THE_SILENT;false
+e3aea5fb-983e-4f12-bd81-72daae7e9669;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;0;4;IRONCLAD;true
+e3aea5fb-983e-4f12-bd81-72daae7e9669;51;boss;BOSS;Awakened One;encounter;NULL;NULL;88;11;IRONCLAD;true
+e463f901-6b32-4cf3-ac7f-62d7472aaf1f;33;boss;BOSS;Collector;encounter;NULL;NULL;6;10;THE_SILENT;false
+eac2aed9-3397-414b-8c42-e32af99d477f;33;boss;BOSS;Champ;encounter;NULL;NULL;15;9;THE_SILENT;true
+eb7f6e88-8f10-4df8-a89d-0e40fb31d5c5;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;9;12;THE_SILENT;false
+ef2b2520-6185-46ed-8cb1-3dff16882f1b;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;23;9;IRONCLAD;false
+ef2b2520-6185-46ed-8cb1-3dff16882f1b;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;40;4;IRONCLAD;false
+ef4a7114-b98b-48c5-a3d4-f309e261e839;50;boss;BOSS;Awakened One;encounter;NULL;NULL;22;6;DEFECT;false
+ef877661-8182-46ca-b318-3a8eb546cd5d;33;boss;BOSS;Champ;encounter;NULL;NULL;27;13;IRONCLAD;true
+ef877661-8182-46ca-b318-3a8eb546cd5d;56;boss;BOSS;The Heart;encounter;NULL;NULL;19;5;IRONCLAD;true
+e48f8de9-af8a-4a75-ac54-4dc13a06a3e1;50;boss;BOSS;Donu and Deca;encounter;NULL;NULL;12;15;THE_SILENT;false
+e537401f-2968-48ee-8a14-0f68cb2b69e7;16;boss;BOSS;The Guardian;encounter;NULL;NULL;31;6;IRONCLAD;true
+e537401f-2968-48ee-8a14-0f68cb2b69e7;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;31;7;IRONCLAD;true
+ec276160-c1ea-4db5-8ccb-c72acdae49e1;16;boss;BOSS;The Guardian;encounter;NULL;NULL;20;8;DEFECT;true
+ec276160-c1ea-4db5-8ccb-c72acdae49e1;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;19;14;DEFECT;true
+e5a6aef3-0892-40c3-a2d5-9a76291eb590;33;boss;BOSS;Champ;encounter;NULL;NULL;24;19;IRONCLAD;true
+e5a6aef3-0892-40c3-a2d5-9a76291eb590;56;boss;BOSS;The Heart;encounter;NULL;NULL;64;12;IRONCLAD;true
+e5fa576a-18ba-4450-b03d-f2c9e0aca2bd;16;boss;BOSS;The Guardian;encounter;NULL;NULL;36;5;IRONCLAD;false
+f03145a9-5280-49d2-9a1f-9837a6096478;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;24;6;DEFECT;false
+f06e41fe-81f9-473b-ad0c-f01824e7c495;33;boss;BOSS;Automaton;encounter;NULL;NULL;8;7;THE_SILENT;true
+f06e41fe-81f9-473b-ad0c-f01824e7c495;56;boss;BOSS;The Heart;encounter;NULL;NULL;12;7;THE_SILENT;true
+f0b794fb-eeb8-411e-9d11-c30165da1f93;16;boss;BOSS;The Guardian;encounter;NULL;NULL;18;17;DEFECT;true
+f0b794fb-eeb8-411e-9d11-c30165da1f93;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;0;11;DEFECT;true
+e703ee29-66c3-4d3e-aadf-293b2b98ba23;33;boss;BOSS;Automaton;encounter;NULL;NULL;8;10;DEFECT;false
+e703ee29-66c3-4d3e-aadf-293b2b98ba23;56;boss;BOSS;The Heart;encounter;NULL;NULL;24;3;DEFECT;false
+e7908fbd-762e-4b8c-9b98-b52ef56444cc;50;boss;BOSS;Time Eater;encounter;NULL;NULL;79;13;DEFECT;false
+e7cd21d2-2cda-4a51-85da-1d6ef5f6d225;33;boss;BOSS;Automaton;encounter;NULL;NULL;18;11;THE_SILENT;false
+f1b02f21-e597-4b15-a172-ee4138a1b636;50;boss;BOSS;Awakened One;encounter;NULL;NULL;10;14;IRONCLAD;false
+e7dd62f2-e254-482e-a0ac-9491b26db70c;33;boss;BOSS;Automaton;encounter;NULL;NULL;78;12;THE_SILENT;false
+e9bbbc82-6699-43c6-9c47-6aaa6ab27ed1;33;boss;BOSS;Collector;encounter;NULL;NULL;25;9;DEFECT;false
+f2e1e133-effa-4c4f-b073-6b7d78fa0d08;33;boss;BOSS;Collector;encounter;NULL;NULL;53;10;THE_SILENT;true
+f3725655-1c7c-4101-8502-467bf0b795b4;33;boss;BOSS;Champ;encounter;NULL;NULL;47;19;THE_SILENT;false
+ea13d8c6-2610-4216-9012-0b1e4d958bc9;50;boss;BOSS;Donu and Deca;encounter;NULL;NULL;20;4;IRONCLAD;true
+f61306d2-abc7-49ad-b1e9-3add80ce104d;33;boss;BOSS;Collector;encounter;NULL;NULL;76;9;DEFECT;false
+f625c50c-e707-4ab2-8cf3-3ca9fd473e79;56;boss;BOSS;The Heart;encounter;NULL;NULL;43;10;THE_SILENT;true
+ea901029-e208-49fd-b21a-9a67e4026c18;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;0;9;DEFECT;false
+ea901029-e208-49fd-b21a-9a67e4026c18;51;boss;BOSS;Time Eater;encounter;NULL;NULL;25;11;DEFECT;false
+eac2aed9-3397-414b-8c42-e32af99d477f;50;boss;BOSS;Time Eater;encounter;NULL;NULL;17;12;THE_SILENT;true
+eac2aed9-3397-414b-8c42-e32af99d477f;56;boss;BOSS;The Heart;encounter;NULL;NULL;33;12;THE_SILENT;true
+f65dd175-ea3f-4a69-ad44-38fa48675b84;50;boss;BOSS;Awakened One;encounter;NULL;NULL;0;9;DEFECT;true
+f68663ea-4b40-4e0f-a26e-46b84c1ae84e;56;boss;BOSS;The Heart;encounter;NULL;NULL;3;11;THE_SILENT;true
+eb7f6e88-8f10-4df8-a89d-0e40fb31d5c5;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;2;1;THE_SILENT;false
+f6dda111-c32c-4400-9405-56fb616a9a74;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;0;10;DEFECT;false
+ecc73feb-e0cd-43fb-b1e9-6a495dd9e190;33;boss;BOSS;Collector;encounter;NULL;NULL;42;7;IRONCLAD;false
+ef4a7114-b98b-48c5-a3d4-f309e261e839;33;boss;BOSS;Collector;encounter;NULL;NULL;0;6;DEFECT;false
+ef4a7114-b98b-48c5-a3d4-f309e261e839;56;boss;BOSS;The Heart;encounter;NULL;NULL;81;5;DEFECT;false
+ef877661-8182-46ca-b318-3a8eb546cd5d;50;boss;BOSS;Time Eater;encounter;NULL;NULL;37;8;IRONCLAD;true
+f75ce721-cf2c-48f4-b1e0-e6b606bfe781;50;boss;BOSS;Donu and Deca;encounter;NULL;NULL;16;9;DEFECT;true
+f75fc0ed-91ab-47c3-b23e-2bd2be35652d;33;boss;BOSS;Collector;encounter;NULL;NULL;30;7;IRONCLAD;false
+f7a5050f-043c-4e69-ae4a-84d167de6021;33;boss;BOSS;Collector;encounter;NULL;NULL;0;8;DEFECT;true
+f7a5050f-043c-4e69-ae4a-84d167de6021;56;boss;BOSS;The Heart;encounter;NULL;NULL;61;8;DEFECT;true
+ed7cb9a0-10cc-420d-9ba1-ac457a57cab3;16;boss;BOSS;The Guardian;encounter;NULL;NULL;51;6;IRONCLAD;false
+f8701f91-65f0-4c72-bf6d-7b7255d87b1f;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;12;9;THE_SILENT;true
+f0b794fb-eeb8-411e-9d11-c30165da1f93;33;boss;BOSS;Collector;encounter;NULL;NULL;0;11;DEFECT;true
+f8701f91-65f0-4c72-bf6d-7b7255d87b1f;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;1;10;THE_SILENT;true
+f97af8c5-8eea-4a72-bba3-eb6fe841718f;16;boss;BOSS;The Guardian;encounter;NULL;NULL;16;11;IRONCLAD;false
+ee4888bb-feff-4c0c-955d-bb3f06da856a;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;45;9;DEFECT;false
+fa03afbb-de4e-4b0f-a32e-2169844abb7a;50;boss;BOSS;Time Eater;encounter;NULL;NULL;1;6;THE_SILENT;true
+fad0c09c-9225-4214-8feb-676d3d357eb8;50;boss;BOSS;Time Eater;encounter;NULL;NULL;40;11;IRONCLAD;false
+ef2b2520-6185-46ed-8cb1-3dff16882f1b;33;boss;BOSS;Automaton;encounter;NULL;NULL;49;10;IRONCLAD;false
+ef877661-8182-46ca-b318-3a8eb546cd5d;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;32;11;IRONCLAD;true
+ef877661-8182-46ca-b318-3a8eb546cd5d;51;boss;BOSS;Awakened One;encounter;NULL;NULL;32;5;IRONCLAD;true
+fb750146-931d-462f-b2ad-45b198b61499;33;boss;BOSS;Collector;encounter;NULL;NULL;47;8;DEFECT;false
+fbe05472-c2cc-4dfb-8525-5ca8197e06b3;51;boss;BOSS;Time Eater;encounter;NULL;NULL;0;21;THE_SILENT;true
+f2e1e133-effa-4c4f-b073-6b7d78fa0d08;16;boss;BOSS;The Guardian;encounter;NULL;NULL;5;8;THE_SILENT;true
+f2e1e133-effa-4c4f-b073-6b7d78fa0d08;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;0;8;THE_SILENT;true
+fca80ba4-b41d-4c8b-86ad-09fda7dfbb20;51;boss;BOSS;Time Eater;encounter;NULL;NULL;59;10;THE_SILENT;true
+f06e41fe-81f9-473b-ad0c-f01824e7c495;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;38;10;THE_SILENT;true
+f06e41fe-81f9-473b-ad0c-f01824e7c495;51;boss;BOSS;Time Eater;encounter;NULL;NULL;6;5;THE_SILENT;true
+f07cb40f-90c2-4c97-833f-dcf22fcffa22;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;61;11;IRONCLAD;false
+f0b794fb-eeb8-411e-9d11-c30165da1f93;56;boss;BOSS;The Heart;encounter;NULL;NULL;28;14;DEFECT;true
+f50f9188-ece8-408a-8c83-96d31b0613fa;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;15;9;IRONCLAD;true
+fd5f7d09-8e4c-4fe3-bdd7-b9344903585e;33;boss;BOSS;Collector;encounter;NULL;NULL;0;9;DEFECT;false
+f50f9188-ece8-408a-8c83-96d31b0613fa;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;10;5;IRONCLAD;true
+f59a2870-53f1-4a8a-8dde-a1718a01b99d;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;22;7;DEFECT;false
+f1b02f21-e597-4b15-a172-ee4138a1b636;16;boss;BOSS;The Guardian;encounter;NULL;NULL;14;8;IRONCLAD;false
+f1b02f21-e597-4b15-a172-ee4138a1b636;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;69;6;IRONCLAD;false
+f61306d2-abc7-49ad-b1e9-3add80ce104d;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;42;10;DEFECT;false
+f625c50c-e707-4ab2-8cf3-3ca9fd473e79;50;boss;BOSS;Time Eater;encounter;NULL;NULL;1;14;THE_SILENT;true
+f65dd175-ea3f-4a69-ad44-38fa48675b84;33;boss;BOSS;Automaton;encounter;NULL;NULL;7;10;DEFECT;true
+f65dd175-ea3f-4a69-ad44-38fa48675b84;56;boss;BOSS;The Heart;encounter;NULL;NULL;51;7;DEFECT;true
+f68663ea-4b40-4e0f-a26e-46b84c1ae84e;33;boss;BOSS;Collector;encounter;NULL;NULL;3;11;THE_SILENT;true
+f69ce8c4-1be1-42f6-a52a-3ee9c815e820;16;boss;BOSS;The Guardian;encounter;NULL;NULL;0;12;IRONCLAD;false
+f3725655-1c7c-4101-8502-467bf0b795b4;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;41;11;THE_SILENT;false
+f75ce721-cf2c-48f4-b1e0-e6b606bfe781;16;boss;BOSS;The Guardian;encounter;NULL;NULL;9;9;DEFECT;true
+f75ce721-cf2c-48f4-b1e0-e6b606bfe781;51;boss;BOSS;Awakened One;encounter;NULL;NULL;28;11;DEFECT;true
+f50f9188-ece8-408a-8c83-96d31b0613fa;33;boss;BOSS;Collector;encounter;NULL;NULL;6;4;IRONCLAD;true
+f75fc0ed-91ab-47c3-b23e-2bd2be35652d;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;53;12;IRONCLAD;false
+f7a5050f-043c-4e69-ae4a-84d167de6021;50;boss;BOSS;Time Eater;encounter;NULL;NULL;0;9;DEFECT;true
+f8701f91-65f0-4c72-bf6d-7b7255d87b1f;33;boss;BOSS;Automaton;encounter;NULL;NULL;5;11;THE_SILENT;true
+f625c50c-e707-4ab2-8cf3-3ca9fd473e79;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;5;8;THE_SILENT;true
+f625c50c-e707-4ab2-8cf3-3ca9fd473e79;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;9;14;THE_SILENT;true
+fa03afbb-de4e-4b0f-a32e-2169844abb7a;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;17;9;THE_SILENT;true
+f65dd175-ea3f-4a69-ad44-38fa48675b84;16;boss;BOSS;The Guardian;encounter;NULL;NULL;21;12;DEFECT;true
+f68663ea-4b40-4e0f-a26e-46b84c1ae84e;16;boss;BOSS;The Guardian;encounter;NULL;NULL;18;11;THE_SILENT;true
+f68663ea-4b40-4e0f-a26e-46b84c1ae84e;51;boss;BOSS;Time Eater;encounter;NULL;NULL;2;9;THE_SILENT;true
+fad0c09c-9225-4214-8feb-676d3d357eb8;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;41;9;IRONCLAD;false
+fbe05472-c2cc-4dfb-8525-5ca8197e06b3;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;0;10;THE_SILENT;true
+fca80ba4-b41d-4c8b-86ad-09fda7dfbb20;16;boss;BOSS;The Guardian;encounter;NULL;NULL;7;13;THE_SILENT;true
+f7a26b35-9d9d-4f8f-a6c5-42a76e9eaa68;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;32;12;THE_SILENT;false
+f7a5050f-043c-4e69-ae4a-84d167de6021;16;boss;BOSS;The Guardian;encounter;NULL;NULL;15;9;DEFECT;true
+f7a5050f-043c-4e69-ae4a-84d167de6021;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;6;5;DEFECT;true
+f8701f91-65f0-4c72-bf6d-7b7255d87b1f;56;boss;BOSS;The Heart;encounter;NULL;NULL;36;9;THE_SILENT;true
+fa03afbb-de4e-4b0f-a32e-2169844abb7a;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;4;10;THE_SILENT;true
+fefad07c-c111-4fa4-abbc-685dc307da4a;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;29;9;DEFECT;false
+ff0e20f5-5e36-4948-b087-e19699d3662d;33;boss;BOSS;Collector;encounter;NULL;NULL;42;12;DEFECT;false
+fa0c28d5-42cb-4316-bb6c-72645d648a53;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;18;9;DEFECT;false
+fad0c09c-9225-4214-8feb-676d3d357eb8;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;38;10;IRONCLAD;false
+fbe05472-c2cc-4dfb-8525-5ca8197e06b3;33;boss;BOSS;Champ;encounter;NULL;NULL;1;22;THE_SILENT;true
+fca80ba4-b41d-4c8b-86ad-09fda7dfbb20;33;boss;BOSS;Automaton;encounter;NULL;NULL;32;7;THE_SILENT;true
+fcfa047e-d06f-4d54-9a10-60dfa90c30f1;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;22;6;IRONCLAD;false
+fd5f7d09-8e4c-4fe3-bdd7-b9344903585e;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;18;10;DEFECT;false
+fefad07c-c111-4fa4-abbc-685dc307da4a;33;boss;BOSS;Automaton;encounter;NULL;NULL;21;12;DEFECT;false
+ff0e20f5-5e36-4948-b087-e19699d3662d;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;31;12;DEFECT;false
+ff0e20f5-5e36-4948-b087-e19699d3662d;51;boss;BOSS;Awakened One;encounter;NULL;NULL;19;20;DEFECT;false
+016fe2d2-4723-4558-aa81-f4980a023067;33;boss;BOSS;Automaton;encounter;NULL;NULL;19;5;THE_SILENT;true
+0308e65c-56f1-4e84-9caf-40f859474a96;56;boss;BOSS;The Heart;encounter;NULL;NULL;9;11;IRONCLAD;true
+05b25d63-285a-49bb-95dc-599c13322f23;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;27;4;DEFECT;false
+05bc9135-577c-44ca-b70e-3d18bf35b765;33;boss;BOSS;Champ;encounter;NULL;NULL;18;13;DEFECT;false
+05e77ba4-e367-43bd-b88c-e6a36d7da04e;33;boss;BOSS;Automaton;encounter;NULL;NULL;2;5;THE_SILENT;true
+067243b2-0580-4ee4-875f-63ffad9e40cf;16;boss;BOSS;The Guardian;encounter;NULL;NULL;0;9;THE_SILENT;true
+06d20305-64f7-4ba2-9f71-0da40db370f7;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;47;9;DEFECT;false
+06d20305-64f7-4ba2-9f71-0da40db370f7;51;boss;BOSS;Awakened One;encounter;NULL;NULL;48;2;DEFECT;false
+07bc39d1-1c0b-4b86-9915-abd23aa95e3d;16;boss;BOSS;The Guardian;encounter;NULL;NULL;42;17;IRONCLAD;false
+07bc39d1-1c0b-4b86-9915-abd23aa95e3d;51;boss;BOSS;Awakened One;encounter;NULL;NULL;23;3;IRONCLAD;false
+0869f7f5-aa91-4ced-88b5-c63f15e3844e;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;3;10;THE_SILENT;true
+0874f74e-f7aa-4e98-b53d-84fe5820d137;33;boss;BOSS;Automaton;encounter;NULL;NULL;13;8;IRONCLAD;false
+09009911-ff3c-4068-93a6-b9c0464f18ac;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;2;9;THE_SILENT;false
+090ea214-faa5-444d-b39f-bc083d9870bf;33;boss;BOSS;Champ;encounter;NULL;NULL;0;16;DEFECT;true
+0943b170-760a-40ff-87ad-3e9a58f8c6fd;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;24;9;IRONCLAD;false
+0b49d262-2823-4f81-a81e-7e3bf4fe8acd;33;boss;BOSS;Collector;encounter;NULL;NULL;0;5;THE_SILENT;true
+0cecbec2-a200-4b0f-999d-58a7ae9b56b1;33;boss;BOSS;Automaton;encounter;NULL;NULL;2;8;THE_SILENT;false
+0d225781-3525-405a-9161-d8f97af45d00;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;31;6;IRONCLAD;false
+0d7584d6-1da3-498e-9775-3317c497b574;51;boss;BOSS;Time Eater;encounter;NULL;NULL;42;6;IRONCLAD;true
+0db77092-23e6-4dab-8706-1c10f88697b8;16;boss;BOSS;The Guardian;encounter;NULL;NULL;4;9;THE_SILENT;false
+0e7087c6-f7ef-4ec7-ad0c-5819a6385b08;33;boss;BOSS;Automaton;encounter;NULL;NULL;56;10;DEFECT;false
+0fe41590-6550-4402-8de5-a8c7daba2afd;16;boss;BOSS;The Guardian;encounter;NULL;NULL;0;9;THE_SILENT;true
+0fe41590-6550-4402-8de5-a8c7daba2afd;51;boss;BOSS;Time Eater;encounter;NULL;NULL;0;9;THE_SILENT;true
+127b041a-12bd-4033-aaf1-ad5dc7076e67;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;12;6;DEFECT;true
+1373e0ae-5391-4200-839d-73d8633b2d1d;33;boss;BOSS;Collector;encounter;NULL;NULL;9;8;THE_SILENT;true
+1373e0ae-5391-4200-839d-73d8633b2d1d;56;boss;BOSS;The Heart;encounter;NULL;NULL;44;10;THE_SILENT;true
+13d7b27b-ce93-4806-ad7d-d4a1cbfaf031;33;boss;BOSS;Champ;encounter;NULL;NULL;2;14;DEFECT;false
+13d7b27b-ce93-4806-ad7d-d4a1cbfaf031;56;boss;BOSS;The Heart;encounter;NULL;NULL;39;5;DEFECT;false
+14b77026-2fa2-4b1b-8d9c-36fd4426eea7;33;boss;BOSS;Champ;encounter;NULL;NULL;8;12;DEFECT;false
+14e0d60f-75d2-4b41-b2bc-72298cd5ab26;33;boss;BOSS;Champ;encounter;NULL;NULL;49;20;THE_SILENT;true
+1669ba25-cf46-4f98-b5e5-63c1c417935e;50;boss;BOSS;Time Eater;encounter;NULL;NULL;21;15;THE_SILENT;false
+1669ba25-cf46-4f98-b5e5-63c1c417935e;56;boss;BOSS;The Heart;encounter;NULL;NULL;30;5;THE_SILENT;false
+17814037-77a0-4843-8767-4814701d2142;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;32;11;THE_SILENT;false
+17814037-77a0-4843-8767-4814701d2142;51;boss;BOSS;Time Eater;encounter;NULL;NULL;69;12;THE_SILENT;false
+1890469e-03a3-442d-b778-27bb02a48713;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;23;11;THE_SILENT;true
+1890469e-03a3-442d-b778-27bb02a48713;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;5;9;THE_SILENT;true
+1caa3726-ac4b-4c81-bf98-e99e104fb3a9;33;boss;BOSS;Champ;encounter;NULL;NULL;48;10;IRONCLAD;false
+1e28b5a9-f79d-41b6-be2e-1f9a8caedfd6;51;boss;BOSS;Awakened One;encounter;NULL;NULL;125;8;IRONCLAD;false
+1f88b8c3-46e7-49f6-b738-479d009b5a7f;16;boss;BOSS;The Guardian;encounter;NULL;NULL;22;17;THE_SILENT;true
+1f88b8c3-46e7-49f6-b738-479d009b5a7f;51;boss;BOSS;Awakened One;encounter;NULL;NULL;9;20;THE_SILENT;true
+1fde5a61-b7f0-41fc-aa93-55fdcd48953b;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;1;7;DEFECT;true
+2134ae57-699d-4f63-b7ee-76c9e61308b4;33;boss;BOSS;Champ;encounter;NULL;NULL;11;10;THE_SILENT;false
+2134ae57-699d-4f63-b7ee-76c9e61308b4;56;boss;BOSS;The Heart;encounter;NULL;NULL;35;11;THE_SILENT;false
+2166d6b2-540a-4503-84ba-7d17af44efad;50;boss;BOSS;Time Eater;encounter;NULL;NULL;46;4;THE_SILENT;false
+2190c9a5-10d5-43fb-969c-0487c359dee1;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;38;5;DEFECT;false
+220136f1-0530-4c97-96e0-80e282d7901a;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;25;10;IRONCLAD;true
+220136f1-0530-4c97-96e0-80e282d7901a;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;22;8;IRONCLAD;true
+2273a356-6804-44b0-b08e-49012e9ebc5c;16;boss;BOSS;The Guardian;encounter;NULL;NULL;5;10;THE_SILENT;false
+2273a356-6804-44b0-b08e-49012e9ebc5c;51;boss;BOSS;Awakened One;encounter;NULL;NULL;50;22;THE_SILENT;false
+23fe6ece-05cf-4d48-955f-3356fd25d4c8;50;boss;BOSS;Awakened One;encounter;NULL;NULL;5;13;THE_SILENT;true
+27ef0384-0f03-4e7d-b1bf-3ea7c3c75c63;33;boss;BOSS;Collector;encounter;NULL;NULL;57;8;IRONCLAD;false
+28d46f31-dd2f-4ffb-b711-caea0cc6f632;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;4;5;DEFECT;true
+28d46f31-dd2f-4ffb-b711-caea0cc6f632;51;boss;BOSS;Awakened One;encounter;NULL;NULL;37;21;DEFECT;true
+298c81b4-4750-4d1f-8505-b53da184efa5;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;23;7;IRONCLAD;true
+29cddd7e-1ca3-4215-a07a-d92c322afe15;50;boss;BOSS;Donu and Deca;encounter;NULL;NULL;10;15;IRONCLAD;false
+2a398106-8660-4426-8227-cac3377fd7fc;33;boss;BOSS;Champ;encounter;NULL;NULL;51;14;THE_SILENT;false
+2a398106-8660-4426-8227-cac3377fd7fc;56;boss;BOSS;The Heart;encounter;NULL;NULL;49;2;THE_SILENT;false
+2af54f4c-9f0f-4518-9b02-347da5927450;16;boss;BOSS;The Guardian;encounter;NULL;NULL;14;9;IRONCLAD;true
+2c6c9846-1f7e-4b25-a341-37dd351d7e00;51;boss;BOSS;Time Eater;encounter;NULL;NULL;0;27;DEFECT;true
+2caf7861-fd8a-4878-8e4d-99373d024cec;50;boss;BOSS;Donu and Deca;encounter;NULL;NULL;23;12;THE_SILENT;false
+2cb100bf-eb4a-424b-b0d3-23c744629d4d;56;boss;BOSS;The Heart;encounter;NULL;NULL;64;5;THE_SILENT;false
+2efca347-8e8d-4925-8b45-e0f947822e11;16;boss;BOSS;The Guardian;encounter;NULL;NULL;16;16;THE_SILENT;false
+302f5136-958b-476e-bbca-dc9f961d4f04;33;boss;BOSS;Champ;encounter;NULL;NULL;2;14;IRONCLAD;true
+302f5136-958b-476e-bbca-dc9f961d4f04;56;boss;BOSS;The Heart;encounter;NULL;NULL;41;11;IRONCLAD;true
+31a652a6-632e-4821-bdc9-da0be981045b;16;boss;BOSS;The Guardian;encounter;NULL;NULL;22;16;THE_SILENT;false
+31f8009f-06e8-4433-bb22-8ad827e0f594;16;boss;BOSS;The Guardian;encounter;NULL;NULL;13;9;IRONCLAD;false
+325820d6-8536-4aad-8bf1-104a88607b8d;33;boss;BOSS;Collector;encounter;NULL;NULL;0;8;DEFECT;false
+325820d6-8536-4aad-8bf1-104a88607b8d;56;boss;BOSS;The Heart;encounter;NULL;NULL;35;2;DEFECT;false
+325eae9c-1995-4710-ab60-0c0cc40bbf72;56;boss;BOSS;The Heart;encounter;NULL;NULL;36;6;THE_SILENT;false
+32d13e51-5812-4704-916d-00e9221548c7;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;0;4;IRONCLAD;false
+32f85a8a-b3ac-4e4d-a0c9-b204d313eba7;16;boss;BOSS;The Guardian;encounter;NULL;NULL;14;8;THE_SILENT;false
+35637987-16b1-4b8e-bebe-2def9094861c;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;23;9;THE_SILENT;false
+358b57eb-58a3-4ed7-9551-45ad9baaf0bb;33;boss;BOSS;Automaton;encounter;NULL;NULL;36;9;DEFECT;false
+368ab1f9-c517-4794-9d20-780bf9d2edc6;33;boss;BOSS;Automaton;encounter;NULL;NULL;6;7;THE_SILENT;true
+368ab1f9-c517-4794-9d20-780bf9d2edc6;56;boss;BOSS;The Heart;encounter;NULL;NULL;4;5;THE_SILENT;true
+37097f6d-25b5-4583-b08e-2fc227b92276;33;boss;BOSS;Champ;encounter;NULL;NULL;0;12;DEFECT;true
+37097f6d-25b5-4583-b08e-2fc227b92276;56;boss;BOSS;The Heart;encounter;NULL;NULL;17;12;DEFECT;true
+372d98a9-52af-4ee2-8f18-88ecdcd34bb0;33;boss;BOSS;Champ;encounter;NULL;NULL;18;15;THE_SILENT;true
+379f0f28-a164-410c-af3a-ac28d8d359d3;33;boss;BOSS;Champ;encounter;NULL;NULL;16;7;IRONCLAD;true
+3ad1f822-0b7c-492c-9f20-2643c70eb4d9;50;boss;BOSS;Time Eater;encounter;NULL;NULL;0;16;DEFECT;true
+3b0c59b5-ade3-47c9-8fd4-b6b6ddd92eeb;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;3;9;DEFECT;false
+3b0c59b5-ade3-47c9-8fd4-b6b6ddd92eeb;51;boss;BOSS;Time Eater;encounter;NULL;NULL;3;9;DEFECT;false
+3bfb51a5-2095-4e64-90c4-83079d434a10;33;boss;BOSS;Champ;encounter;NULL;NULL;56;13;IRONCLAD;false
+3c347e67-4b05-4377-af49-a39d049f0a8f;50;boss;BOSS;Donu and Deca;encounter;NULL;NULL;83;14;IRONCLAD;true
+3c347e67-4b05-4377-af49-a39d049f0a8f;56;boss;BOSS;The Heart;encounter;NULL;NULL;77;12;IRONCLAD;true
+3d270b2c-84ab-4618-8227-3efb3dcec133;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;20;12;DEFECT;false
+3d42cc1d-0ec3-463e-98e1-a1d448867d7b;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;42;7;IRONCLAD;true
+3d6a5e58-d67c-4347-989f-83905e3fec01;50;boss;BOSS;Time Eater;encounter;NULL;NULL;200;17;IRONCLAD;false
+3e347191-0fee-4efe-8c54-ae7d332aa480;16;boss;BOSS;The Guardian;encounter;NULL;NULL;22;12;DEFECT;false
+3f978574-08a8-4c61-a1a0-5fc404d0337e;50;boss;BOSS;Donu and Deca;encounter;NULL;NULL;13;5;THE_SILENT;true
+3feeb043-ff9a-4044-9e42-c90f16beed8a;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;5;11;DEFECT;true
+3feeb043-ff9a-4044-9e42-c90f16beed8a;51;boss;BOSS;Awakened One;encounter;NULL;NULL;16;14;DEFECT;true
+40791c0d-37fd-4238-b92d-7329440aaa91;16;boss;BOSS;The Guardian;encounter;NULL;NULL;10;12;IRONCLAD;false
+429808f1-882b-43d3-b114-45840f33f324;50;boss;BOSS;Donu and Deca;encounter;NULL;NULL;0;8;DEFECT;true
+429808f1-882b-43d3-b114-45840f33f324;56;boss;BOSS;The Heart;encounter;NULL;NULL;19;9;DEFECT;true
+42a212fe-f345-4cfa-96d2-78770d1ba474;51;boss;BOSS;Time Eater;encounter;NULL;NULL;12;6;IRONCLAD;false
+430009bd-3eb4-4dcb-92e8-05889ad8e23b;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;38;10;DEFECT;false
+43d2194a-b633-4b54-ac53-9892f950c66c;50;boss;BOSS;Donu and Deca;encounter;NULL;NULL;29;4;IRONCLAD;true
+44e09265-9e44-440c-bca7-3a811638326e;50;boss;BOSS;Time Eater;encounter;NULL;NULL;10;6;THE_SILENT;true
+44e09265-9e44-440c-bca7-3a811638326e;56;boss;BOSS;The Heart;encounter;NULL;NULL;12;6;THE_SILENT;true
+455d13cb-ba9c-4237-9cc0-a56e82324c77;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;57;9;IRONCLAD;false
+468b0c77-2ad4-420e-b0d5-6a2720899ebf;50;boss;BOSS;Time Eater;encounter;NULL;NULL;27;10;DEFECT;true
+46cf6e02-47e9-4f9b-910d-b1acc3b5534e;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;0;5;DEFECT;false
+46f79660-7fea-4678-889b-35a8a7c8f122;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;20;9;IRONCLAD;false
+4717ecbf-c853-4964-997b-4bc491e9240f;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;10;10;DEFECT;false
+477497ea-d538-4220-a59d-b25820fe7b56;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;33;5;IRONCLAD;true
+48bbf003-f6fe-4f83-a599-62464babc068;33;boss;BOSS;Automaton;encounter;NULL;NULL;49;7;IRONCLAD;true
+48bbf003-f6fe-4f83-a599-62464babc068;56;boss;BOSS;The Heart;encounter;NULL;NULL;8;5;IRONCLAD;true
+48d4c42d-30a9-4376-a814-6fa30bad082f;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;17;6;IRONCLAD;false
+4c61aff4-c4c7-4e66-8a00-38a14e07b862;51;boss;BOSS;Time Eater;encounter;NULL;NULL;26;11;DEFECT;false
+4caa6794-1087-4a86-aa19-eb2541b1953a;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;28;7;DEFECT;false
+4db425e2-e412-42cd-a635-b6094307b8cb;33;boss;BOSS;Automaton;encounter;NULL;NULL;24;12;DEFECT;false
+4e2c302a-b55f-4d99-bc94-a5a4b6a521fd;16;boss;BOSS;The Guardian;encounter;NULL;NULL;0;8;THE_SILENT;false
+4ea830ad-0119-413e-871b-5d63ddaec760;33;boss;BOSS;Champ;encounter;NULL;NULL;37;7;IRONCLAD;false
+4f3fe7c8-6c39-4abc-aec3-b73e69ce4492;50;boss;BOSS;Donu and Deca;encounter;NULL;NULL;88;9;IRONCLAD;true
+4fe5bdf1-ecbe-469c-a749-9b28bc5ebb11;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;28;5;IRONCLAD;true
+5104b7e5-9621-4feb-8c21-4badf68b4c15;33;boss;BOSS;Automaton;encounter;NULL;NULL;51;10;IRONCLAD;false
+52ce7b8c-913b-440f-92c8-35804825017f;16;boss;BOSS;The Guardian;encounter;NULL;NULL;36;10;DEFECT;false
+542e5d54-bff1-43ab-8be2-4fb32c331602;33;boss;BOSS;Collector;encounter;NULL;NULL;37;7;THE_SILENT;false
+542e5d54-bff1-43ab-8be2-4fb32c331602;56;boss;BOSS;The Heart;encounter;NULL;NULL;47;2;THE_SILENT;false
+54df422f-e784-45b6-b7d5-fde1e89dbd8a;16;boss;BOSS;The Guardian;encounter;NULL;NULL;28;10;DEFECT;true
+54df422f-e784-45b6-b7d5-fde1e89dbd8a;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;18;9;DEFECT;true
+568dd869-3c66-4ade-8368-dd3dbbaa5534;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;6;12;THE_SILENT;true
+584f5129-8fd6-487a-b978-4fbb2128c6ae;33;boss;BOSS;Champ;encounter;NULL;NULL;22;7;IRONCLAD;true
+58ede871-dd5c-4b40-933b-dadbe390b5be;33;boss;BOSS;Automaton;encounter;NULL;NULL;8;9;THE_SILENT;true
+58ede871-dd5c-4b40-933b-dadbe390b5be;56;boss;BOSS;The Heart;encounter;NULL;NULL;15;11;THE_SILENT;true
+594925c4-a1f6-4a4a-8c4b-236642be157f;33;boss;BOSS;Automaton;encounter;NULL;NULL;21;9;THE_SILENT;false
+594925c4-a1f6-4a4a-8c4b-236642be157f;56;boss;BOSS;The Heart;encounter;NULL;NULL;33;3;THE_SILENT;false
+596a3687-72dc-45fe-9d1b-54d6a610e784;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;42;12;THE_SILENT;false
+5a0c1cdf-a6a2-4031-baa3-3a24a811ed24;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;14;7;DEFECT;true
+5b27d78c-2303-4888-a756-b6003b1630fb;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;3;6;DEFECT;false
+5b27d78c-2303-4888-a756-b6003b1630fb;51;boss;BOSS;Time Eater;encounter;NULL;NULL;0;10;DEFECT;false
+5b97d803-c0d6-4f70-8e99-5c6ef149898e;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;42;11;DEFECT;false
+5c840a10-27e1-4e86-9f9e-8d82302935d1;50;boss;BOSS;Time Eater;encounter;NULL;NULL;44;10;IRONCLAD;true
+5cec8c16-29ea-4e08-8c59-5a748fe1f14c;33;boss;BOSS;Champ;encounter;NULL;NULL;3;15;THE_SILENT;true
+5d7dd985-28d1-4643-9709-b80aa8f3d6e3;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;0;4;IRONCLAD;false
+5e2ac71b-6006-4d1a-ab66-6c7abe731378;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;60;9;IRONCLAD;true
+5e42bc21-0a19-4d09-93d2-0bbf8415ba8b;50;boss;BOSS;Awakened One;encounter;NULL;NULL;15;20;DEFECT;true
+5e42bc21-0a19-4d09-93d2-0bbf8415ba8b;56;boss;BOSS;The Heart;encounter;NULL;NULL;29;10;DEFECT;true
+5ef54415-6657-4f83-b2bd-f853d3b60800;50;boss;BOSS;Time Eater;encounter;NULL;NULL;25;11;IRONCLAD;true
+5f037027-ebbd-4d3b-b577-ab7f68e9f848;33;boss;BOSS;Automaton;encounter;NULL;NULL;37;10;THE_SILENT;true
+5f2b4d1e-9ee9-4e34-89df-4b449ca31672;33;boss;BOSS;Champ;encounter;NULL;NULL;79;13;IRONCLAD;false
+60a16857-1a52-46d5-b85b-cdda842f7d2b;33;boss;BOSS;Automaton;encounter;NULL;NULL;29;7;IRONCLAD;true
+6163c46b-cdce-4934-a838-fa4b7adbb6e6;50;boss;BOSS;Donu and Deca;encounter;NULL;NULL;10;10;DEFECT;false
+61980f59-fc04-45c9-95a5-ab4fde384e44;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;13;9;IRONCLAD;false
+64544c7b-9624-4d69-a116-8091abb26645;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;36;9;DEFECT;false
+64987ca9-ccaa-4c2b-80c4-ac327210156f;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;33;10;IRONCLAD;false
+66103a54-8e82-42f6-a0be-da752b319181;33;boss;BOSS;Automaton;encounter;NULL;NULL;22;9;THE_SILENT;false
+66915639-31a3-4ebe-9cc7-7441c8c77c82;33;boss;BOSS;Champ;encounter;NULL;NULL;40;13;IRONCLAD;true
+66915639-31a3-4ebe-9cc7-7441c8c77c82;56;boss;BOSS;The Heart;encounter;NULL;NULL;31;12;IRONCLAD;true
+67356e5b-be2f-4a82-a083-094f053a0de5;33;boss;BOSS;Automaton;encounter;NULL;NULL;21;5;IRONCLAD;true
+67356e5b-be2f-4a82-a083-094f053a0de5;56;boss;BOSS;The Heart;encounter;NULL;NULL;2;8;IRONCLAD;true
+6810d81b-a14c-455b-87d6-73d0e375a091;56;boss;BOSS;The Heart;encounter;NULL;NULL;24;13;THE_SILENT;true
+681cceab-f6ea-4e0f-a58e-20b20886363f;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;1;18;THE_SILENT;true
+6a5232c2-8a04-4aac-ac34-2fb4967cd496;50;boss;BOSS;Time Eater;encounter;NULL;NULL;64;9;THE_SILENT;false
+6ac535f0-98f1-4466-9c5d-83dd1baa5c2a;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;45;8;IRONCLAD;true
+6ac535f0-98f1-4466-9c5d-83dd1baa5c2a;51;boss;BOSS;Awakened One;encounter;NULL;NULL;109;15;IRONCLAD;true
+6c214b74-c18c-4278-86d6-f2b91d5e4544;33;boss;BOSS;Champ;encounter;NULL;NULL;7;9;THE_SILENT;true
+6c214b74-c18c-4278-86d6-f2b91d5e4544;56;boss;BOSS;The Heart;encounter;NULL;NULL;50;9;THE_SILENT;true
+6d23e3ce-a35a-4d98-9a83-6d403f64defd;51;boss;BOSS;Time Eater;encounter;NULL;NULL;0;13;DEFECT;true
+6f0ec1e8-b9c5-408b-9894-fb5343f7ebb8;33;boss;BOSS;Collector;encounter;NULL;NULL;14;15;DEFECT;false
+6fc361ba-ff20-453c-82d8-5b341340ed39;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;10;7;IRONCLAD;false
+6fc361ba-ff20-453c-82d8-5b341340ed39;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;23;4;IRONCLAD;false
+714db194-8a64-438d-b4a4-3a8d76e75886;50;boss;BOSS;Awakened One;encounter;NULL;NULL;6;11;DEFECT;true
+71f775c1-340e-42d1-ad61-67d55c30ad07;16;boss;BOSS;The Guardian;encounter;NULL;NULL;6;15;DEFECT;false
+73a0a815-e9f4-4ae3-9abb-9c9d1c791c06;50;boss;BOSS;Awakened One;encounter;NULL;NULL;5;12;THE_SILENT;false
+75347ba6-9072-47c4-a09a-80ecdce68c85;50;boss;BOSS;Donu and Deca;encounter;NULL;NULL;10;6;THE_SILENT;false
+76b3afaf-77ff-4c48-a983-bce6aa872417;50;boss;BOSS;Awakened One;encounter;NULL;NULL;4;14;DEFECT;true
+76bfba2d-f2f3-49fd-add2-29a9e92c6031;16;boss;BOSS;The Guardian;encounter;NULL;NULL;12;11;DEFECT;false
+78382741-e112-4016-a36b-0dc251acabee;16;boss;BOSS;The Guardian;encounter;NULL;NULL;24;11;IRONCLAD;false
+7a05fa78-a00a-4e6b-8431-6b904167c24b;50;boss;BOSS;Time Eater;encounter;NULL;NULL;0;3;THE_SILENT;true
+7aceba7b-6504-4e8a-97a9-f7d6b4a277a8;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;44;8;IRONCLAD;false
+7bc8dc2e-7415-460e-a216-8465fabb86fd;33;boss;BOSS;Collector;encounter;NULL;NULL;13;3;THE_SILENT;false
+7bcf3adc-5635-449a-8392-ba30791721e5;50;boss;BOSS;Donu and Deca;encounter;NULL;NULL;49;9;IRONCLAD;false
+7c7ec65e-6576-47ba-b5db-ca683b154b67;50;boss;BOSS;Donu and Deca;encounter;NULL;NULL;84;9;THE_SILENT;false
+7da0dd51-6e1d-4a1f-955c-b74dd2a09b7c;16;boss;BOSS;The Guardian;encounter;NULL;NULL;43;5;IRONCLAD;false
+7e3ab96e-a0b9-4fe5-b4fe-fb8700a9ba14;33;boss;BOSS;Automaton;encounter;NULL;NULL;51;9;DEFECT;false
+7f63de53-1757-4f84-b846-06ee2e4b373f;33;boss;BOSS;Champ;encounter;NULL;NULL;11;7;THE_SILENT;true
+7f63de53-1757-4f84-b846-06ee2e4b373f;56;boss;BOSS;The Heart;encounter;NULL;NULL;39;7;THE_SILENT;true
+7fc08aa9-9873-4d60-ae94-dd214b4fa5ca;33;boss;BOSS;Champ;encounter;NULL;NULL;27;9;IRONCLAD;false
+80bd992a-e93f-49a1-9ba9-e72ed70e3e8a;50;boss;BOSS;Donu and Deca;encounter;NULL;NULL;22;10;DEFECT;false
+80bd992a-e93f-49a1-9ba9-e72ed70e3e8a;56;boss;BOSS;The Heart;encounter;NULL;NULL;5;2;DEFECT;false
+81262888-0d67-44fd-9348-3bdfed306340;33;boss;BOSS;Champ;encounter;NULL;NULL;7;14;IRONCLAD;false
+84045b3a-728d-4334-aced-bb47b1bec79e;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;20;7;IRONCLAD;false
+84045b3a-728d-4334-aced-bb47b1bec79e;51;boss;BOSS;Awakened One;encounter;NULL;NULL;50;12;IRONCLAD;false
+8579fc14-5757-4621-8b1a-5e32677267da;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;29;12;DEFECT;false
+881b4b9e-78d2-4290-8092-2a014e1d699e;16;boss;BOSS;The Guardian;encounter;NULL;NULL;12;8;THE_SILENT;false
+891b4d2a-a08a-41aa-b321-b26d8fda2387;33;boss;BOSS;Automaton;encounter;NULL;NULL;40;10;DEFECT;false
+89566558-1019-40a7-85eb-7267f0bf9bb7;16;boss;BOSS;The Guardian;encounter;NULL;NULL;25;13;THE_SILENT;true
+8c3996ff-cfd2-47b2-862c-2948783545f5;16;boss;BOSS;The Guardian;encounter;NULL;NULL;15;11;THE_SILENT;true
+8c3996ff-cfd2-47b2-862c-2948783545f5;51;boss;BOSS;Time Eater;encounter;NULL;NULL;0;13;THE_SILENT;true
+8e894b30-cec4-4251-806e-b141fa3f785e;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;2;11;THE_SILENT;true
+8f0529ae-042f-4384-8325-a79ff92d8955;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;16;6;IRONCLAD;false
+8f4a2714-31f3-4724-bc49-9b1996299b97;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;51;10;IRONCLAD;false
+8f553ad4-34c8-429e-a069-fe70a9199c07;51;boss;BOSS;Time Eater;encounter;NULL;NULL;0;7;THE_SILENT;true
+8f845f7f-5765-4dee-a503-6b1863f9f6b1;50;boss;BOSS;Awakened One;encounter;NULL;NULL;1;13;THE_SILENT;true
+8f845f7f-5765-4dee-a503-6b1863f9f6b1;56;boss;BOSS;The Heart;encounter;NULL;NULL;23;10;THE_SILENT;true
+8f8b70b9-bbc3-4333-b48a-fcc1be2d9529;50;boss;BOSS;Time Eater;encounter;NULL;NULL;0;8;DEFECT;true
+90aa0f80-bb22-4a00-bc2d-9be1154c9c22;51;boss;BOSS;Time Eater;encounter;NULL;NULL;31;9;DEFECT;true
+90c70315-15dd-41c8-98a2-091f2854c376;33;boss;BOSS;Champ;encounter;NULL;NULL;26;16;THE_SILENT;false
+9164f3e7-715a-45a0-bcab-e3b9206f816d;16;boss;BOSS;The Guardian;encounter;NULL;NULL;40;6;DEFECT;false
+91efde29-317f-4633-9fd8-a5abe6744a5b;50;boss;BOSS;Awakened One;encounter;NULL;NULL;20;22;THE_SILENT;false
+93c51ef7-4507-432a-bb89-a59239584e0c;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;0;9;DEFECT;true
+9528f091-243f-4584-8e20-a7632c1bf6a6;33;boss;BOSS;Collector;encounter;NULL;NULL;0;4;IRONCLAD;true
+9658a039-5b7d-4084-bb7b-c7d1561bdcbb;33;boss;BOSS;Automaton;encounter;NULL;NULL;69;9;IRONCLAD;true
+96dd3fc6-9ec3-4484-b479-0297be22e852;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;18;6;DEFECT;false
+9761ea39-84b6-49fa-b031-88e1d1f76f6d;16;boss;BOSS;The Guardian;encounter;NULL;NULL;0;10;THE_SILENT;false
+991db227-834d-4509-af3c-aec384e35f09;50;boss;BOSS;Awakened One;encounter;NULL;NULL;46;24;DEFECT;false
+99d1265b-e11a-4240-b4c6-034189caec9b;33;boss;BOSS;Collector;encounter;NULL;NULL;50;7;IRONCLAD;true
+9a70a0f8-1962-4fa0-8c9f-9b7012d3f89c;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;28;10;DEFECT;true
+9b65b5c9-e4ab-4496-8af3-704e1bb2f729;51;boss;BOSS;Time Eater;encounter;NULL;NULL;53;12;THE_SILENT;false
+9d876897-bb96-4cd6-8db4-e35609ef896e;50;boss;BOSS;Time Eater;encounter;NULL;NULL;14;8;IRONCLAD;true
+9e24af94-5402-42a0-93e6-c3f665cebfab;33;boss;BOSS;Automaton;encounter;NULL;NULL;57;6;DEFECT;false
+9ecac71e-facb-469c-952e-e1978d9a6425;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;26;9;IRONCLAD;false
+9ecac71e-facb-469c-952e-e1978d9a6425;51;boss;BOSS;Time Eater;encounter;NULL;NULL;39;9;IRONCLAD;false
+a03ef8dd-0b8b-40f6-bdba-d8e6e0e7c0cd;50;boss;BOSS;Awakened One;encounter;NULL;NULL;55;18;IRONCLAD;false
+a106509b-6c39-4d98-99fc-bfe4f03b6193;16;boss;BOSS;The Guardian;encounter;NULL;NULL;27;10;THE_SILENT;false
+a1c19822-fc96-424a-81d9-6ab3123b5b54;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;32;9;DEFECT;false
+a1c19822-fc96-424a-81d9-6ab3123b5b54;51;boss;BOSS;Awakened One;encounter;NULL;NULL;37;19;DEFECT;false
+a2fe5512-6f58-4241-a366-c70f1806b953;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;0;9;DEFECT;false
+a385751b-1e85-466d-aea6-46adf759459f;50;boss;BOSS;Time Eater;encounter;NULL;NULL;5;9;THE_SILENT;true
+a3966a96-70ce-4bce-a4ec-f1e88cc4e48b;50;boss;BOSS;Time Eater;encounter;NULL;NULL;15;7;DEFECT;false
+a51a4268-de17-48bf-88a3-34951905f2f4;33;boss;BOSS;Collector;encounter;NULL;NULL;49;10;THE_SILENT;false
+a59538bc-acfc-48ed-93e2-9cccc5ef2897;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;12;6;THE_SILENT;true
+a6db7b30-daa3-4e5c-bb2d-9fac3cf74c73;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;0;9;IRONCLAD;true
+a6dd1c93-428e-4a1b-b4c6-ea6e8836645c;50;boss;BOSS;Awakened One;encounter;NULL;NULL;136;13;IRONCLAD;false
+a6dd1c93-428e-4a1b-b4c6-ea6e8836645c;56;boss;BOSS;The Heart;encounter;NULL;NULL;63;3;IRONCLAD;false
+a793fc2e-1deb-4015-bd3d-6333071fac72;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;50;8;DEFECT;true
+a8c33478-22b1-44bf-9787-9d966523f4ae;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;11;6;DEFECT;true
+a8c33478-22b1-44bf-9787-9d966523f4ae;51;boss;BOSS;Time Eater;encounter;NULL;NULL;33;14;DEFECT;true
+a8e04f82-0b32-4472-bcc7-32561e2f6755;16;boss;BOSS;The Guardian;encounter;NULL;NULL;39;14;IRONCLAD;false
+a9380632-cb16-4e1e-8772-d7ccd6a1ae22;56;boss;BOSS;The Heart;encounter;NULL;NULL;47;7;THE_SILENT;false
+a94df0fd-ea0e-4565-a486-e7ac0201a174;33;boss;BOSS;Champ;encounter;NULL;NULL;39;14;THE_SILENT;true
+a978b576-bb83-4912-8fe5-13a0d32452dd;50;boss;BOSS;Awakened One;encounter;NULL;NULL;19;21;THE_SILENT;false
+a978b576-bb83-4912-8fe5-13a0d32452dd;56;boss;BOSS;The Heart;encounter;NULL;NULL;19;2;THE_SILENT;false
+a9caa674-c984-4e9d-9902-abc41a04ed21;50;boss;BOSS;Awakened One;encounter;NULL;NULL;152;9;IRONCLAD;false
+aaaeb94c-34b2-4838-b1e4-cf4830602f52;16;boss;BOSS;The Guardian;encounter;NULL;NULL;1;13;DEFECT;false
+aaaeb94c-34b2-4838-b1e4-cf4830602f52;51;boss;BOSS;Awakened One;encounter;NULL;NULL;15;2;DEFECT;false
+ad0a14b9-431b-45fc-a122-9320dbc98c7d;33;boss;BOSS;Champ;encounter;NULL;NULL;12;25;DEFECT;false
+ad0f9297-d19e-4272-9bf9-c0e224365ff6;16;boss;BOSS;The Guardian;encounter;NULL;NULL;2;13;IRONCLAD;true
+ad0f9297-d19e-4272-9bf9-c0e224365ff6;51;boss;BOSS;Awakened One;encounter;NULL;NULL;92;15;IRONCLAD;true
+ad7d8cbe-7fdc-4a7c-9db3-b5fb1009be71;16;boss;BOSS;The Guardian;encounter;NULL;NULL;10;9;DEFECT;false
+af573f73-051d-4512-8c3f-210442b144b8;16;boss;BOSS;The Guardian;encounter;NULL;NULL;2;8;IRONCLAD;false
+afb15221-67fa-405f-9691-12ec4c874c66;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;45;9;THE_SILENT;false
+b06ea6d0-cb2e-41c4-abf4-3807b8c112e1;50;boss;BOSS;Donu and Deca;encounter;NULL;NULL;27;8;THE_SILENT;true
+b2386bc6-f5a8-49bb-907a-73c1d6c39436;33;boss;BOSS;Collector;encounter;NULL;NULL;12;5;IRONCLAD;true
+b2abe0da-3aeb-482a-bf07-61fbfc23e324;33;boss;BOSS;Automaton;encounter;NULL;NULL;2;11;THE_SILENT;true
+b2c2e248-bddc-4180-8ff1-dc9677e3a51d;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;23;8;DEFECT;false
+b3606d37-1d01-4aec-a9e3-f8ad253098ad;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;0;6;DEFECT;true
+b3606d37-1d01-4aec-a9e3-f8ad253098ad;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;0;6;DEFECT;true
+b4d95a54-db42-45c8-906b-a3bdec6c6d28;50;boss;BOSS;Awakened One;encounter;NULL;NULL;13;18;THE_SILENT;true
+b6d25362-47bc-4ecb-a310-d327c92bea51;33;boss;BOSS;Automaton;encounter;NULL;NULL;37;8;DEFECT;false
+b78b6438-6e77-4bce-9f3c-f5a03fd20671;16;boss;BOSS;The Guardian;encounter;NULL;NULL;7;9;DEFECT;true
+b78b6438-6e77-4bce-9f3c-f5a03fd20671;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;1;5;DEFECT;true
+b7f52679-cbf0-42f5-8421-8923d7031b9e;33;boss;BOSS;Automaton;encounter;NULL;NULL;52;12;DEFECT;false
+b8dd207c-7215-4c5e-9fd8-c4e17fe47b83;50;boss;BOSS;Awakened One;encounter;NULL;NULL;6;21;THE_SILENT;true
+bbccde02-bdfb-4335-a0db-1289b3a2a1f8;16;boss;BOSS;The Guardian;encounter;NULL;NULL;30;10;IRONCLAD;true
+bbccde02-bdfb-4335-a0db-1289b3a2a1f8;51;boss;BOSS;Time Eater;encounter;NULL;NULL;16;7;IRONCLAD;true
+bf5218c6-21a3-49fa-b81b-40f0d25147b9;16;boss;BOSS;The Guardian;encounter;NULL;NULL;7;13;IRONCLAD;false
+bfce894d-8bd7-4199-9fed-19175b17c927;33;boss;BOSS;Collector;encounter;NULL;NULL;35;8;THE_SILENT;false
+c0f59c0b-c1cc-4ba9-afde-2b6095de0c29;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;22;11;IRONCLAD;false
+c3ba17d0-28a9-4c9d-894f-422f20fccd69;50;boss;BOSS;Donu and Deca;encounter;NULL;NULL;73;15;DEFECT;false
+c48aa38f-eac6-4c41-a5b3-1495f776ac7f;51;boss;BOSS;Time Eater;encounter;NULL;NULL;0;17;THE_SILENT;true
+c551074f-611d-4434-b54f-7a7d81f57493;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;11;6;THE_SILENT;false
+c5594f15-a932-480b-a00f-a33f1467fef8;50;boss;BOSS;Donu and Deca;encounter;NULL;NULL;0;9;THE_SILENT;true
+c85c0c25-a5d2-45cf-ba59-2d02e19abbdb;50;boss;BOSS;Donu and Deca;encounter;NULL;NULL;64;4;IRONCLAD;false
+c97c9040-dad4-4319-a462-a4833d2fddd7;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;47;7;DEFECT;false
+ca4f90b1-9425-40fe-9c5c-f0811812c16b;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;14;10;THE_SILENT;false
+ca6bbba8-66ad-4fbc-92ac-d18d6ca365b0;50;boss;BOSS;Awakened One;encounter;NULL;NULL;2;19;THE_SILENT;false
+cba9636e-15a0-4363-bf52-d3750dc9353a;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;36;11;IRONCLAD;false
+cba9636e-15a0-4363-bf52-d3750dc9353a;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;67;8;IRONCLAD;false
+cd306525-ed0c-4c1a-80ee-4210a3fdf2ba;50;boss;BOSS;Donu and Deca;encounter;NULL;NULL;22;7;IRONCLAD;false
+cd306525-ed0c-4c1a-80ee-4210a3fdf2ba;56;boss;BOSS;The Heart;encounter;NULL;NULL;54;5;IRONCLAD;false
+cdfbc5f0-93cc-4a9e-90ae-c5aa0ef6e3e6;50;boss;BOSS;Time Eater;encounter;NULL;NULL;13;5;IRONCLAD;true
+ce7f69d9-d54e-4e4b-b05d-56b6e6cbac23;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;41;9;DEFECT;false
+d2300357-80e6-408e-8b9e-37b6fe7b2fee;33;boss;BOSS;Automaton;encounter;NULL;NULL;5;8;IRONCLAD;true
+d2c25796-9fa1-43b3-bfe9-840cb21099e2;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;15;9;DEFECT;false
+d3afe392-4f7b-4538-96be-314d5612890f;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;33;6;IRONCLAD;false
+d5d64bf0-e618-4766-bd35-6c2a71dabaec;16;boss;BOSS;The Guardian;encounter;NULL;NULL;6;12;THE_SILENT;false
+d5d64bf0-e618-4766-bd35-6c2a71dabaec;51;boss;BOSS;Time Eater;encounter;NULL;NULL;0;17;THE_SILENT;false
+d61e063a-d971-447a-b216-d99f48b6d546;16;boss;BOSS;The Guardian;encounter;NULL;NULL;19;11;IRONCLAD;true
+d63c1384-8738-4210-b14f-2735008fc1c5;33;boss;BOSS;Collector;encounter;NULL;NULL;35;10;THE_SILENT;true
+d7e691d0-a65d-4518-99b5-65350f637dba;33;boss;BOSS;Champ;encounter;NULL;NULL;9;7;DEFECT;false
+d836a5d2-59c0-4af6-b616-6cfa3725dba4;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;48;6;IRONCLAD;true
+d893a503-aac5-4770-9e1a-09e530559e45;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;46;8;DEFECT;false
+d9a7a844-fc86-42d9-82dc-07dfb55dd244;56;boss;BOSS;The Heart;encounter;NULL;NULL;42;12;THE_SILENT;true
+daea0399-48d2-4b61-9fc9-5a6cf57bdc9a;50;boss;BOSS;Awakened One;encounter;NULL;NULL;42;21;IRONCLAD;true
+db1bf32c-d0aa-4ec8-8d93-5ffe6d58e370;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;51;5;THE_SILENT;false
+db3ce7b2-f658-48f5-9a5f-dc985613d95d;33;boss;BOSS;Champ;encounter;NULL;NULL;38;9;IRONCLAD;true
+dc2dbaf7-732c-4a9f-aab2-0003841f34a2;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;6;6;DEFECT;false
+dc3b7e4a-47fa-4fbe-b8f9-07058835ac9f;33;boss;BOSS;Automaton;encounter;NULL;NULL;3;5;IRONCLAD;true
+dce1d9c1-c4d5-4581-933c-c381eb7b17fe;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;7;7;DEFECT;false
+dd0e7967-d412-477f-8e1b-120f4a874aac;33;boss;BOSS;Automaton;encounter;NULL;NULL;0;14;THE_SILENT;true
+dd0e7967-d412-477f-8e1b-120f4a874aac;56;boss;BOSS;The Heart;encounter;NULL;NULL;0;15;THE_SILENT;true
+dd660489-9009-43f9-be2a-a4d71fa2ceba;16;boss;BOSS;The Guardian;encounter;NULL;NULL;12;9;IRONCLAD;false
+de2ed4db-cbc4-489e-a320-5aa7facc2528;50;boss;BOSS;Donu and Deca;encounter;NULL;NULL;40;15;THE_SILENT;true
+de2ed4db-cbc4-489e-a320-5aa7facc2528;56;boss;BOSS;The Heart;encounter;NULL;NULL;66;11;THE_SILENT;true
+de6edc33-4135-48f3-b5c8-e7a34d1b5bf4;50;boss;BOSS;Awakened One;encounter;NULL;NULL;0;12;THE_SILENT;true
+de6edc33-4135-48f3-b5c8-e7a34d1b5bf4;56;boss;BOSS;The Heart;encounter;NULL;NULL;47;7;THE_SILENT;true
+dff61c55-66cf-4f5e-86ef-626a43806af4;33;boss;BOSS;Champ;encounter;NULL;NULL;33;13;THE_SILENT;false
+e04a939e-10a3-43cf-af94-8e80747adca4;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;27;8;IRONCLAD;false
+e0ac5839-a8a4-4eb1-b630-012d607bda48;56;boss;BOSS;The Heart;encounter;NULL;NULL;21;8;THE_SILENT;true
+e15b2d95-30d8-4064-b872-1afc8347bde6;16;boss;BOSS;The Guardian;encounter;NULL;NULL;29;8;IRONCLAD;false
+e2530450-2d5b-4133-9fea-99657121a587;33;boss;BOSS;Champ;encounter;NULL;NULL;32;8;THE_SILENT;true
+e2fb1c7e-3e2f-4767-9951-f605e3a0703d;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;39;10;DEFECT;false
+e463f901-6b32-4cf3-ac7f-62d7472aaf1f;50;boss;BOSS;Awakened One;encounter;NULL;NULL;11;21;THE_SILENT;false
+e463f901-6b32-4cf3-ac7f-62d7472aaf1f;56;boss;BOSS;The Heart;encounter;NULL;NULL;54;6;THE_SILENT;false
+e48f8de9-af8a-4a75-ac54-4dc13a06a3e1;33;boss;BOSS;Automaton;encounter;NULL;NULL;8;12;THE_SILENT;false
+e537401f-2968-48ee-8a14-0f68cb2b69e7;33;boss;BOSS;Champ;encounter;NULL;NULL;36;8;IRONCLAD;true
+e57d856d-7179-456c-ab83-614cbf3b85b3;50;boss;BOSS;Awakened One;encounter;NULL;NULL;29;9;DEFECT;true
+e57d856d-7179-456c-ab83-614cbf3b85b3;56;boss;BOSS;The Heart;encounter;NULL;NULL;29;6;DEFECT;true
+e5a6aef3-0892-40c3-a2d5-9a76291eb590;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;24;10;IRONCLAD;true
+e703ee29-66c3-4d3e-aadf-293b2b98ba23;50;boss;BOSS;Time Eater;encounter;NULL;NULL;25;10;DEFECT;false
+e7908fbd-762e-4b8c-9b98-b52ef56444cc;33;boss;BOSS;Automaton;encounter;NULL;NULL;8;10;DEFECT;false
+e7dd62f2-e254-482e-a0ac-9491b26db70c;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;15;12;THE_SILENT;false
+e9a84f58-8bd3-46bf-8bae-9bbfa30d67e5;16;boss;BOSS;The Guardian;encounter;NULL;NULL;8;8;THE_SILENT;false
+e9bbbc82-6699-43c6-9c47-6aaa6ab27ed1;16;boss;BOSS;The Guardian;encounter;NULL;NULL;14;11;DEFECT;false
+ea13d8c6-2610-4216-9012-0b1e4d958bc9;51;boss;BOSS;Time Eater;encounter;NULL;NULL;47;8;IRONCLAD;true
+ea901029-e208-49fd-b21a-9a67e4026c18;50;boss;BOSS;Awakened One;encounter;NULL;NULL;23;17;DEFECT;false
+eb7f6e88-8f10-4df8-a89d-0e40fb31d5c5;50;boss;BOSS;Awakened One;encounter;NULL;NULL;24;16;THE_SILENT;false
+ec276160-c1ea-4db5-8ccb-c72acdae49e1;50;boss;BOSS;Time Eater;encounter;NULL;NULL;7;17;DEFECT;true
+ec276160-c1ea-4db5-8ccb-c72acdae49e1;56;boss;BOSS;The Heart;encounter;NULL;NULL;5;10;DEFECT;true
+ef2b2520-6185-46ed-8cb1-3dff16882f1b;50;boss;BOSS;Awakened One;encounter;NULL;NULL;57;12;IRONCLAD;false
+ef4a7114-b98b-48c5-a3d4-f309e261e839;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;0;5;DEFECT;false
+ef4a7114-b98b-48c5-a3d4-f309e261e839;51;boss;BOSS;Time Eater;encounter;NULL;NULL;7;8;DEFECT;false
+f06e41fe-81f9-473b-ad0c-f01824e7c495;50;boss;BOSS;Donu and Deca;encounter;NULL;NULL;0;8;THE_SILENT;true
+f0b794fb-eeb8-411e-9d11-c30165da1f93;50;boss;BOSS;Time Eater;encounter;NULL;NULL;0;16;DEFECT;true
+f182deb9-a039-457f-a4ef-bd68313a6fa4;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;24;8;DEFECT;false
+f1b02f21-e597-4b15-a172-ee4138a1b636;33;boss;BOSS;Champ;encounter;NULL;NULL;27;10;IRONCLAD;false
+f2e1e133-effa-4c4f-b073-6b7d78fa0d08;50;boss;BOSS;Time Eater;encounter;NULL;NULL;4;14;THE_SILENT;true
+f2e1e133-effa-4c4f-b073-6b7d78fa0d08;56;boss;BOSS;The Heart;encounter;NULL;NULL;0;13;THE_SILENT;true
+f50f9188-ece8-408a-8c83-96d31b0613fa;50;boss;BOSS;Awakened One;encounter;NULL;NULL;71;10;IRONCLAD;true
+f50f9188-ece8-408a-8c83-96d31b0613fa;56;boss;BOSS;The Heart;encounter;NULL;NULL;48;7;IRONCLAD;true
+f5ae96c6-3752-42c6-9202-f0c599af8053;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;20;8;IRONCLAD;false
+f625c50c-e707-4ab2-8cf3-3ca9fd473e79;33;boss;BOSS;Collector;encounter;NULL;NULL;43;10;THE_SILENT;true
+f65dd175-ea3f-4a69-ad44-38fa48675b84;51;boss;BOSS;Donu and Deca;encounter;NULL;NULL;11;8;DEFECT;true
+f68663ea-4b40-4e0f-a26e-46b84c1ae84e;50;boss;BOSS;Awakened One;encounter;NULL;NULL;8;15;THE_SILENT;true
+f6dda111-c32c-4400-9405-56fb616a9a74;33;boss;BOSS;Champ;encounter;NULL;NULL;37;18;DEFECT;false
+f75ce721-cf2c-48f4-b1e0-e6b606bfe781;33;boss;BOSS;Automaton;encounter;NULL;NULL;51;9;DEFECT;true
+f75ce721-cf2c-48f4-b1e0-e6b606bfe781;56;boss;BOSS;The Heart;encounter;NULL;NULL;25;10;DEFECT;true
+f8701f91-65f0-4c72-bf6d-7b7255d87b1f;50;boss;BOSS;Awakened One;encounter;NULL;NULL;0;15;THE_SILENT;true
+fa03afbb-de4e-4b0f-a32e-2169844abb7a;33;boss;BOSS;Champ;encounter;NULL;NULL;2;9;THE_SILENT;true
+fa03afbb-de4e-4b0f-a32e-2169844abb7a;56;boss;BOSS;The Heart;encounter;NULL;NULL;56;11;THE_SILENT;true
+fa0c28d5-42cb-4316-bb6c-72645d648a53;33;boss;BOSS;Automaton;encounter;NULL;NULL;0;9;DEFECT;false
+fad0c09c-9225-4214-8feb-676d3d357eb8;33;boss;BOSS;Automaton;encounter;NULL;NULL;45;8;IRONCLAD;false
+fb750146-931d-462f-b2ad-45b198b61499;16;boss;BOSS;Hexaghost;encounter;NULL;NULL;26;7;DEFECT;false
+fbe05472-c2cc-4dfb-8525-5ca8197e06b3;50;boss;BOSS;Awakened One;encounter;NULL;NULL;0;32;THE_SILENT;true
+fbe05472-c2cc-4dfb-8525-5ca8197e06b3;56;boss;BOSS;The Heart;encounter;NULL;NULL;62;13;THE_SILENT;true
+fca80ba4-b41d-4c8b-86ad-09fda7dfbb20;50;boss;BOSS;Awakened One;encounter;NULL;NULL;10;17;THE_SILENT;true
+fca80ba4-b41d-4c8b-86ad-09fda7dfbb20;56;boss;BOSS;The Heart;encounter;NULL;NULL;35;8;THE_SILENT;true
+feb22c9b-b1d8-44e8-9dd2-6c37e73982ff;16;boss;BOSS;Slime Boss;encounter;NULL;NULL;25;9;DEFECT;false
+ff0e20f5-5e36-4948-b087-e19699d3662d;50;boss;BOSS;Time Eater;encounter;NULL;NULL;1;18;DEFECT;false
+fffb3cc4-40fe-420a-a99b-9d0eb048aa4d;16;boss;BOSS;The Guardian;encounter;NULL;NULL;30;9;DEFECT;false
